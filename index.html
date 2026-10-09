@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Cold Case Checker: America's most famous unsolved murders, with news, records, suspects, and a fresh look at what may have been missed.">
+<title>Cold Case Checker: Unsolved Murders, Checked Again</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="assets/coldcase.css">
+</head>
+<body>
+<div class="wrap">
+
+<header class="mast" style="margin-top:14px">
+  <div>
+    <a class="logo" href="index.html" aria-label="Cold Case Checker home">
+      <span class="lg-box" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+      <span class="lg-text" aria-hidden="true"><span class="lg-1">Cold Case</span><span class="lg-2">Checker</span></span>
+    </a>
+    <div class="tag">Cold cases, checked again</div>
+  </div>
+  <div class="datebox"><strong>Thursday, October 8, 2026</strong>Case files updated as they are researched</div>
+</header>
+
+<div class="strip"><b>NEW FILES</b><span>Case files are published as they are researched. Search by name, place, or keyword, or submit a case.</span></div>
+
+<div class="lead">
+  <h1>Every cold case deserves <em>a second look.</em></h1>
+  <p>Cold Case Checker gathers news, official records, and public databases on the best-known unsolved murders in the United States. Each file lays out what happened, who the victims were, every named suspect, and the evidence for and against them. Then it offers a hypothesis and flags the loose ends that may have been missed.</p>
+</div>
+
+<section id="cases">
+  <div class="sec-head">
+    <h2>Unsolved cases</h2>
+    <p>The first nine are the best-known unsolved cases in US history, ranked by how widely each is known and how long it has held public attention. The ranking is editorial, not official. Every other file is listed under More cases, in the order it was researched.</p>
+  </div>
+  <div class="finder" role="search">
+    <label for="case-search" class="finder-label">Find a case</label>
+    <div class="finder-row">
+      <div class="combo">
+        <input id="case-search" type="search" autocomplete="off" placeholder="Type a name, place, year, or keyword…" role="combobox" aria-expanded="false" aria-controls="case-suggest" aria-autocomplete="list">
+        <ul id="case-suggest" class="suggest" role="listbox" hidden></ul>
+      </div>
+      <label class="finder-pick"><span class="sr">Browse all cases</span>
+        <select id="case-picker" aria-label="Browse all cases"><option value="">Browse all cases…</option></select>
+      </label>
+    </div>
+    <p class="fine" id="case-count" aria-live="polite"></p>
+  </div>
+  <div class="state-browse" id="state-browse"></div>
+  <div class="grid" id="case-tiles"></div>
+  <p class="notice" id="no-match" hidden><b>No match yet.</b> We may not have this case. <a href="submit.html">Submit it</a> and we will review it.</p>
+  <p style="margin-top:18px"><a class="btn" href="submit.html">+ Submit a cold case</a></p>
+</section>
+
+<section id="how">
+  <div class="sec-head">
+    <h2>How each file works</h2>
+  </div>
+  <div class="grid">
+    <div class="card"><h3>1. What happened</h3><p>A dated timeline built from police, court, and news records.</p></div>
+    <div class="card"><h3>2. Victims &amp; suspects</h3><p>Everyone publicly named, with evidence for and against, and what is disputed.</p></div>
+    <div class="card"><h3>3. Hypothesis</h3><p>Our reading of the evidence, labeled as opinion, with a stated confidence.</p></div>
+    <div class="card"><h3>4. Missing links</h3><p>Leads, tests, and records that look underexplored, plus live news and database links.</p></div>
+  </div>
+  <p class="notice"><b>Read this.</b> Hypotheses on this site are editorial analysis of public information. They are not findings of fact, and nobody named here has been convicted of these crimes. If you have information about a real case, contact the investigating agency listed on that case's page.</p>
+</section>
+
+<div id="site-contact"></div>
+<footer class="footer">
+  <div class="foot-links"><a href="index.html">Home</a><a href="states.html">Browse by state</a><a href="submit.html">Submit a case</a><a href="terms.html">Terms of Use</a></div>
+  <p class="fine">Cold Case Checker compiles public information using AI and does not replace law-enforcement work. Always verify against the linked sources.</p>
+</footer>
+</div>
+<script src="assets/cases.js"></script>
+<script src="assets/states.js"></script>
+<script src="assets/coldcase.js"></script>
+<script src="assets/contact.js"></script>
+</body>
+</html>

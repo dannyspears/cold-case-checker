@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Submit an unsolved murder to Cold Case Checker for review.">
+<title>Cold Case Checker: Submit a Case</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="assets/coldcase.css">
+</head>
+<body><div class="wrap">
+<nav class="crumbs"><a href="index.html">← All cases</a></nav>
+<header class="mast">
+  <a class="logo" href="index.html" aria-label="Cold Case Checker home">
+    <span class="lg-box" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5" fill="none" stroke="currentColor" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+    <span class="lg-text" aria-hidden="true"><span class="lg-1">Cold Case</span><span class="lg-2">Checker</span></span>
+  </a>
+</header>
+<div class="lead"><h1>Submit a <em>cold case.</em></h1>
+  <p>Old or new, famous or forgotten. Tell us about an unsolved murder in the United States and point us to sources. We review every submission before anything is published.</p></div>
+
+<div class="notice"><b>Before you submit.</b>
+  <ul style="margin:6px 0 0;padding-left:20px">
+    <li><b>This is not a tip line.</b> If you know something that could help solve a crime, contact the investigating agency or <a href="https://tips.fbi.gov/" target="_blank" rel="noopener">tips.fbi.gov</a>.</li>
+    <li>Include at least one published source (news article, court record, agency page). We do not publish claims we cannot trace.</li>
+    <li>Do not name a living person as a suspect unless an agency or a reliable news outlet already has. We will not publish accusations.</li>
+    <li>Please do not send graphic images. Photos of victims or suspects must be free to reuse, or sent by the family with permission.</li>
+  </ul></div>
+
+<form id="submit-form" class="form" novalidate>
+  <label for="f-name">Case name or victim's name *</label>
+  <input id="f-name" name="case_name" required maxlength="140" placeholder="e.g. the victim's name, or what the case is known as">
+
+  <label for="f-when">When did it happen? *</label>
+  <input id="f-when" name="date" required maxlength="60" placeholder="Year, or exact date if known">
+
+  <label for="f-where">Where? *</label>
+  <input id="f-where" name="location" required maxlength="140" placeholder="City, county, and state">
+
+  <label for="f-type">Type</label>
+  <select id="f-type" name="type">
+    <option>Unsolved murder</option><option>Unsolved murders (series)</option><option>Unidentified remains / homicide</option><option>Suspicious death ruled homicide</option><option>Other</option>
+  </select>
+
+  <label for="f-what">What happened? *</label>
+  <p class="hint">Facts only, in your own words. 2–6 sentences is plenty.</p>
+  <textarea id="f-what" name="summary" required maxlength="3000"></textarea>
+
+  <label for="f-agency">Investigating agency, if known</label>
+  <input id="f-agency" name="agency" maxlength="140" placeholder="e.g. Boulder Police Department">
+
+  <label for="f-sources">Sources *</label>
+  <p class="hint">Links to news articles, court records, or agency pages. One per line.</p>
+  <textarea id="f-sources" name="sources" required maxlength="3000"></textarea>
+
+  <label for="f-rel">Your connection to the case</label>
+  <select id="f-rel" name="relationship">
+    <option value="">Prefer not to say</option><option>Family member</option><option>Friend</option><option>Researcher or writer</option><option>Law enforcement</option><option>Interested reader</option>
+  </select>
+
+  <label for="f-email">Your email (optional; never published)</label>
+  <input id="f-email" name="contact_email" type="email" maxlength="140" autocomplete="email">
+
+  <div style="position:absolute;left:-9999px" aria-hidden="true"><label>Leave this empty <input name="website" tabindex="-1" autocomplete="off"></label></div>
+
+  <label style="display:flex;gap:10px;align-items:flex-start;font:14px/1.5 var(--serif)"><input type="checkbox" id="f-ok" required style="width:auto;margin-top:5px"> I understand this site publishes only sourced, reviewed information, and that this is not a way to report a crime.</label>
+
+  <p style="margin-top:18px"><button class="btn" type="submit">Submit for review</button></p>
+  <div id="submit-result" class="notice" hidden aria-live="polite"></div>
+</form>
+
+<div id="site-contact"></div>
+<footer class="footer"><div class="foot-links"><a href="index.html">Home</a><a href="terms.html">Terms of Use</a></div></footer>
+</div>
+<script src="assets/submit.js"></script>
+<script>
+// Browser validation (the form has novalidate so we can show our own message)
+document.getElementById("submit-form").addEventListener("submit", function (e) {
+  var f = e.target;
+  if (!f.checkValidity()) { e.stopImmediatePropagation(); e.preventDefault(); f.reportValidity(); }
+}, true);
+</script>
+<script src="assets/contact.js"></script>
+</body></html>
