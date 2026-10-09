@@ -93,6 +93,12 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-09-22"
                             },
                             {
+                                "title":  "JonBenét Ramsey Investigators \u0027Optimistic\u0027 Cold Case Will Be Solved as \u0027Unidentified Male\u0027 DNA Recovered",
+                                "url":  "https://news.google.com/rss/articles/CBMiigFBVV95cUxNanUxejlsNGR2azVDMFg0RFRoOThBUk9ZNU8xaE4xLXc1SlVtRktxeGVSTFRjT1BFM1ZER08tOEw1dzJVOFJNc1VGamtxWkE2RnE5Qnl4bHV4NHRlemwycFhHUU5reTktbGdtdEljdTVKYWJYUmhHVmxhU2pCamQ0U2tIVTlzcWZYX2c?oc=5",
+                                "source":  "Yahoo Lifestyle Canada",
+                                "date":  "2026-08-21"
+                            },
+                            {
                                 "title":  "JonBenét Ramsey’s father questions DNA testing after ex-CBI analyst pleads guilty",
                                 "url":  "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5X0xTa1dqWlhBNGV4NWY0MkZ5c3czLVBkcl9zZjY2ZnZHMzdpUF9ZRE5jNW0yTkx3UVlvcVVlc1hqcmJ0bmFJamp5RUd2UG4tcEg3eW9UZklXeFhkbUNPWklnUzVKRENZeHI1c0RBTjhjTmvSAXhBVV95cUxOTWZVNEVOUFNLNTAwREhxaDVuYkdfd2NNalp4YjJZb3BoZmxBOXBnb1VkekgwOWJSOHZvSUNhaHI2NDlac1R3bmpwU0JudW1vMEVGb3ZIV1FkQlNlVGhqUXVKM1JNNlpBSEFzQ2VNZVpjTjk1UkF6Tng?oc=5",
                                 "source":  "NewsNation",
@@ -115,12 +121,6 @@ window.NEWS_SNAPSHOT = {
                                 "url":  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdkZ4bjN2YW9Hb1dKZkV0blRkSWNMN05vQTYzcHEteGh0NlkzVnBhNGJPakctbHpWZFc0c2tPcTVBNHNfRFRHZkNfeEtYTlhlY1J5b0o2RHNLZ2ZpTDRSX0VRLWZaWHd2YlJNN1lXM1RlWU83Z29tbXZrQjhGaHFBVkZ0dVFSUTMyZXJzN3FYb2xCSExxa3NNeDN2RDBJdGFBU0dzbTNySEM5TzlWOVdJWFQtZldmbWc?oc=5",
                                 "source":  "The Hollywood Reporter",
                                 "date":  "2026-09-15"
-                            },
-                            {
-                                "title":  "JonBenét Ramsey Investigation Faces Pressure After DNA Experts Make Public Plea",
-                                "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdm05ZzJVMVNCMlFQcU5wZWt4T3RsN3hJUEtxR0tVSmpaSUV5ei1zTzVoQXJlOENoRV9OSXB3RnRLcUVTaXY2MzJNWXluN0NCcWI3dmlKdjNwWC1aazJtX3F6OTYtaF9JbktuS05vRkxkZzQtZEI4SFRwSnVWa0J3YXVvRmFKWWY5aHNtU2I1dl84Z0k?oc=5",
-                                "source":  "Yahoo",
-                                "date":  "2026-07-16"
                             },
                             {
                                 "title":  "EXCLUSIVE: ‘The Murder of JonBenét Ramsey’ has found a new home. The high-profile limited series, starring Melissa McCarthy and Clive Owen, has been picked up by Netflix which will release it as a global original this winter. McCarthy and Owen star as J",
@@ -191,6 +191,12 @@ window.NEWS_SNAPSHOT = {
                              "date":  "2026-08-30"
                          },
                          {
+                             "title":  "A Bombshell Claim Just Upended Every Theory About America’s Most Infamous Murder. The Aftermath Has Been Revealing.",
+                             "url":  "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekJRNlY3NUtQU1Vld1NZN3dTSnQyamlWSUVpZ01KRnozS043a2hvcElQMkJHSUkzS21tLUVnZUVNVU92WEVrTnlSX1AxNDNZSjlpc1FLdHpjZTdTUmZmMm5lWDlweFd1TWRpd1QySjhVeDJrNlNTb2FzVk9DY2xkTFFGanRoNFdVQVdXeG5tMA?oc=5",
+                             "source":  "Slate",
+                             "date":  "2026-04-22"
+                         },
+                         {
                              "title":  "Show Review: The Black Dahlia Murder at The House of Blues in Anaheim, CA",
                              "url":  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEdDaW1FNjRkdHV6SEVfd01lSDdYQ0EwWDIzZUxUVVdBLWQ3TjZrVktuT1lsU1FTTEE3VmZIOGVxVUZHTlUtZlVmTEZkenB3UWtOLVJSQ2JSTjEyYTZhUlVPODI2OHVSNDYyR3VVcUl3S0F6VnIxaHFhUG91TlZZVDZDaWdVWXVZVHZDX2Y1NW1tQWdnX1BiWEg3UTJ0OWUzSkdwblQ3cFo3RWgwTnlRUg?oc=5",
                              "source":  "New Noise Magazine",
@@ -201,12 +207,6 @@ window.NEWS_SNAPSHOT = {
                              "url":  "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOHJiZW9qd1czcXBQYlV6bWEzSWtWR0puRmlpRWlXUXRHM0R0YWpEVklhTURWUzJOVWRTNFMzNlI2Q0VSNTVKVUI3dHdEQ2NXRXlpZWtTMVJUaEs3UE9KcG5YS3F4NzA2azhuZHUyZWxDa1F6c05ONXdiSFA1c3YyZA?oc=5",
                              "source":  "Spectrum Culture",
                              "date":  "2026-08-26"
-                         },
-                         {
-                             "title":  "The Murder America Can’t Quit",
-                             "url":  "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekJRNlY3NUtQU1Vld1NZN3dTSnQyamlWSUVpZ01KRnozS043a2hvcElQMkJHSUkzS21tLUVnZUVNVU92WEVrTnlSX1AxNDNZSjlpc1FLdHpjZTdTUmZmMm5lWDlweFd1TWRpd1QySjhVeDJrNlNTb2FzVk9DY2xkTFFGanRoNFdVQVdXeG5tMA?oc=5",
-                             "source":  "Slate",
-                             "date":  "2026-04-22"
                          },
                          {
                              "title":  "The 7 Most Likely Suspects In The Notoriously Unsolved Case Of The Black Dahlia",
@@ -257,12 +257,6 @@ window.NEWS_SNAPSHOT = {
                               "url":  "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGlSYUJQS3NEdHpmWkhSRHZ3c1B5aU13TG1xOGhKOFZja0F2SDIxOUNFc1pGN255S19Sb2lHbWZXTTZQaFFDMkxSQXNvTm5xMkJEQ1dHRjFqQ05XUENzUncwQXNXSW5paVBoOWJkYUtaX0RQdndFMnM1amMtOEJpelN2ZHBieGFRS0lyeWFXSUZrcktrcGZCbUItbVBvajZ5VHBiZDd3?oc=5",
                               "source":  "RadarOnline",
                               "date":  "2026-08-10"
-                          },
-                          {
-                              "title":  "Diddy’s role in Notorious BIG’s murder remains a mystery",
-                              "url":  "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3VrRGZmMW1yZFlEaWIxeE5QZnlRWGtGdUpqWFZWZUYycmlQMllwQUExMkJsX0JlTG1PNURmalh0d01POUpJSEVwRkdhN3F6emZiTlFWbDg1Z05TZzU2cXB6aFR2R3ctSTVEMzdaQ1loQS1relhfdVNzc21HMGQ0T0Z5NEVab3NUaXZSZjdn?oc=5",
-                              "source":  "hungamaexpress.com",
-                              "date":  "2026-05-21"
                           },
                           {
                               "title":  "Notorious B.I.G. Murder Rumor: Was Someone Recently Questioned?",
@@ -439,12 +433,6 @@ window.NEWS_SNAPSHOT = {
                               "url":  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDA4eDY1eXhTend1MW0xQUtjOGxnSzJ6cVpucGlhX3FhajVsM1R0UjhSQnpOTW5fU0t2VFRhZ00teG5rc2FOdkk4dGR6c2xIRzh0NU03aHZYdHhRemRQNlJLUHJlM3ZJY2VTVzVkZTFaYmJHMzZhS25wMFRGOERxRkUya0dTd1QxRnoyTmtWNWpmbWU4?oc=5",
                               "source":  "Yahoo",
                               "date":  "2026-09-26"
-                          },
-                          {
-                              "title":  "Smart shelving and storage tips to easily organization your space",
-                              "url":  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTVVzMTh1T25XVmZXOFNxUkh4TXVSZ2FkTzR2WDRULVk4bXdpU3pFQVpFaF9VUFBGZG84UWd0c0NUOVljQW10ai01dHljNVEzUXM5aldURFdmemlqZEtDZHZVdUN6OThvRS1qZ2lfUWZLbktNRklMRmlhUk1GQXdna1J2N0psRjNES1RqZHJNeVNuVVZFVWRVUU5VZF9uZ1p5ODd6dkJSNzYyRWxXUjFWSXFYRDVocUd5aWxCTQ?oc=5",
-                              "source":  "Cincinnati Enquirer",
-                              "date":  "2026-08-26"
                           }
                       ],
     "frederick-walker":  [
@@ -680,4 +668,4 @@ window.NEWS_SNAPSHOT = {
                           }
                       ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-09 08:55";
+window.NEWS_SNAPSHOT_AT = "2026-10-09 10:20";
