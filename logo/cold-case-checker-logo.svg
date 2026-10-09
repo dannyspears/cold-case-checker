@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 90" role="img" aria-label="Cold Case Checker">
+<rect x="0" y="10" width="70" height="70" fill="#a31621"/>
+<path d="M17 46l13 13 24-26" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="84" y="35" font-family="Special Elite, Courier New, monospace" font-size="21" letter-spacing="7" fill="#6b645a">COLD CASE</text>
+<text x="82" y="72" font-family="Special Elite, Courier New, monospace" font-size="38" letter-spacing="2" fill="#1c1a17">CHECKER</text>
+</svg>
