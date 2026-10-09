@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Submit an unsolved murder to Cold Case Checker for review.">
+<meta name="description" content="Submit an unsolved murder or missing-person case to Cold Case Checker for review.">
 <title>Cold Case Checker: Submit a Case</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Special+Elite&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <link rel="stylesheet" href="assets/coldcase.css">
@@ -17,18 +17,18 @@
   </a>
 </header>
 <div class="lead"><h1>Submit a <em>cold case.</em></h1>
-  <p>Old or new, famous or forgotten. Tell us about an unsolved murder in the United States and point us to sources. We review every submission before anything is published.</p></div>
+  <p>Old or new, famous or forgotten. Tell us about an unsolved murder or a missing person in the United States and point us to sources. We review every submission before anything is published.</p></div>
 
 <div class="notice"><b>Before you submit.</b>
   <ul style="margin:6px 0 0;padding-left:20px">
     <li><b>This is not a tip line.</b> If you know something that could help solve a crime, contact the investigating agency or <a href="https://tips.fbi.gov/" target="_blank" rel="noopener">tips.fbi.gov</a>.</li>
     <li>Include at least one published source (news article, court record, agency page). We do not publish claims we cannot trace.</li>
     <li>Do not name a living person as a suspect unless an agency or a reliable news outlet already has. We will not publish accusations.</li>
-    <li>Please do not send graphic images. Photos of victims or suspects must be free to reuse, or sent by the family with permission.</li>
+    <li>Please do not send graphic images. Photos of victims, missing people or suspects must be free to reuse, or sent by the family with permission.</li>
   </ul></div>
 
 <form id="submit-form" class="form" novalidate>
-  <label for="f-name">Case name or victim's name *</label>
+  <label for="f-name">Case name or victim's or missing person's name *</label>
   <input id="f-name" name="case_name" required maxlength="140" placeholder="e.g. the victim's name, or what the case is known as">
 
   <label for="f-when">When did it happen? *</label>
@@ -39,7 +39,7 @@
 
   <label for="f-type">Type</label>
   <select id="f-type" name="type">
-    <option>Unsolved murder</option><option>Unsolved murders (series)</option><option>Unidentified remains / homicide</option><option>Suspicious death ruled homicide</option><option>Other</option>
+    <option>Unsolved murder</option><option>Missing person</option><option>Missing person, suspected foul play</option><option>Unsolved murders (series)</option><option>Unidentified remains / homicide</option><option>Suspicious death ruled homicide</option><option>Other</option>
   </select>
 
   <label for="f-what">What happened? *</label>

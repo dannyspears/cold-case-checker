@@ -1,0 +1,6 @@
+# Not part of the public site
+Cold Case Checker/
+_publish/
+.claude/
+tools/
+serve.ps1.bak
