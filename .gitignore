@@ -4,3 +4,4 @@ _publish/
 .claude/
 tools/
 serve.ps1.bak
+reports/
