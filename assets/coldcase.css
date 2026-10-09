@@ -220,3 +220,5 @@ a.chip{text-decoration:none;display:inline-block}
 .reward-box.unconfirmed{background:var(--warn);border-color:var(--warn);color:#14120f}
 .reward-box.historic,.reward-box.none{background:var(--panel);color:var(--ink);border:1px solid var(--rule);border-left:6px solid var(--muted)}
 .reward-box.historic .rw-amt,.reward-box.none .rw-amt{color:var(--muted)}
+.top-title{font:400 clamp(22px,4.4vw,30px) var(--type);margin:22px 0 10px;padding-bottom:8px;border-bottom:2px solid var(--signal);text-wrap:balance}
+.top-title[hidden]{display:none}

@@ -67,6 +67,7 @@
         var md = document.getElementById("more-cases");
         if (md) md.addEventListener("toggle", function () { moreOpen = md.open; });
       }
+      var topTitle = document.getElementById("top-title"); if (topTitle) topTitle.hidden = !!q;
       if (none) none.hidden = r.length > 0;
       var bits = [];
       if (cityFilter) bits.push("in " + cityFilter);
