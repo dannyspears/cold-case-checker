@@ -53,3 +53,6 @@ one when we found none. Re-check rewards in the daily review and update REWARDS_
 
 ## Nancy Guthrie (#41)
 - 	ools/gen-guthrie.ps1. An active missing-person case (kidnapping for ransom), added at the owner's request on Oct 9, 2026, so the page says it is not cold. It uses an Arizona records request (state = 'AZ' in case-region.ps1; 'KY' for Kentucky files). The FBI photo is hotlinked with a credit. Re-check the case often; it is moving.
+
+## Scope
+- The site covers unsolved murders and missing persons (changed Oct 2026). Keep that wording in titles, descriptions, the submit form, and 	ools/build-states.ps1. Missing-person files (Springfield Three, Nancy Guthrie) say clearly when a death is not confirmed.
