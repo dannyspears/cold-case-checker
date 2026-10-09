@@ -179,16 +179,16 @@ window.NEWS_SNAPSHOT = {
                              "date":  "2026-04-15"
                          },
                          {
-                             "title":  "Black Dahlia Murder: Filmmakers Claim They Solved Elizabeth Short Murder Case",
-                             "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ29YTmFWZ3Y5VmZ1eERIN3dtTGVnaGtXSGJQdkFMZkRySFhTRUhCN21SZWN1RVQyejhsNmNzVjVPZkZaTDV0OTItdk1jNVJoenlKQ3JTWGttdGdKQl9KVDJzUVd3eG5FT3ZKM0FiVjhtSGJMTHJQdGQxTVdla3RhRDhpTk41ZnZrSkI4dXlWSFhKRVlUSEk3M0E5N0VtTUZvaFdsRlBZRHI5YWdueEE?oc=5",
-                             "source":  "TV Insider",
-                             "date":  "2026-07-08"
-                         },
-                         {
                              "title":  "Did the Zodiac Kill the Black Dahlia? This Crime Writer Thinks So.",
                              "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdk9DZmNhT3VJSlF6N1Y3SUNsNFVVSXJJOVJzMjc2Mm1vZWl0Qmp4a1g5dnVFVlRGU2t1Nlc5cFlyekR5dG9INnN0RFN6eW90ajMwYzRDd1B4WFBDLW9VNzFHQjJDcWctSlFhUnpjbUgxM3dlNWRRRlhJazhhcjlkalpOendHQVJDWnVReXpTMmEtekU?oc=5",
                              "source":  "The New York Times",
                              "date":  "2026-08-30"
+                         },
+                         {
+                             "title":  "Black Dahlia Murder: Filmmakers Claim They Solved Elizabeth Short Murder Case",
+                             "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ29YTmFWZ3Y5VmZ1eERIN3dtTGVnaGtXSGJQdkFMZkRySFhTRUhCN21SZWN1RVQyejhsNmNzVjVPZkZaTDV0OTItdk1jNVJoenlKQ3JTWGttdGdKQl9KVDJzUVd3eG5FT3ZKM0FiVjhtSGJMTHJQdGQxTVdla3RhRDhpTk41ZnZrSkI4dXlWSFhKRVlUSEk3M0E5N0VtTUZvaFdsRlBZRHI5YWdueEE?oc=5",
+                             "source":  "TV Insider",
+                             "date":  "2026-07-08"
                          },
                          {
                              "title":  "A Bombshell Claim Just Upended Every Theory About America’s Most Infamous Murder. The Aftermath Has Been Revealing.",
@@ -209,16 +209,16 @@ window.NEWS_SNAPSHOT = {
                              "date":  "2026-08-26"
                          },
                          {
-                             "title":  "The 7 Most Likely Suspects In The Notoriously Unsolved Case Of The Black Dahlia",
-                             "url":  "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJbWgyeXFKYl9JdW5OMnprbkdWakYtb3BTOUFKMUM0QktrVEZ3WGx4SXY4ZWx0RGgtdGIxeXQ0Wm96ZnVuZ3Q2VFRyVHZtMThudUZYQmxiZ0J3TExFQ3o4R0xOZw?oc=5",
-                             "source":  "All That\u0027s Interesting",
-                             "date":  "2026-08-13"
-                         },
-                         {
                              "title":  "Black Dahlia Investigators Claim Major New Blood Evidence",
                              "url":  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaVVPS1FiekFia2d0MUk1eEdwS1JTX3Q1aVJLRHBVT3hSUHppQTlTRnFLeFM3cHpPR0ZkU2lnZDV5blJNaW80NVlOYS1pZUJNQkVER0paa3Rra2lVNW5acEFzVFFsbjhKOW5vV1VhZXVVT1R0THNqWGlBNEJQOGFtZzhfU3Nkdm9qeEh5d0pNZGZOYkpBTUFXY2hfRndJaDQyeHRrbGZ1NGNmRF9wX3F2dWhBVXNKNWpfNG5FRm1laE56cmJBQ3FGUmp3aThrLW93b0E?oc=5",
                              "source":  "LAmag",
                              "date":  "2026-07-03"
+                         },
+                         {
+                             "title":  "The 7 Most Likely Suspects In The Notoriously Unsolved Case Of The Black Dahlia",
+                             "url":  "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJbWgyeXFKYl9JdW5OMnprbkdWakYtb3BTOUFKMUM0QktrVEZ3WGx4SXY4ZWx0RGgtdGIxeXQ0Wm96ZnVuZ3Q2VFRyVHZtMThudUZYQmxiZ0J3TExFQ3o4R0xOZw?oc=5",
+                             "source":  "All That\u0027s Interesting",
+                             "date":  "2026-08-13"
                          }
                      ],
     "notorious-big":  [
@@ -257,6 +257,12 @@ window.NEWS_SNAPSHOT = {
                               "url":  "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGlSYUJQS3NEdHpmWkhSRHZ3c1B5aU13TG1xOGhKOFZja0F2SDIxOUNFc1pGN255S19Sb2lHbWZXTTZQaFFDMkxSQXNvTm5xMkJEQ1dHRjFqQ05XUENzUncwQXNXSW5paVBoOWJkYUtaX0RQdndFMnM1amMtOEJpelN2ZHBieGFRS0lyeWFXSUZrcktrcGZCbUItbVBvajZ5VHBiZDd3?oc=5",
                               "source":  "RadarOnline",
                               "date":  "2026-08-10"
+                          },
+                          {
+                              "title":  "Diddy’s role in Notorious BIG’s murder remains a mystery",
+                              "url":  "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3VrRGZmMW1yZFlEaWIxeE5QZnlRWGtGdUpqWFZWZUYycmlQMllwQUExMkJsX0JlTG1PNURmalh0d01POUpJSEVwRkdhN3F6emZiTlFWbDg1Z05TZzU2cXB6aFR2R3ctSTVEMzdaQ1loQS1relhfdVNzc21HMGQ0T0Z5NEVab3NUaXZSZjdn?oc=5",
+                              "source":  "hungamaexpress.com",
+                              "date":  "2026-05-21"
                           },
                           {
                               "title":  "Notorious B.I.G. Murder Rumor: Was Someone Recently Questioned?",
@@ -353,10 +359,10 @@ window.NEWS_SNAPSHOT = {
                                      "date":  "2026-09-03"
                                  },
                                  {
-                                     "title":  "Man Gets 20 Years in Teen’s 1984 ‘Texas Killing Fields’ Death After Her Dad Paid Him $33K for Answers",
-                                     "url":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZll6US1SdHA1LXZfQnc0QmN4eV9Nb2loRWlTV0ZSX3BvcWp0VXI1Y1FpMHppZUZxdTJxTTFZZVFST1VqRGNDMjVsTFlReEJHdzV6N1QtVGtUdWJrdWNuRGJIc1VjVVpINUtTRXdodlpUNlFGdUpIOWk3WUR0aDJReFJGT3RxQTM1dTV2S19LbVd6X2lVUzdRR01lZHhpWFZzZkFKSVU2NmFGM19jal9Pa0FuZUVlS1pwd202cVQyV0xNYkE0REVONw?oc=5",
-                                     "source":  "People.com",
-                                     "date":  "2026-09-03"
+                                     "title":  "Bacliff neighborhood searched for remains of two girls connected to Texas Killing Fields cold cases",
+                                     "url":  "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUdxSVNuQjU0TWFIMXhJMHdQWW5Wc2trTGRBbWhVVk1yWUtQWS1aMUpjRUhaLVFpWVBfUWlsZ0dkaExvSmtfUFI0bVkzOXNEQU5MOV9KQ0N6YVhjeDN1UFQxTWhfSFU5TUFSSm5RdHpoeV90bXJGa3BWdEx6V0g4UjgweEdxd200aDZiVl94WGNIUmhrMjJJcm9iYkpST29sbUx6cDNPVVBVdHJ6cE9GdmhaLTUzaUkyLUEwUG5YUlE2bUxGbnNTN3JxZkRMQmtrQnFXSE1GUE9HcC1ZU1J4RV8yQzVfQQ?oc=5",
+                                     "source":  "KHOU",
+                                     "date":  "2026-04-16"
                                  },
                                  {
                                      "title":  "‘Texas Killing Fields’ suspect pleads not guilty ahead of Aug. 31 trial",
@@ -433,6 +439,12 @@ window.NEWS_SNAPSHOT = {
                               "url":  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDA4eDY1eXhTend1MW0xQUtjOGxnSzJ6cVpucGlhX3FhajVsM1R0UjhSQnpOTW5fU0t2VFRhZ00teG5rc2FOdkk4dGR6c2xIRzh0NU03aHZYdHhRemRQNlJLUHJlM3ZJY2VTVzVkZTFaYmJHMzZhS25wMFRGOERxRkUya0dTd1QxRnoyTmtWNWpmbWU4?oc=5",
                               "source":  "Yahoo",
                               "date":  "2026-09-26"
+                          },
+                          {
+                              "title":  "Smart shelving and storage tips to easily organization your space",
+                              "url":  "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTVVzMTh1T25XVmZXOFNxUkh4TXVSZ2FkTzR2WDRULVk4bXdpU3pFQVpFaF9VUFBGZG84UWd0c0NUOVljQW10ai01dHljNVEzUXM5aldURFdmemlqZEtDZHZVdUN6OThvRS1qZ2lfUWZLbktNRklMRmlhUk1GQXdna1J2N0psRjNES1RqZHJNeVNuVVZFVWRVUU5VZF9uZ1p5ODd6dkJSNzYyRWxXUjFWSXFYRDVocUd5aWxCTQ?oc=5",
+                              "source":  "Cincinnati Enquirer",
+                              "date":  "2026-08-26"
                           }
                       ],
     "frederick-walker":  [
@@ -574,9 +586,9 @@ window.NEWS_SNAPSHOT = {
                          },
                          {
                              "title":  "Former death row inmate sues officers, city for alleged \u0027tunnel vision\u0027 in investigation",
-                             "url":  "https://news.google.com/rss/articles/CBMitgJBVV95cUxNc3I0OGYwV1RfRWN2ZmJ6Y0F4Q3hXT3kzQjZWUDBmUXJEcG1FVXoxem1pek9Ec2dlaloxTHJNai1WX3lLSEVKMTEzZ0VORnpXTFp6dEVtS3hpOWQzZkZHa0Iwd01PR2pLZk9XNElobWpyU3VxQWFzZ3dGSlNvNjdDaTNuNjZvLVE5dDN6aC00VUhQZ0xnQXRQcnJYUy1UZFFyRkV5TmhWRGlKcG9RM29YTl9HT2w2NlRFNXQ5WE5yc1pieHh3c1RuYnNGSUpkS2R3VTV4OUxROVJDUTFzSlJuUFpibF9WSmRVZVdsQ0RTNFVzRWxudnEydWdHN3Ewbm9YdUI4RldTQ1UtRC1VeDk5UWFxRDFLOUdNWFZVNXlkQ19ITHZGVGpadWF5dTAyLUhEX3N3aVFn?oc=5",
-                             "source":  "WKEF",
-                             "date":  "2026-07-30"
+                             "url":  "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbXMzTjlkWXBuUEc4VUV6MmlpS3BxRF9HRTlpdHJwS1BGWG40NTc1bUFaZ191bzI4NDAzQnNuU3ItVjFaWmR4bXNuSnJ0Q0J4OWtnSnpFVS1SY1EzYmh1TUd1M0ItZTA0VzVMSFZDR2lWdHAyTkVTRkFEaVMxeVF1QWN0UzNXeVJhTjNydUFLUlcyZWZQbkZPTmZVdjNndW1TQmNGZl83VFhvaHotajh4SGFVOEFqakx1WEJXck1PYmtwc21kMGh1QmMyeWhnem5kRXhNVHhYV2o5cGJtOXU3TFRCQ3BsOF9ua2xndXRhQklMUzVqZ2hzR0pkV2VSeXZ0WnY4WmdlLUtReS13ODV4REk2QVdid2t3X2kyZUw0ZUZVc0NNSjE4S3dxR2NGSlR1UEdWUEJFRjRkdw?oc=5",
+                             "source":  "WKRC",
+                             "date":  "2026-09-17"
                          }
                      ],
     "william-goebel":  [
@@ -668,4 +680,4 @@ window.NEWS_SNAPSHOT = {
                           }
                       ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-09 10:20";
+window.NEWS_SNAPSHOT_AT = "2026-10-09 13:04";

@@ -102,5 +102,7 @@ window.CASES = [
   { rank: 50, slug: "leslie-cross", cities: ["Bedford Heights, OH"], tags: "leslie cross 1984 bedford heights ohio sherwood village apartments libby road dog collar strangled", page: "leslie-cross.html", status: "live", name: "The Leslie Cross Case", years: "1984", place: "Bedford Heights, Cuyahoga County, Ohio",
     summary: "A 14-year-old found strangled in an apartment hallway after walking her dog. Police say no DNA remains to retest." },
   { rank: 51, slug: "dana-frison", cities: ["Toledo, OH"], tags: "dana frison toledo ohio east side lucas county murder witnesses wtvg 13abc", page: "dana-frison.html", status: "live", name: "The Dana Frison Case", years: "about 2010", place: "Toledo, Lucas County, Ohio",
-    summary: "A man killed in cold blood days after moving into a Toledo house. Multiple people witnessed it." }
+    summary: "A man killed in cold blood days after moving into a Toledo house. Multiple people witnessed it." },
+  { rank: 52, slug: "brianna-maitland", cities: ["Montgomery (Franklin County), VT"], tags: "brianna maitland 2004 montgomery vermont franklin county black lantern inn oldsmobile abandoned barn route 118 missing teen ged fbi reward vermont state police", page: "brianna-maitland.html", status: "live", name: "The Brianna Maitland Case", years: "2004", place: "Montgomery, Franklin County, Vermont",
+    summary: "A 17-year-old who left work at 11:20 p.m. and was never seen again. Her car was backed into an abandoned barn a mile away. The FBI offers up to $40,000." }
 ];
