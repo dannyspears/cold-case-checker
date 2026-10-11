@@ -65,6 +65,12 @@
     "daniel-reaves": { kind: "open", text: "Open · missing since 2008", note: "He has never been found. No foul play is confirmed. We found no arrest.", agency: "the Indiana State Police Versailles District (812-689-5000)" },
     "duane-caldwell": { kind: "open", text: "Open · unsolved", note: "Kentucky State Police asked for tips in 2022. We found no arrest.", agency: "Kentucky State Police Mayfield Post (270-856-3721)" },
     "ann-gotlib": { kind: "open", text: "Open · missing since 1983", note: "Police named a man who died in 2002; no one was ever charged and she has not been found.", agency: "the Louisville Metro Police Department or the FBI Louisville office" },
+
+    "kevin-brame": { kind: "open", text: "Open · unsolved", note: "No arrest. Dayton police have worked it since 1999; a reward of up to $130,000 was reported in 2024.", agency: "the Dayton Police Department or Miami Valley Crime Stoppers (937-222-7867)" },
+    "chris-stafford": { kind: "open", text: "Open · unsolved", note: "The Dayton Police Cold Case Unit is working it. We found no arrest.", agency: "the Dayton Police Cold Case Unit or Miami Valley Crime Stoppers (937-222-7867)" },
+    "keyla-weddel": { kind: "open", text: "Open · unsolved", note: "Listed on the Indiana State Police cold-case page. We found no arrest.", agency: "the Indiana State Police Versailles District (812-689-5000)" },
+    "nancy-lyons": { kind: "open", text: "Open · unsolved", note: "Listed on the Indiana State Police cold-case page. We found no arrest.", agency: "the Indiana State Police Versailles District (812-689-5000)" },
+    "greta-henson": { kind: "open", text: "Open · unsolved", note: "Kentucky State Police renewed their appeal in January 2026. We found no arrest.", agency: "Kentucky State Police Post 10 (606-573-3131)" },
     "brianna-maitland":   { kind: "open",     text: "Active · missing since 2004", note: "Vermont State Police say it is not a cold case. The FBI offers up to $40,000. She has not been found.", agency: "the Vermont State Police (1-844-84-VTIPS) or the FBI Albany office" },
     "cleveland-torso":     { kind: "historic", text: "Unsolved · identification effort", note: "A 2024 effort is trying to identify the unnamed victims. The killer has never been identified.", agency: "the Cleveland Division of Police or the Cuyahoga County Medical Examiner" }  };
   var s = STATUS[slug] || { kind: "open", text: "Unsolved", note: "", agency: "the investigating agency" };

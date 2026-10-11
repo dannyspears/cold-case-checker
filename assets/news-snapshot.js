@@ -70,7 +70,7 @@ window.NEWS_SNAPSHOT = {
                        "title":  "What is Marvel\u0027s \u0027Zodiac\u0027 show about?",
                        "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQxTWdzYlVsdUVXUG5xaXdVcHRYWGtTNkJQS0FLYVpuWXFwTW9RS2owUzlpbkFYZFJhZnJwU1Q0TDdpSjBUdXlYQ2JBd0x0RDl2YzdNT2E0d28tbEU1VG1uOHJaYVRPS09RTm9jVzExMGdNVHI4b1gtaEM3VEc4cTNtYWxUd055U2dFRmd2VllBRnc?oc=5",
                        "source":  "Mashable",
-                       "date":  "2026-10-10"
+                       "date":  "2026-10-09"
                    }
                ],
     "jonbenet-ramsey":  [
@@ -129,16 +129,16 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-07-01"
                             },
                             {
-                                "title":  "‘The Murder Of JonBenét Ramsey’: Release Date On Netflix \u0026 First-Look",
-                                "url":  "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3FScGh2OGJ0NzY5UDVSREJrbE5xSWN2VEpVS2k5emwtZmVKWmdmeXNCbXZvVnY3eG9jQWZZd3dBd2JhUkFubUVCNDE0UldaVlZZYTlXYmMzYlpVQWgzNURrSDMyUFVNZDhhd3BPYjNaWUNqdlhBXzExWVdSSWUxWVZqVFlCOUFWZExWalNFUWppVHBwZ0NiX1M4Z0tuQQ?oc=5",
-                                "source":  "Deadline",
-                                "date":  "2026-09-15"
-                            },
-                            {
                                 "title":  "Murder of JonBenét Ramsey | Case, House, Killer, Brother, Parents, \u0026 Ransom Note",
                                 "url":  "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kMmdNczBrTllWS3lLQldZOE9wcDU2dzA5czA5R2ZoSURWWlFYN1l4NXdfZW9fUDJTSVZJbjhYNy1EU3VLWGFEaVlaS3ZMTEwwd3J6eWZmcHpTWjh3aHdlMGNpZzNwUFNWeHc?oc=5",
                                 "source":  "Britannica",
                                 "date":  "2026-08-20"
+                            },
+                            {
+                                "title":  "‘The Murder Of JonBenét Ramsey’: Release Date On Netflix \u0026 First-Look",
+                                "url":  "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3FScGh2OGJ0NzY5UDVSREJrbE5xSWN2VEpVS2k5emwtZmVKWmdmeXNCbXZvVnY3eG9jQWZZd3dBd2JhUkFubUVCNDE0UldaVlZZYTlXYmMzYlpVQWgzNURrSDMyUFVNZDhhd3BPYjNaWUNqdlhBXzExWVdSSWUxWVZqVFlCOUFWZExWalNFUWppVHBwZ0NiX1M4Z0tuQQ?oc=5",
+                                "source":  "Deadline",
+                                "date":  "2026-09-15"
                             },
                             {
                                 "title":  "JonBenet Ramsey mystery reignited by lab scandal that adds pressure to unleash DNA help dad is ‘begging’ for",
@@ -185,16 +185,16 @@ window.NEWS_SNAPSHOT = {
                              "date":  "2026-10-07"
                          },
                          {
-                             "title":  "Black Dahlia Murder: Filmmakers Claim They Solved Elizabeth Short Murder Case",
-                             "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ29YTmFWZ3Y5VmZ1eERIN3dtTGVnaGtXSGJQdkFMZkRySFhTRUhCN21SZWN1RVQyejhsNmNzVjVPZkZaTDV0OTItdk1jNVJoenlKQ3JTWGttdGdKQl9KVDJzUVd3eG5FT3ZKM0FiVjhtSGJMTHJQdGQxTVdla3RhRDhpTk41ZnZrSkI4dXlWSFhKRVlUSEk3M0E5N0VtTUZvaFdsRlBZRHI5YWdueEE?oc=5",
-                             "source":  "TV Insider",
-                             "date":  "2026-07-08"
-                         },
-                         {
                              "title":  "Did the Zodiac Kill the Black Dahlia? This Crime Writer Thinks So.",
                              "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdk9DZmNhT3VJSlF6N1Y3SUNsNFVVSXJJOVJzMjc2Mm1vZWl0Qmp4a1g5dnVFVlRGU2t1Nlc5cFlyekR5dG9INnN0RFN6eW90ajMwYzRDd1B4WFBDLW9VNzFHQjJDcWctSlFhUnpjbUgxM3dlNWRRRlhJazhhcjlkalpOendHQVJDWnVReXpTMmEtekU?oc=5",
                              "source":  "The New York Times",
                              "date":  "2026-08-30"
+                         },
+                         {
+                             "title":  "Black Dahlia Murder: Filmmakers Claim They Solved Elizabeth Short Murder Case",
+                             "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ29YTmFWZ3Y5VmZ1eERIN3dtTGVnaGtXSGJQdkFMZkRySFhTRUhCN21SZWN1RVQyejhsNmNzVjVPZkZaTDV0OTItdk1jNVJoenlKQ3JTWGttdGdKQl9KVDJzUVd3eG5FT3ZKM0FiVjhtSGJMTHJQdGQxTVdla3RhRDhpTk41ZnZrSkI4dXlWSFhKRVlUSEk3M0E5N0VtTUZvaFdsRlBZRHI5YWdueEE?oc=5",
+                             "source":  "TV Insider",
+                             "date":  "2026-07-08"
                          },
                          {
                              "title":  "A Bombshell Claim Just Upended Every Theory About America’s Most Infamous Murder. The Aftermath Has Been Revealing.",
@@ -353,12 +353,6 @@ window.NEWS_SNAPSHOT = {
                                      "date":  "2026-09-03"
                                  },
                                  {
-                                     "title":  "Man Gets 20 Years in Teen’s 1984 ‘Texas Killing Fields’ Death After Her Dad Paid Him $33K for Answers",
-                                     "url":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZll6US1SdHA1LXZfQnc0QmN4eV9Nb2loRWlTV0ZSX3BvcWp0VXI1Y1FpMHppZUZxdTJxTTFZZVFST1VqRGNDMjVsTFlReEJHdzV6N1QtVGtUdWJrdWNuRGJIc1VjVVpINUtTRXdodlpUNlFGdUpIOWk3WUR0aDJReFJGT3RxQTM1dTV2S19LbVd6X2lVUzdRR01lZHhpWFZzZkFKSVU2NmFGM19jal9Pa0FuZUVlS1pwd202cVQyV0xNYkE0REVONw?oc=5",
-                                     "source":  "People.com",
-                                     "date":  "2026-09-03"
-                                 },
-                                 {
                                      "title":  "‘Texas Killing Fields’ suspect pleads not guilty ahead of Aug. 31 trial",
                                      "url":  "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHlpSDBvNXNHa3pHRUU0bDVwY3pvdTR6dGJnV081VDFkUXEtNG11QjJPV0FiWmRaSUlrejRLQmszaDV1X3NkakhlVFJRZFhOSjRLeXZYNzFQRWJvOXJCQk9hei1GWldNVE5YSE0xLUxJZ1J3em52S1JaU2stY1VtVzAzTnA3WEVzdHZsYVJBbTFsX1hTY1pzUEJrY2MzZ191RU9vRFBfLVVKN3c2endGdWFlNk1RWGRhZnpBZVNkWklpWU4x0gHMAUFVX3lxTE10d3VLOWdpOHBRR1BvVzZWSkhERTBVeXdaM2hLM1VpcUdpT290N0VpYXhrWTBZTTJjMTQyYVlaY3p6aTROQmFEQVpGczZDT1JzdmpTcEtueUlQR3BWX0lnRC1wQjc1aUpQaDRSX1BPT2t5ZHNxU3FOX1ZVOWhSSEh2RnJGQzE0V2ttYVJJZk9fNUtHNllVeFVPVWdfZ19vemF5VW5Md0RaT1hTUVlRc0p3WUgzYmxTMGhidS1CQmVkb1VoUDdTTTFJSGxEbg?oc=5",
                                      "source":  "Houston Public Media",
@@ -383,10 +377,16 @@ window.NEWS_SNAPSHOT = {
                                      "date":  "2026-04-16"
                                  },
                                  {
-                                     "title":  "Texas Killing Fields: Warrants executed at latest suspect\u0027s home",
-                                     "url":  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFBXSnZaZ0lFcnoxYWxYT1pac240UjhyVHdKYVUtMFFEajRtM0pOZUJVSm04TkFaYVBXT0g2R0liT1VXdmVVVFRuY04xa0c1SmRzQ3pqZFFKSEVYMFZkSkM5RS1NakdjOU1rRUp3SzlCSmg0QVdBWjdwemd1eExZdGM1Y1EwVjB2ZFpQLVZJMUhwTjFnbVZJT1NLXzNCSG8zLWNvLWJ6RlVfeWNlX0N0VnJn0gG3AUFVX3lxTE9DXzZ4SElCREFjUy1vSWtlbUQweVhVcHlvcGo0bXdBaFRZNXBpNUNzaDY2YnYtWFJPSm56VXBmS0FSMUIya1g5M3NRQ2NWSVJVSlI0M0NzckJtaWRCbkt6ZUxJaTNNOTQtYXg4MWZUSGd6dEFWWXg5OEFVSXZhMmF3QTFTY1VDV0g0WkNZYUp0aTRHX3V1eWpyYnZtYTVUak5tMFM5NV9ndlN3dUJ6VFhNMTNOT2tKTQ?oc=5",
+                                     "title":  "\"Texas Killing Fields\" suspect indicted after 42 years",
+                                     "url":  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGprWUc2NUZJYm5oN1NqaDZtRzBldlFaeWJ1b3IycXpEREJwLXY0ZTVXbFhBUVNsYW1faE5Sa1c0TUx6ZDBpT2ZsdTJ2VnJVV2N0c0NjU3BZTkRvTWkyY2dMYjhrVDl4WlRwTUhROVA1Q1B3enpIQVhCcW1hemVhbzQ3cWFMb2k10gGOAUFVX3lxTE9PTHY5WFRRSWl6QXFRV1c3UFFoTTNVeHhYajQ1UlBlbGdBb0p3d2Z4WFF2NW5YbGRpWkI2TjJXZGZLYkcta1VpTVMyZTUwUlVTNDZZQ0dvcExpQWlvNmN3NkpRc3FiNnNBMkpyX3R3VndPZWstWFRjVWdSTmJrdWZwbk9XdnJyN3d4cTdQcVE?oc=5",
                                      "source":  "FOX 26 Houston",
-                                     "date":  "2026-04-16"
+                                     "date":  "2026-04-30"
+                                 },
+                                 {
+                                     "title":  "\u0027It\u0027s time to heal\u0027: Families gather at \u0027Texas Killing Fields\u0027 after sentencing decades in the making",
+                                     "url":  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSEF6cWVXSTEyTUJaNWVhYWQ3TEV4LUFaa1ZSN1JZMW8wTmtFblhmTlFxR1VjY3RYbG5CNWdjTWRNczdSM05TdUU4VDI3UGFXN21zRWVJUEVRcl9MUkNMQkdDQUY2VTZEbDMtdGJnVmZnVE9rRU9vWEFoM2t5cjlKNW5VRVhmY1hPTktHMzc4Unc5QlFFX2RXTzNwN3B5VEQ3SVF3OWlqUnLSAa4BQVVfeXFMTm9DTEt1MDB5ejZyS2xKRFR4UllKbXBhcUVXSFNYUEViN1dnQlE3allsRVE0X2FGbzd1VkxzQkFTZUtKSWQ3VU9SYWRsbDJOekVtM3FuemNrWElPc3Y4eEROdFBoMXB6YXNNd192dnlVcEFac2VLY2R1SXN4elMwd20teGJlMzctMGJnT3JSRXlZOTY2MFU2NVhuNEJUNUhoOGpEOHJiRWNrX1ZoUEJB?oc=5",
+                                     "source":  "ABC13 Houston",
+                                     "date":  "2026-09-03"
                                  }
                              ],
     "cleveland-torso":  [
@@ -423,15 +423,15 @@ window.NEWS_SNAPSHOT = {
                         ],
     "bricca-family":  [
                           {
-                              "title":  "The Bricca murders have gone unsolved for 60 years. These women want to change that",
-                              "url":  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdlAyRGVEcy1JTUFSMlZ2ak5yb21MWC0wMzhTY3RTVDl0cTVPRGl4R3hBZXBnaUNDbm5NMUhYMUZvRVFxNE91MjhmbnNNV1REcmhnRnN0Rl9SOXZRdUd3b0ZjdGdOdlJMUHk1d0VmUW9QVFAwR1FMX3J3M29TTlptSVEtS0VCQTdxLXVUNFBkMVlxZzJRNG1rOXFidmtJVEloUkdteDhEMXl3MXZjWnFTdmJ4TVNCZzNremoyeEppaGFaQ1JvTFNROUttT3FwUnBpNlhtTQ?oc=5",
-                              "source":  "Cincinnati Enquirer",
-                              "date":  "2026-09-26"
-                          },
-                          {
                               "title":  "Bricca family murders still unsolved 60 years later. Women seek justice",
                               "url":  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDA4eDY1eXhTend1MW0xQUtjOGxnSzJ6cVpucGlhX3FhajVsM1R0UjhSQnpOTW5fU0t2VFRhZ00teG5rc2FOdkk4dGR6c2xIRzh0NU03aHZYdHhRemRQNlJLUHJlM3ZJY2VTVzVkZTFaYmJHMzZhS25wMFRGOERxRkUya0dTd1QxRnoyTmtWNWpmbWU4?oc=5",
                               "source":  "Yahoo",
+                              "date":  "2026-09-26"
+                          },
+                          {
+                              "title":  "The Bricca murders have gone unsolved for 60 years. These women want to change that",
+                              "url":  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdlAyRGVEcy1JTUFSMlZ2ak5yb21MWC0wMzhTY3RTVDl0cTVPRGl4R3hBZXBnaUNDbm5NMUhYMUZvRVFxNE91MjhmbnNNV1REcmhnRnN0Rl9SOXZRdUd3b0ZjdGdOdlJMUHk1d0VmUW9QVFAwR1FMX3J3M29TTlptSVEtS0VCQTdxLXVUNFBkMVlxZzJRNG1rOXFidmtJVEloUkdteDhEMXl3MXZjWnFTdmJ4TVNCZzNremoyeEppaGFaQ1JvTFNROUttT3FwUnBpNlhtTQ?oc=5",
+                              "source":  "Cincinnati Enquirer",
                               "date":  "2026-09-26"
                           }
                       ],
@@ -637,16 +637,16 @@ window.NEWS_SNAPSHOT = {
                      ],
     "tommy-ballard":  [
                           {
-                              "title":  "The Assassination of Tommy Ballard | Blood Trails Case Files",
-                              "url":  "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVI1czBVYi14enNfRkdHZ2szYXhVWG5LWkxxY1luM1hKODNjWVRGTFM2VEtGY2kzazkwY21CTlFwSWhoSHl4NHdCQUtickRPMjJ2NU5weWJDek14WXl5UUY3c1JETDBSTUZJX1QxVUs0bUpYRzB4S24wbzhxNHhLblByXzBac2ppVDBqZThWUXQtdWZRY1U1aVF3?oc=5",
-                              "source":  "MeatEater",
-                              "date":  "2026-05-13"
-                          },
-                          {
                               "title":  "Bardstown bridge dedicated to Crystal Rogers and Tommy Ballard",
                               "url":  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQXFNaE5IV3c4cTBuUl95U3NUX09BM2VSc1VITGRXbGdwRENkaFhSVUdSdUNjMWt4YXd2dkg0djNHY3U5Y1NNSFJBZWxvX253Rk9JeWcxRXRXblN5T2tFdnhjVXRMd3Ata2d0a2tCUk83RkRBOXN3YzBhWnNQWlRUR0o0MTBJZ3NuNWNPQ1JhV1c3UQ?oc=5",
                               "source":  "Spectrum News",
                               "date":  "2026-09-16"
+                          },
+                          {
+                              "title":  "The Assassination of Tommy Ballard | Blood Trails Case Files",
+                              "url":  "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVI1czBVYi14enNfRkdHZ2szYXhVWG5LWkxxY1luM1hKODNjWVRGTFM2VEtGY2kzazkwY21CTlFwSWhoSHl4NHdCQUtickRPMjJ2NU5weWJDek14WXl5UUY3c1JETDBSTUZJX1QxVUs0bUpYRzB4S24wbzhxNHhLblByXzBac2ppVDBqZThWUXQtdWZRY1U1aVF3?oc=5",
+                              "source":  "MeatEater",
+                              "date":  "2026-05-13"
                           },
                           {
                               "title":  "\u0027I\u0027ll be honored every time.\u0027 | Crystal Rogers and Tommy Ballard memorialized with Bardstown bridge",
@@ -695,6 +695,21 @@ window.NEWS_SNAPSHOT = {
                        ],
     "ann-gotlib":  [
 
-                   ]
+                   ],
+    "kevin-brame":  [
+
+                    ],
+    "chris-stafford":  [
+
+                       ],
+    "keyla-weddel":  [
+
+                     ],
+    "nancy-lyons":  [
+
+                    ],
+    "greta-henson":  [
+
+                     ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-11 02:17";
+window.NEWS_SNAPSHOT_AT = "2026-10-11 14:16";
