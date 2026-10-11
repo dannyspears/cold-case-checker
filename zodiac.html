@@ -486,8 +486,10 @@
 <section id="map">
   <div class="sec-head">
     <h2>Where it happened</h2>
-    <p>A schematic of the four confirmed scenes. It is not to scale and not a survey. For real maps, use the links below.</p>
+    <p>The four confirmed scenes on a real map. Pins and circles are approximate. For other maps, use the links below.</p>
   </div>
+  <div id="casemap" class="casemap" data-label="Map of the four confirmed Zodiac scenes" data-pins='[{"lat":38.0900,"lng":-122.1330,"kind":"area","radius":2200,"title":"Lake Herman Road, Benicia","note":"Dec 20, 1968. David Faraday and Betty Lou Jensen. Area only: the exact turnout is not marked."},{"lat":38.1264,"lng":-122.1889,"kind":"pin","title":"Blue Rock Springs Park, Vallejo","note":"July 4-5, 1969. Darlene Ferrin and Michael Mageau. Park location; the parking-lot spot is approximate."},{"lat":38.5958,"lng":-122.2382,"kind":"area","radius":5500,"title":"Lake Berryessa, Napa County","note":"Sept 27, 1969. Cecelia Shepard and Bryan Hartnell. Area only: the shoreline spot is not marked."},{"lat":37.7880,"lng":-122.4509,"kind":"pin","title":"Washington St and Cherry St, San Francisco","note":"Oct 11, 1969. Cab driver Paul Stine. Intersection, approximate."}]'>
+    <div class="casemap-fallback">
   <svg viewBox="0 0 560 300" role="img" aria-label="Schematic map: Lake Berryessa to the northeast, Vallejo and Benicia in the middle, San Francisco to the southwest" style="width:100%;height:auto;background:var(--panel);border:1px solid var(--rule)">
     <g stroke="var(--muted)" stroke-width="1.2" stroke-dasharray="4 4" fill="none">
       <path d="M95 235 L225 125"/><path d="M225 125 L330 135"/><path d="M225 125 L360 55"/>
@@ -505,6 +507,9 @@
     </g>
     <text x="540" y="290" text-anchor="end" font-family="IBM Plex Mono, monospace" font-size="10" fill="var(--muted)">schematic, not to scale · N is up</text>
   </svg>
+    </div>
+  </div>
+  <p class="casemap-legend">Numbers: 1 Lake Herman Road, 2 Blue Rock Springs, 3 Lake Berryessa, 4 San Francisco. Shaded circles mark an area, not a spot. Locations are approximate and drawn from the places named in our sources; they are not survey points. Map data &copy; OpenStreetMap contributors.</p>
   <div class="photo-row">
     <figure class="ph"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lake_Berryessa%2C_California%2C_looking_northeast_from_Oak_Shore.jpg/960px-Lake_Berryessa%2C_California%2C_looking_northeast_from_Oak_Shore.jpg" alt="Lake Berryessa looking northeast from Oak Shore"><figcaption>Lake Berryessa, looking northeast from Oak Shore. Photo: James Postema, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Lake_Berryessa,_California,_looking_northeast_from_Oak_Shore.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>. A present-day view of the area, not the crime scene.</figcaption></figure>
   </div>
@@ -649,6 +654,7 @@
 <script src="assets/trust.js"></script>
 <script src="assets/tips.js"></script>
 <script src="assets/contact.js"></script>
+<script src="assets/casemap.js" defer></script>
 </body>
 </html>
 

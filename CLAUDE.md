@@ -68,3 +68,9 @@ one when we found none. Re-check rewards in the daily review and update REWARDS_
 
 ## More Ohio AG photos
 - 	ools/add-ag-photos2.ps1 adds AG listing photos by victim name: Bricca family (3), Dumler family (3), Ernestine Hurt, Kenneth Glenn, Jennifer Burgette, Alice Hochhausler. The AG database search (Cold-Case-Search-Results?searchtext=NAME&searchmode=anyword) found NO listing for Cora Durham, Permm Gilbert, Cheryl Fossyl, Lindsay Bogan, Nancy Abrams, John Francis, Leslie Cross, Dana Frison, Cody/Russell, Rhoda Nathan, or the Strangler victims Harrington, Dant, Messer, Winstel, Kerrick, Bowman. AG slugs with the same surname are often different people (Durham = Windom, Gilbert = Dominic, Cross = Geneice, Russell = Ronald): always check name, case number, and place before adding a photo.
+## Case maps
+- `assets/casemap.js` draws a real OpenStreetMap (Leaflet 1.9.4 from unpkg) into a `<div id="casemap" data-pins='[...]'>`; the old SVG sits inside as a fallback. Pins use `kind: "pin"` or `kind: "area"` (with a radius in metres). Only zodiac.html has one so far (sample, Oct 11 2026). Coordinates must be approximate and labelled; never pin a victim's home address.
+## Social assets
+- `tools/make-social-assets.ps1` draws `assets/logo-circle.png/.svg` (profile picture) and `assets/facebook-cover.png` (1640x924; content kept inside the box that both the desktop and mobile Facebook crops show).
+## New batches
+- #53-60 (`gen-set3-a/b.ps1`) and #61-65 (`gen-set4.ps1`): Ohio, southeastern Indiana (state 'IN' in case-region.ps1), Kentucky. All checked for arrests Oct 2026.

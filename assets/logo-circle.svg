@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Cold Case Checker">
+<circle cx="512" cy="512" r="511" fill="#14120f"/>
+<circle cx="512" cy="512" r="485" fill="none" stroke="#c8222f" stroke-width="22"/>
+<rect x="347" y="190" width="330" height="330" rx="59" fill="#c8222f"/>
+<path d="M420 365l66 62 120-140" fill="none" stroke="#fff" stroke-width="43" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="512" y="618" text-anchor="middle" font-family="Courier New, Courier, monospace" font-weight="700" font-size="70" letter-spacing="14" fill="#a39a8a">COLD CASE</text>
+<text x="512" y="755" text-anchor="middle" font-family="Courier New, Courier, monospace" font-weight="700" font-size="128" letter-spacing="6" fill="#efe9dc">CHECKER</text>
+</svg>

@@ -222,3 +222,11 @@ a.chip{text-decoration:none;display:inline-block}
 .reward-box.historic .rw-amt,.reward-box.none .rw-amt{color:var(--muted)}
 .top-title{font:400 clamp(22px,4.4vw,30px) var(--type);margin:22px 0 10px;padding-bottom:8px;border-bottom:2px solid var(--signal);text-wrap:balance}
 .top-title[hidden]{display:none}
+
+/* Case map (assets/casemap.js) */
+.casemap{margin:0 0 8px}
+.casemap-canvas{height:380px;width:100%;border:1px solid var(--rule);background:var(--panel);z-index:0}
+@media (max-width:600px){.casemap-canvas{height:300px}}
+.casemap-num{display:grid;place-items:center;width:18px;height:18px;color:#fff;font:700 11px/1 "IBM Plex Mono",monospace;pointer-events:none}
+.casemap-legend{margin:6px 0 0;font-size:.85rem;color:var(--muted)}
+.casemap .leaflet-popup-content{font:13px/1.4 system-ui,sans-serif;color:#1c1a17}
