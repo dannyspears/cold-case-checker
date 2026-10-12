@@ -74,3 +74,8 @@ one when we found none. Re-check rewards in the daily review and update REWARDS_
 - `tools/make-social-assets.ps1` draws `assets/logo-circle.png/.svg` (profile picture) and `assets/facebook-cover.png` (1640x924; content kept inside the box that both the desktop and mobile Facebook crops show).
 ## New batches
 - #53-60 (`gen-set3-a/b.ps1`) and #61-65 (`gen-set4.ps1`): Ohio, southeastern Indiana (state 'IN' in case-region.ps1), Kentucky. All checked for arrests Oct 2026.
+## Donations
+- `assets/donate.js` adds a slim donation bar as the first thing inside `.wrap` on every page that loads it, and fills `#donate-buttons` on the home page (`#support`) and `donate.html` (why we ask). `tools/add-donate.ps1` adds the script tag to every page; `run-gen.ps1` runs it after every generator. Donations are not tax-deductible (stated on donate.html, index and terms.html#donations).
+- The owner sets Venmo / Cash App / PayPal handles at the top of `assets/donate.js`. Never add or change donation handles or links unless the owner explicitly asks. Empty values show "Coming soon".
+## Forms
+- Formspree endpoints are set in `assets/tips.js` (tips), `assets/contact.js` (contact and photo removals) and `assets/submit.js` (case submissions), turned on Oct 12, 2026. Do not change them unless asked.
