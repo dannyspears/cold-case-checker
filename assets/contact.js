@@ -3,7 +3,7 @@
 // Make a free form at formspree.io (or similar) and paste its https address here.
 // Leave it empty ("") and the form shows "Opening soon" instead of sending.
 window.COLDCASE_CONTACT = {
-  endpoint: ""
+  endpoint: "https://formspree.io/f/xrpeaopz"
 };
 // ─────────────────────────────────────────────────────────────────────────
 (function () {
