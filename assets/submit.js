@@ -1,7 +1,7 @@
 // Case submissions.
 // OWNER SETUP: paste a form endpoint between the quotes (for example a Formspree or Getform URL).
 // While it is empty, the form cannot send anything and offers the entry as text to copy instead.
-window.SUBMIT_ENDPOINT = "";
+window.SUBMIT_ENDPOINT = "https://formspree.io/f/xaeqdleo";
 
 (function () {
   var form = document.getElementById("submit-form");
