@@ -5,3 +5,5 @@ _publish/
 tools/
 serve.ps1.bak
 reports/
+tools/ffmpeg/
+video-work/
