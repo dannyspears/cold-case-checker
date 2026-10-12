@@ -4,7 +4,7 @@
 // Leave it empty ("") and the form shows "Opening soon" instead of sending.
 // Use a different form from the contact form so tips are not mixed with other mail.
 window.COLDCASE_TIPS = {
-  endpoint: ""
+  endpoint: "https://formspree.io/f/maeqdlqo"
 };
 // ─────────────────────────────────────────────────────────────────────────
 (function () {
