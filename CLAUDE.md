@@ -79,3 +79,6 @@ one when we found none. Re-check rewards in the daily review and update REWARDS_
 - The owner sets Venmo / Cash App / PayPal handles at the top of `assets/donate.js`. Never add or change donation handles or links unless the owner explicitly asks. Empty values show "Coming soon".
 ## Forms
 - Formspree endpoints are set in `assets/tips.js` (tips), `assets/contact.js` (contact and photo removals) and `assets/submit.js` (case submissions), turned on Oct 12, 2026. Do not change them unless asked.
+## Cincinnati 2026 set (#66-67)
+- `tools/gen-cincy-2026.ps1`: Daniel "Chaz" Dudley (2007, AG case 1051, AG photo) and Cameron Franklin (2019, no AG listing, silhouette). Added Oct 12, 2026 at the owner's request for Cincinnati cases with Black victims; race is confirmed by the AG listing for Dudley only.
+- Table builders (`Tbl`/`Grid` in case-lib.ps1, and add-coverage.ps1 rows) now wrap a single row so PowerShell cannot flatten it into one-cell rows. All existing pages were repaired Oct 12, 2026.
