@@ -134,5 +134,5 @@ window.CASES = [
   { rank: 66, slug: "chaz-dudley", cities: ["Cincinnati, OH"], tags: "daniel chaz dudley 2007 cincinnati hartwell galbraith road vine street drive-by shooting passenger ucanspeakforme hope dudley hamilton county", page: "chaz-dudley.html", status: "live", name: "The Daniel “Chaz” Dudley Case", years: "2007", place: "Cincinnati, Hamilton County, Ohio",
     summary: "A 26-year-old father was killed in a 4 a.m. drive-by while riding as a passenger. Police believe he was not the target. His mother founded a nonprofit for families of unsolved homicide victims." },
   { rank: 67, slug: "cameron-franklin", cities: ["Cincinnati, OH"], tags: "cameron franklin 2019 cincinnati lower price hill storrs street teen 14 shooting black car lifeguard hamilton county", page: "cameron-franklin.html", status: "live", name: "The Cameron Franklin Case", years: "2019", place: "Lower Price Hill, Cincinnati, Ohio",
-    summary: "A 14-year-old was shot from a passing car after leaving a party in Lower Price Hill. The gun was reportedly linked to three other shootings. No arrests." }
+    summary: "A 14-year-old was shot from a passing car after leaving a party in Lower Price Hill. No arrests have been made." }
 ];
