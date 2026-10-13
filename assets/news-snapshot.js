@@ -135,16 +135,16 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-09-15"
                             },
                             {
-                                "title":  "Murder of JonBenét Ramsey | Case, House, Killer, Brother, Parents, \u0026 Ransom Note",
-                                "url":  "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kMmdNczBrTllWS3lLQldZOE9wcDU2dzA5czA5R2ZoSURWWlFYN1l4NXdfZW9fUDJTSVZJbjhYNy1EU3VLWGFEaVlaS3ZMTEwwd3J6eWZmcHpTWjh3aHdlMGNpZzNwUFNWeHc?oc=5",
-                                "source":  "Britannica",
-                                "date":  "2026-08-20"
-                            },
-                            {
                                 "title":  "EXCLUSIVE: ‘The Murder of JonBenét Ramsey’ has found a new home. The high-profile limited series, starring Melissa McCarthy and Clive Owen, has been picked up by Netflix which will release it as a global original this winter. McCarthy and Owen star as J",
                                 "url":  "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVm1ZVFNPU0NuN0R4QWg2WWRCYzhQbkRJQ2ZxckJuYlBiNFJGRDZXVm5fdjNOTmxBd2gtV2dCWGpNWE9iNG1kd0VhY3dlY3JQZzk3alRid1BnalliVGxaZFB1TjNsXzhxR1VFNDRxeHJ5LTF2ZU1kYUZTVFJoMVI0RUVxQ1p1dlQtek1sZDlSZThUR2NGMXdpVUpZQW1LSzNTcU5oTFY4SmxMc2w4bDRkX2dVczQ2WV9wUjhGb2ZSS0hJeURKWTgwS0c1ZkNZV19ra1Bab21JNWdpQms?oc=5",
                                 "source":  "Facebook",
                                 "date":  "2026-07-01"
+                            },
+                            {
+                                "title":  "Murder of JonBenét Ramsey | Case, House, Killer, Brother, Parents, \u0026 Ransom Note",
+                                "url":  "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kMmdNczBrTllWS3lLQldZOE9wcDU2dzA5czA5R2ZoSURWWlFYN1l4NXdfZW9fUDJTSVZJbjhYNy1EU3VLWGFEaVlaS3ZMTEwwd3J6eWZmcHpTWjh3aHdlMGNpZzNwUFNWeHc?oc=5",
+                                "source":  "Britannica",
+                                "date":  "2026-08-20"
                             }
                         ],
     "black-dahlia":  [
@@ -281,12 +281,6 @@ window.NEWS_SNAPSHOT = {
                          "date":  "2026-08-13"
                      },
                      {
-                         "title":  "The Villisca Axe Murders: America\u0027s Most Haunting Unsolved Crime (1912)",
-                         "url":  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpVWtGWmJFNUdTMi1mWDVzN2pDZWNxOG1TNGF6TDFnT2NjS2o3MnkwYld6amhjSG44eUJtZlU2dUZfNEg0Rk5IS0hsbDI5bmdNRy1wcl80SFZJYVZl?oc=5",
-                         "source":  "YouTube",
-                         "date":  "2026-10-01"
-                     },
-                     {
                          "title":  "Inquiring minds want to know: Whodunit? -",
                          "url":  "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMVlfaE9GZGUxeWVFT2lGaUpKN2U5ZWgzSktrSnJhNk1OM2tsNThySE91RS1SblozZXpqOU84RkpzUTh4b242SDROMUZEanpRWTd2bmRoME5LNWl6aW9SZ0Z6cmFCNTVZczA0eGxITXdQR2l5Sk9JTW1PV3ZvS2hxNThXSFR3SUk4N0RvMW1SbmlyRVcxQnUw?oc=5",
                          "source":  "Messenger News",
@@ -383,16 +377,16 @@ window.NEWS_SNAPSHOT = {
                                      "date":  "2026-09-02"
                                  },
                                  {
-                                     "title":  "\"Texas Killing Fields\" suspect indicted after 42 years",
-                                     "url":  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGprWUc2NUZJYm5oN1NqaDZtRzBldlFaeWJ1b3IycXpEREJwLXY0ZTVXbFhBUVNsYW1faE5Sa1c0TUx6ZDBpT2ZsdTJ2VnJVV2N0c0NjU3BZTkRvTWkyY2dMYjhrVDl4WlRwTUhROVA1Q1B3enpIQVhCcW1hemVhbzQ3cWFMb2k10gGOAUFVX3lxTE9PTHY5WFRRSWl6QXFRV1c3UFFoTTNVeHhYajQ1UlBlbGdBb0p3d2Z4WFF2NW5YbGRpWkI2TjJXZGZLYkcta1VpTVMyZTUwUlVTNDZZQ0dvcExpQWlvNmN3NkpRc3FiNnNBMkpyX3R3VndPZWstWFRjVWdSTmJrdWZwbk9XdnJyN3d4cTdQcVE?oc=5",
-                                     "source":  "FOX 26 Houston",
-                                     "date":  "2026-04-30"
-                                 },
-                                 {
                                      "title":  "Jury proceedings ongoing for trial against James Elmore Jr., who was arrested in connection to \u0027Texas Killing Fields\u0027 case",
                                      "url":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0R3SW4zWEVkQW43Y2prUU1vZ2RPUDJzbXJXTTJPTmZJOG9UVFQ1X0tLVjlCRE02cjVnSXVydmU3Z2x2eVJUZFl0Yng4MnoxY0RZTm1oWFVvLTJmNEthcm1zVHh4UEtVUkVFSlJveXJmeGg5Mjd5eGhDVjdFMnZrdWlsZkxydjFzSXZhUTR5c0htWXdFZnMwSFlEcEt4YUd3b1ZBOFQxOERFZVA2U2dJYUdwNjV5bEpWOFRra1IzbDZxUlo2Q1NrONIBzgFBVV95cUxNdTA5UU0tWGVJWUlELXZVTjBtNjVQSTdGLThoWjFOVVgwZHBCbjF4WktERHhScURwWTFtc3lwQkZYT19mRXhULVpsTkRlek9tUDNiOXMySTdfY3BJM1p6YzZoMmlTNkprbExUXzloM1hQUTJVMExJVjNiQU9mNV81WUZSMDY2R0dwXy1GdDVuMEw0VUhsZ3BvTi1POEpBNFFpSTRzMVNnZjVZeVZVZ2ZZYk5HanZ3aE5GT3dqeXJ4dHlmUS04LUFyUzJwY0JNdw?oc=5",
                                      "source":  "ABC13 Houston",
                                      "date":  "2026-08-31"
+                                 },
+                                 {
+                                     "title":  "\"Texas Killing Fields\" suspect indicted after 42 years",
+                                     "url":  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGprWUc2NUZJYm5oN1NqaDZtRzBldlFaeWJ1b3IycXpEREJwLXY0ZTVXbFhBUVNsYW1faE5Sa1c0TUx6ZDBpT2ZsdTJ2VnJVV2N0c0NjU3BZTkRvTWkyY2dMYjhrVDl4WlRwTUhROVA1Q1B3enpIQVhCcW1hemVhbzQ3cWFMb2k10gGOAUFVX3lxTE9PTHY5WFRRSWl6QXFRV1c3UFFoTTNVeHhYajQ1UlBlbGdBb0p3d2Z4WFF2NW5YbGRpWkI2TjJXZGZLYkcta1VpTVMyZTUwUlVTNDZZQ0dvcExpQWlvNmN3NkpRc3FiNnNBMkpyX3R3VndPZWstWFRjVWdSTmJrdWZwbk9XdnJyN3d4cTdQcVE?oc=5",
+                                     "source":  "FOX 26 Houston",
+                                     "date":  "2026-04-30"
                                  }
                              ],
     "cleveland-torso":  [
@@ -655,21 +649,27 @@ window.NEWS_SNAPSHOT = {
                      ],
     "tommy-ballard":  [
                           {
+                              "title":  "Bardstown bridge dedicated to Crystal Rogers and Tommy Ballard",
+                              "url":  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQXFNaE5IV3c4cTBuUl95U3NUX09BM2VSc1VITGRXbGdwRENkaFhSVUdSdUNjMWt4YXd2dkg0djNHY3U5Y1NNSFJBZWxvX253Rk9JeWcxRXRXblN5T2tFdnhjVXRMd3Ata2d0a2tCUk83RkRBOXN3YzBhWnNQWlRUR0o0MTBJZ3NuNWNPQ1JhV1c3UQ?oc=5",
+                              "source":  "Spectrum News",
+                              "date":  "2026-09-16"
+                          },
+                          {
                               "title":  "The Assassination of Tommy Ballard | Blood Trails Case Files",
                               "url":  "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLVI1czBVYi14enNfRkdHZ2szYXhVWG5LWkxxY1luM1hKODNjWVRGTFM2VEtGY2kzazkwY21CTlFwSWhoSHl4NHdCQUtickRPMjJ2NU5weWJDek14WXl5UUY3c1JETDBSTUZJX1QxVUs0bUpYRzB4S24wbzhxNHhLblByXzBac2ppVDBqZThWUXQtdWZRY1U1aVF3?oc=5",
                               "source":  "MeatEater",
                               "date":  "2026-05-13"
                           },
                           {
-                              "title":  "Bridge in Nelson County dedicated in memory of Crystal Rogers and Tommy Ballard",
-                              "url":  "https://news.google.com/rss/articles/CBMingFBVV95cUxPclNNVWZqaTRsWFpMVklRU2t2UWZxNTAtVGRpWEV3M0VzSXk1SURzaFRHdFFwZTNUUV95UTA2dGxnU1JzcGxoa1Rfc042MDZzS1h1T0p1VFpVYnFlOUc1VnhlU1ZVbGpqRGJaY3JPVjlMYWt1VEF1ak9ORE9uak5Rb2lTWXpJLUNKRldkQndlQzBmTUktN1VIUWE4MXcxdw?oc=5",
-                              "source":  "WLKY",
-                              "date":  "2026-09-15"
-                          },
-                          {
                               "title":  "Bardstown bridge dedicated to Crystal Rogers and Tommy Ballard",
                               "url":  "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekZJVnBKUzZleFo4dF84N3ZscTFNbWdlZjNKRGF3a0c1NGZCNG5reU9NbnFpM2dhbEtpTXhDd3dWdDFXci1nd0ppSkppd21LeVF2VGM5NFdfeUNEY2dieFVWS1RyZEtUallJc0RXZHhJWkdzeTM5UXdDcVEwV1BxN3gxTE5ZTWpYb0JLN2hOQzkxTDdPNGFQNVFSQzlsY00?oc=5",
                               "source":  "WDRB",
+                              "date":  "2026-09-15"
+                          },
+                          {
+                              "title":  "Bridge in Nelson County dedicated in memory of Crystal Rogers and Tommy Ballard",
+                              "url":  "https://news.google.com/rss/articles/CBMingFBVV95cUxPclNNVWZqaTRsWFpMVklRU2t2UWZxNTAtVGRpWEV3M0VzSXk1SURzaFRHdFFwZTNUUV95UTA2dGxnU1JzcGxoa1Rfc042MDZzS1h1T0p1VFpVYnFlOUc1VnhlU1ZVbGpqRGJaY3JPVjlMYWt1VEF1ak9ORE9uak5Rb2lTWXpJLUNKRldkQndlQzBmTUktN1VIUWE4MXcxdw?oc=5",
+                              "source":  "WLKY",
                               "date":  "2026-09-15"
                           },
                           {
@@ -734,6 +734,9 @@ window.NEWS_SNAPSHOT = {
                     ],
     "cameron-franklin":  [
 
-                         ]
+                         ],
+    "paula-phillips":  [
+
+                       ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-12 22:24";
+window.NEWS_SNAPSHOT_AT = "2026-10-12 23:44";
