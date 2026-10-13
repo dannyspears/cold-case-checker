@@ -88,9 +88,11 @@
     });
     // Browse drop-down
     if (picker) {
-      cases.forEach(function (c) {
+      // Alphabetical by name without a leading "The", so new cases sort themselves
+      var bare = function (n) { return n.replace(/^the\s+/i, ""); };
+      cases.slice().sort(function (a, b) { return bare(a.name).localeCompare(bare(b.name)); }).forEach(function (c) {
         var o = document.createElement("option");
-        o.value = c.status === "live" ? c.page : ""; o.textContent = (c.rank <= 9 ? "#" + c.rank + " " : "") + c.name + (c.status === "live" ? "" : " (in progress)");
+        o.value = c.status === "live" ? c.page : ""; o.textContent = (c.rank <= 9 ? "#" + c.rank + " " : "") + bare(c.name) + (c.status === "live" ? "" : " (in progress)");
         if (c.status !== "live") o.disabled = true;
         picker.appendChild(o);
       });

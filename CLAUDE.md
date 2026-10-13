@@ -82,3 +82,5 @@ one when we found none. Re-check rewards in the daily review and update REWARDS_
 ## Cincinnati 2026 set (#66-67)
 - `tools/gen-cincy-2026.ps1`: Daniel "Chaz" Dudley (2007, AG case 1051, AG photo) and Cameron Franklin (2019, no AG listing, silhouette). Added Oct 12, 2026 at the owner's request for Cincinnati cases with Black victims; race is confirmed by the AG listing for Dudley only.
 - Table builders (`Tbl`/`Grid` in case-lib.ps1, and add-coverage.ps1 rows) now wrap a single row so PowerShell cannot flatten it into one-cell rows. All existing pages were repaired Oct 12, 2026.
+## Case drop-downs
+- The home page "Browse all cases" list (assets/coldcase.js) and each state page's "Jump to a case" list (tools/build-states.ps1) drop a leading "The" and sort alphabetically in code, so new cases need no manual ordering. Keep `name` in cases.js as written (with "The").
