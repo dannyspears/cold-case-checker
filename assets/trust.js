@@ -74,6 +74,11 @@
     "chaz-dudley": { kind: "open", text: "Open · unsolved", note: "Cincinnati police list the case as open; it is on the Ohio Attorney General unsolved list (case 1051). We found no arrest.", agency: "the Cincinnati Police Homicide Unit (513-352-3542) or Crime Stoppers (513-352-3040)" },
     "cameron-franklin": { kind: "open", text: "Open · unsolved", note: "No arrests have been made, per FOX19 in Sept 2026.", agency: "the Cincinnati Police Homicide Unit (513-352-3542) or Crime Stoppers (513-352-3040)" },
     "paula-phillips": { kind: "open", text: "Open · unsolved", note: "Family and police believe she was murdered. We found no arrest and no coverage newer than 2014.", agency: "Delhi Township police (confirm first) or Crime Stoppers (513-352-3040)" },
+    "james-hurt": { kind: "open", text: "Open · unsolved", note: "Listed as unsolved on the Ohio Attorney General database (case 996). We found no arrest.", agency: "the Cincinnati Police Homicide Unit (513-352-3542) or Crime Stoppers (513-352-3040)" },
+    "julie-bagby": { kind: "open", text: "Open · unsolved", note: "Listed as unsolved on the Ohio Attorney General database (case 1073). We found no arrest.", agency: "the Cincinnati Police Homicide Unit (513-352-3542) or Crime Stoppers (513-352-3040)" },
+    "micah-wise": { kind: "open", text: "Open · unsolved", note: "Listed as unsolved on the Ohio Attorney General database (case 1016). We found no arrest.", agency: "the Cincinnati Police Homicide Unit (513-352-3542) or Crime Stoppers (513-352-3040)" },
+    "gary-croft": { kind: "open", text: "Open · unsolved", note: "Listed as unsolved on the Ohio Attorney General database (case 1029). We found no arrest.", agency: "the Cincinnati Police Homicide Unit (513-352-3542) or Crime Stoppers (513-352-3040)" },
+    "camrin-starr": { kind: "open", text: "Open · unsolved", note: "Listed as unsolved on the Ohio Attorney General database (case 3109). We found no arrest.", agency: "the Cincinnati Police Homicide Unit (513-352-3542) or Crime Stoppers (513-352-3040)" },
     "brianna-maitland":   { kind: "open",     text: "Active · missing since 2004", note: "Vermont State Police say it is not a cold case. The FBI offers up to $40,000. She has not been found.", agency: "the Vermont State Police (1-844-84-VTIPS) or the FBI Albany office" },
     "cleveland-torso":     { kind: "historic", text: "Unsolved · identification effort", note: "A 2024 effort is trying to identify the unnamed victims. The killer has never been identified.", agency: "the Cleveland Division of Police or the Cuyahoga County Medical Examiner" }  };
   var s = STATUS[slug] || { kind: "open", text: "Unsolved", note: "", agency: "the investigating agency" };
@@ -95,7 +100,7 @@
       var src = (R.links || []).map(function (l) { return '<a href="' + l[0] + '" target="_blank" rel="noopener">' + l[1] + "</a>"; }).join(" · ");
       box.innerHTML = '<span class="rw-label">' + label + '</span>' +
         '<strong class="rw-amt' + (R.amount ? "" : " none") + '">' + (R.amount || "None found") + '</strong>' +
-        '<span class="rw-note">' + R.note + ' <span class="rw-meta">Checked ' + (window.REWARDS_CHECKED || "") + ". Always confirm with the agency before relying on a reward." + (src ? " Source: " + src + "." : "") + "</span></span>";
+        '<span class="rw-note">' + R.note + ' <span class="rw-meta">Checked ' + (R.checked || window.REWARDS_CHECKED || "") + ". Always confirm with the agency before relying on a reward." + (src ? " Source: " + src + "." : "") + "</span></span>";
       b.parentNode.insertBefore(box, b);
     };
     if (window.REWARDS) showReward(); else { var rs = document.createElement("script"); rs.src = "assets/rewards.js"; rs.onload = showReward; document.head.appendChild(rs); }

@@ -84,3 +84,7 @@ one when we found none. Re-check rewards in the daily review and update REWARDS_
 - Table builders (`Tbl`/`Grid` in case-lib.ps1, and add-coverage.ps1 rows) now wrap a single row so PowerShell cannot flatten it into one-cell rows. All existing pages were repaired Oct 12, 2026.
 ## Case drop-downs
 - The home page "Browse all cases" list (assets/coldcase.js) and each state page's "Jump to a case" list (tools/build-states.ps1) drop a leading "The" and sort alphabetically in code, so new cases need no manual ordering. Keep `name` in cases.js as written (with "The").
+## Cincinnati 2026 set B (#69-73)
+- `tools/gen-cincy-2026b.ps1`: James Hurt (2010, AG 996), Julie Bagby (2006, AG 1073), Micah Wise (2009, AG 1016), Gary Croft (2008, AG 1029), Camrin Starr (2015, AG 3109). Found through the Ohio AG search (`.../Cold-Case/Cold-Case-Search-Results?searchtext=Cincinnati&searchmode=anyword&page=N`); each has an AG photo (teaser hotlink) and one FOX19 report. Added Oct 13, 2026. The AG keyword search returns mostly pre-2012 cases; newer ones need other searches.
+- The Bagby Crime Stoppers card gives Oct 22 and 3233 Bowling Green Ct.; the listing and FOX19 say Oct 2 and 3235. The page notes the conflict.
+- Generator dates: `case-lib.ps1` now stamps "Updated" with the run date (override with `updated`), `case-common.ps1` stamps the changelog with the run date, `add-coverage.ps1` entries accept `verified` and `rewards.js` entries accept `checked` to override the global dates for newly checked cases.
