@@ -99,3 +99,7 @@ one when we found none. Re-check rewards in the daily review and update REWARDS_
 - `case-region.ps1` now writes the note under victim cards based on the cards: a silhouette note only when a card shows `vph none`, otherwise "Each photo is credited under the picture." Override with `vNote`.
 - McCray photo: provided by his family via the owner (Oct 14, 2026), cropped to `assets/img/evan-mccray.jpg`; caption says so.
 - McCray nickname: "Bleed" per his family via the owner (Oct 14, 2026); the 2011 obituary printed "Butch." The page notes both.
+## Case titles without "The" (Oct 14, 2026)
+- Owner's rule: case titles named after people or families have no leading "The" ("Paula Phillips Case", "Bricca Family Murders"). Nickname or place-named cases keep it (Zodiac Killer, Cincinnati Strangler, Black Dahlia, Chicago Tylenol, Villisca, Axeman, Springfield Three, Texas Killing Fields, Cleveland Torso, Rocky River Reservation, Hopper Road); the Notorious B.I.G. headline keeps "The" as his stage name.
+- `tools/strip-the.ps1` applies it to cases.js and every page (title, share titles, tag line, tip box, h1, references). `run-gen.ps1` runs it after every generator, before `build-states.ps1`, so new pages need nothing extra. Generators may still write "The X Case"; the strip script fixes it.
+- State pages sort cases alphabetically ignoring a leading "The" (`SortKey` in build-states.ps1) and are rebuilt by run-gen after every new page.
