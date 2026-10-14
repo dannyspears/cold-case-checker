@@ -148,5 +148,7 @@ window.CASES = [
   { rank: 73, slug: "camrin-starr", cities: ["Cincinnati, OH"], tags: "camrin starr 2015 college hill marlowe avenue hamilton avenue apartment complex two suspects cincinnati hamilton county", page: "camrin-starr.html", status: "live", name: "The Camrin Starr Case", years: "2015", place: "College Hill, Cincinnati, Ohio",
     summary: "A 30-year-old was shot at an apartment complex in College Hill. Police sought two men in their mid-20s dressed all in black." },
   { rank: 74, slug: "justin-moore", cities: ["Cincinnati, OH"], tags: "justin moore biggie 2007 bond hill california avenue cincinnati shot robin moore crime stoppers card hamilton county", page: "justin-moore.html", status: "live", name: "The Justin Moore Case", years: "2007", place: "Bond Hill, Cincinnati, Ohio",
-    summary: "A 19-year-old known as Biggie was shot twice in the back of the head on California Avenue in Bond Hill. His mother still holds vigils and asks the killer to come forward." }
+    summary: "A 19-year-old known as Biggie was shot twice in the back of the head on California Avenue in Bond Hill. His mother still holds vigils and asks the killer to come forward." },
+  { rank: 75, slug: "evan-mccray", cities: ["Cincinnati, OH"], tags: "evan mccray butch 2011 mount auburn rice street jefferson avenue passenger shot car cincinnati hamilton county", page: "evan-mccray.html", status: "live", name: "The Evan McCray Case", years: "2011", place: "Mount Auburn, Cincinnati, Ohio",
+    summary: "A 29-year-old father of two was shot in the front passenger seat on Rice Street in Mount Auburn. The driver flagged down an officer, but it was too late. Police released no suspect information." }
 ];
