@@ -764,6 +764,14 @@ window.NEWS_SNAPSHOT = {
                      ],
     "evan-mccray":  [
 
-                    ]
+                    ],
+    "london-harris":  [
+                          {
+                              "title":  "Harris Reed Spring 2027: Drama-queen Energy",
+                              "url":  "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PNTF4UFExcmN1eVZ4Z3YxNGUxZ2FpLU9Zb19wUDVDTHRsX2dFd0MzeFBqQVBWeEVKZ1F4bjlMQUpfTGFVS0NLZDdkajlxaFJtaGR0WXZqa0NkNEx5SXQ2UHRqR3ItOEdqWkZ0RVln?oc=5",
+                              "source":  "WWD",
+                              "date":  "2026-09-19"
+                          }
+                      ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-14 11:12";
+window.NEWS_SNAPSHOT_AT = "2026-10-14 12:17";
