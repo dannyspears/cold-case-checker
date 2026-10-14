@@ -146,5 +146,7 @@ window.CASES = [
   { rank: 72, slug: "gary-croft", cities: ["Cincinnati, OH"], tags: "gary jay croft 2008 avondale gholson avenue reading road prospect avenue cincinnati daytime shooting hamilton county", page: "gary-croft.html", status: "live", name: "The Gary Croft Case", years: "2008", place: "Avondale, Cincinnati, Ohio",
     summary: "A man was shot in broad daylight near Gholson Avenue and Reading Road in Avondale. A second person was shot less than a mile away 45 minutes later." },
   { rank: 73, slug: "camrin-starr", cities: ["Cincinnati, OH"], tags: "camrin starr 2015 college hill marlowe avenue hamilton avenue apartment complex two suspects cincinnati hamilton county", page: "camrin-starr.html", status: "live", name: "The Camrin Starr Case", years: "2015", place: "College Hill, Cincinnati, Ohio",
-    summary: "A 30-year-old was shot at an apartment complex in College Hill. Police sought two men in their mid-20s dressed all in black." }
+    summary: "A 30-year-old was shot at an apartment complex in College Hill. Police sought two men in their mid-20s dressed all in black." },
+  { rank: 74, slug: "justin-moore", cities: ["Cincinnati, OH"], tags: "justin moore biggie 2007 bond hill california avenue cincinnati shot robin moore crime stoppers card hamilton county", page: "justin-moore.html", status: "live", name: "The Justin Moore Case", years: "2007", place: "Bond Hill, Cincinnati, Ohio",
+    summary: "A 19-year-old known as Biggie was shot twice in the back of the head on California Avenue in Bond Hill. His mother still holds vigils and asks the killer to come forward." }
 ];

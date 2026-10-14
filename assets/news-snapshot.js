@@ -61,16 +61,16 @@ window.NEWS_SNAPSHOT = {
                        "date":  "2026-07-25"
                    },
                    {
-                       "title":  "LAPD investigating new fingerprint in Black Dahlia murder case: Report",
-                       "url":  "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXNjTnFJQjRnODRVSU9fX2JGUHlrYkhXMFNiNENZbzctWVlYRER0SnY2SXlEdGZpM0NtZ0w3RXdTZzA2Z2hlNTZISGZXX0tBRFhBaDFSazlKc3dTalcwN0JHVXVhT2tMamJ3bEhpTGZJeXpEaUNfWWNjTXZ5Uk9CV9IBhgFBVV95cUxOMm0xLUttVzRhUW80OHZjNF85SXl5Y1drTjFJNzlWZ0xucmZqYTBXSGotN3F4Q2NveFVoMlZMYUFWNVRFb20tWU1Xc3ZkdkxwQkgzOVpweU50SnZiWnV4bFRjTUlkS2RxOVo3Um5hNGM1MkZfRzlvcnR6dURLTVBTNDBCVWY2UQ?oc=5",
-                       "source":  "NewsNation",
-                       "date":  "2026-05-14"
-                   },
-                   {
                        "title":  "The Zodiac Killer shot cab driver Paul Stine in 1969, the last of his five confirmed murders; San Francisco police marked the case inactive in 2004, then reopened it and still list it as open",
                        "url":  "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrUHlUX2wxVkM3V1A4eTl0RXRaS0xGMnYtNkJCeXA1U21vMUptVWI4MUdYU1RwbEJwTHFhMENkaU9zMnp0VU9HVTAtZ1RHSU85eWdFY2RoV2FIUjJJOVVyeV9SMlYwUzJyaUkwZ3N3?oc=5",
                        "source":  "Parade Magazine",
                        "date":  "2026-10-11"
+                   },
+                   {
+                       "title":  "LAPD investigating new fingerprint in Black Dahlia murder case: Report",
+                       "url":  "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXNjTnFJQjRnODRVSU9fX2JGUHlrYkhXMFNiNENZbzctWVlYRER0SnY2SXlEdGZpM0NtZ0w3RXdTZzA2Z2hlNTZISGZXX0tBRFhBaDFSazlKc3dTalcwN0JHVXVhT2tMamJ3bEhpTGZJeXpEaUNfWWNjTXZ5Uk9CV9IBhgFBVV95cUxOMm0xLUttVzRhUW80OHZjNF85SXl5Y1drTjFJNzlWZ0xucmZqYTBXSGotN3F4Q2NveFVoMlZMYUFWNVRFb20tWU1Xc3ZkdkxwQkgzOVpweU50SnZiWnV4bFRjTUlkS2RxOVo3Um5hNGM1MkZfRzlvcnR6dURLTVBTNDBCVWY2UQ?oc=5",
+                       "source":  "NewsNation",
+                       "date":  "2026-05-14"
                    }
                ],
     "jonbenet-ramsey":  [
@@ -179,16 +179,22 @@ window.NEWS_SNAPSHOT = {
                              "date":  "2026-10-07"
                          },
                          {
+                             "title":  "Black Dahlia Murder: Filmmakers Claim They Solved Elizabeth Short Murder Case",
+                             "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ29YTmFWZ3Y5VmZ1eERIN3dtTGVnaGtXSGJQdkFMZkRySFhTRUhCN21SZWN1RVQyejhsNmNzVjVPZkZaTDV0OTItdk1jNVJoenlKQ3JTWGttdGdKQl9KVDJzUVd3eG5FT3ZKM0FiVjhtSGJMTHJQdGQxTVdla3RhRDhpTk41ZnZrSkI4dXlWSFhKRVlUSEk3M0E5N0VtTUZvaFdsRlBZRHI5YWdueEE?oc=5",
+                             "source":  "TV Insider",
+                             "date":  "2026-07-08"
+                         },
+                         {
                              "title":  "Did the Zodiac Kill the Black Dahlia? This Crime Writer Thinks So.",
                              "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdk9DZmNhT3VJSlF6N1Y3SUNsNFVVSXJJOVJzMjc2Mm1vZWl0Qmp4a1g5dnVFVlRGU2t1Nlc5cFlyekR5dG9INnN0RFN6eW90ajMwYzRDd1B4WFBDLW9VNzFHQjJDcWctSlFhUnpjbUgxM3dlNWRRRlhJazhhcjlkalpOendHQVJDWnVReXpTMmEtekU?oc=5",
                              "source":  "The New York Times",
                              "date":  "2026-08-30"
                          },
                          {
-                             "title":  "Black Dahlia Murder: Filmmakers Claim They Solved Elizabeth Short Murder Case",
-                             "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ29YTmFWZ3Y5VmZ1eERIN3dtTGVnaGtXSGJQdkFMZkRySFhTRUhCN21SZWN1RVQyejhsNmNzVjVPZkZaTDV0OTItdk1jNVJoenlKQ3JTWGttdGdKQl9KVDJzUVd3eG5FT3ZKM0FiVjhtSGJMTHJQdGQxTVdla3RhRDhpTk41ZnZrSkI4dXlWSFhKRVlUSEk3M0E5N0VtTUZvaFdsRlBZRHI5YWdueEE?oc=5",
-                             "source":  "TV Insider",
-                             "date":  "2026-07-08"
+                             "title":  "The curious, unsolved mystery of “The Black Dahlia”",
+                             "url":  "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ3JtUHptRl9qR1FpUGxRajhqYzMyb2o4YVdDc3R1aVdUQUlmUlREWjRLaHp1c1ExMnRFV0JNVzg1cTQ2NDVxcjVLWFZuRGVTb1ZLVE5KQjNqeVljVGFSVWJoUTVvTVhzM1VYZnI0S0loRUpMeXdob3N5Y19QZ0lDSmJWbUV1d05GOVE?oc=5",
+                             "source":  "Salon.com",
+                             "date":  "2026-09-18"
                          },
                          {
                              "title":  "A Bombshell Claim Just Upended Every Theory About America’s Most Infamous Murder. The Aftermath Has Been Revealing.",
@@ -213,20 +219,14 @@ window.NEWS_SNAPSHOT = {
                              "url":  "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJbWgyeXFKYl9JdW5OMnprbkdWakYtb3BTOUFKMUM0QktrVEZ3WGx4SXY4ZWx0RGgtdGIxeXQ0Wm96ZnVuZ3Q2VFRyVHZtMThudUZYQmxiZ0J3TExFQ3o4R0xOZw?oc=5",
                              "source":  "All That\u0027s Interesting",
                              "date":  "2026-08-13"
-                         },
-                         {
-                             "title":  "Arch Enemy and Black Dahlia Murder Team Up for Extensive Co-Headlining Fall 2026 North American Tour",
-                             "url":  "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NUxiSElYSXpqWkhfRzhPaldsckN0N25ON0FZazFXNE9JMUppSjNUT1Job2dKNW5uYm10Vm1QWFprN3djQXdPYlZDek44bngzbTBoUVFFZXpYa3RSODdNajBDcHhOdlRycElma2J4MA?oc=5",
-                             "source":  "Loudwire",
-                             "date":  "2026-05-19"
                          }
                      ],
     "notorious-big":  [
                           {
                               "title":  "Biggie Smalls’ still-unsolved killing keeps surfacing in a courtroom where no one is charged with it. Why?",
-                              "url":  "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeXYyWjJTVGMtV09iQ1QwQ01YcGZHTnFKaFUtUHJvYzliVUc4U2gwMTQ3T2hIYXdoUWJ3LWdCSVJXUUpHS2xOZ2pMSjY0cDRJS2V0SEVtN0U2cHNwbXVzUXFrRlY3Qmx0OXhLRGZ6emJid1BQNGdFMmFaOVpuamJMY1lIUWk0OTB5WWFGYTMzSUR0TXVRdkhvNnI4bV92NGtIcEI3OVFrTmxyLXUyWWtoRzRRVXU3bTU4SEQxS182SXVoNjVqZ1E?oc=5",
-                              "source":  "Madison365",
-                              "date":  "2026-08-31"
+                              "url":  "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yZnJTeERKOXJPSl81em5ZM3E3SnJLZ0ZVdW1SS1JzNWZYOEo4bmZBbmpNSENYQm5fUTZzbWFQSmRkMy1BU0RVTDdMdmREQnp6eUhiYzJCeU9rQmROa3JMX1J4Q0xrNVpDaTRMVWctbkZlb0FIeU1RS0VB?oc=5",
+                              "source":  "CNN",
+                              "date":  "2026-08-29"
                           },
                           {
                               "title":  "Poetic Justice: Tupac’s Murder Case and Why the Notorious B.I.G.’s May Remain Unsolved",
@@ -417,7 +417,7 @@ window.NEWS_SNAPSHOT = {
                             {
                                 "title":  "5 things to do in NEO: Tri-C JazzFest, Britney Spears redux, true crime and more",
                                 "url":  "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUjJBdmJkZjJzZGhYLWZwVVp3Wnc5UklKZUpFTzRSNUl0WlBFRmF3RjJBMHRfMFRibVYxNjI5XzZ4QlYyaEE3NW9kSElmcFhZdTJsM2dzTm5UMVhCYldQYUJrVnJETFhkd0U4VnNoVWJKTGRYWF81OFdPUTZSUW1TSW1sOFZ6VmxUYzVuVVVTck41bHYzUFh2cFBSSVVRQUMtdDcyTzlMWVpnbXM2SFp3enlSUE96SFVjakNtdkVLYk9fZWRjMWdn?oc=5",
-                                "source":  "Ideastream Public Media",
+                                "source":  "Ideastream",
                                 "date":  "2026-06-25"
                             },
                             {
@@ -515,12 +515,6 @@ window.NEWS_SNAPSHOT = {
                                 "url":  "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPZldIYUVBdlZqSUhjVEw3VzZRWC1jZ1dFWXk2RXVLSVVmbFROM1JuZGpuM0R6VDJiVXFxN21KS0g2T1ZmZXMxS0N0dmJuY3ZzTlNHR1hWSmltdmNYU2VNWlpfTU56a1JNVWpVX1A1VGtTVjRCSjM5bDhfSmFUVHNDSVBsb1pIR2hqdXA1YThORE0tSFgyLV8yMV93aTN6SF8zVHo5VWNTZVAzRWJrWlI1Q0xRM2p6STZtMzM2bjlsaVJCdmJ1cnowSHdzcUJPNmYzak83Y3hiNXYzbGUwOTczWEsxZzJXNHh0ankzUTljR2lOT3ItMk5uc3RvMU5Kd2NRaWZvb1pQS0Q0Mlc3YzVBZHJaUV9objlRdnlHbmd3Z0dfSmtCbVo2c25SSFBwb014elU2VkhIVjdYXzhYQ29SMWF1a3dkMmNQc0p0RkNUV2NaaTU1azlvbEY4SkI?oc=5",
                                 "source":  "WKRC",
                                 "date":  "2026-08-28"
-                            },
-                            {
-                                "title":  "Friends and family honor Brittany Stykes",
-                                "url":  "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVRqaGlmdlZnMGhQbzlWeGRWSHljM01ycmwweFZPM2pnbkdYUDdhNm1PbHVsTlpvZ0dlRWJPTUpGNkZuMldtTlVwTkpPN0puLTZpd2ZNcER4THJXald1WVhxTC1yVW5qaUdnNW5qWHNLdUtkLURnUkJYWUROS2o4SUFB?oc=5",
-                                "source":  "FOX19 | Cincinnati",
-                                "date":  "2026-05-05"
                             },
                             {
                                 "title":  "Memorial held for Brown County woman killed in unsolved 2013 shooting",
@@ -691,12 +685,6 @@ window.NEWS_SNAPSHOT = {
                               "date":  "2026-09-15"
                           },
                           {
-                              "title":  "\u0027I\u0027ll be honored every time.\u0027 | Crystal Rogers and Tommy Ballard memorialized with Bardstown bridge",
-                              "url":  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjBab240a0VlTFZNVGFoTjNvVVlrYmQxUDVyTUlRXzE4VWZwTjQ1Q1JSUmMwMTdnUldoelVpS1gxTi10NnJQazdnMDBhVmhQWHFpN2Z2RkNldnZWMy02YWQwTEdwS25rbDBuM0V6UmJRTWlVUkhnSkxHbEl6SktLSm5oaUhUeHRY?oc=5",
-                              "source":  "Yahoo",
-                              "date":  "2026-09-15"
-                          },
-                          {
                               "title":  "Bardstown bridge dedicated to memory of Crystal Rogers, father Tommy Ballard",
                               "url":  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0p6bEVSRksyTXNPVUF6ZVg5T3B3dmQ0MVBmTlQyOEdBLTgwa1VUM0Y2TzRNT0RudkRnSTcwMHZFUllyYkR1bGlNcDlUN1BOdFBPX3A3cVpRV3VDVm5wSDdBUlE3ZGZDY1QycmlmWVJxck9LNFpYVlZ6QUlqd1VNSHJMU25pMGtBbUlqRlZ3?oc=5",
                               "source":  "AOL.com",
@@ -770,6 +758,9 @@ window.NEWS_SNAPSHOT = {
                    ],
     "camrin-starr":  [
 
+                     ],
+    "justin-moore":  [
+
                      ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-13 14:22";
+window.NEWS_SNAPSHOT_AT = "2026-10-14 10:38";
