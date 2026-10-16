@@ -61,16 +61,16 @@ window.NEWS_SNAPSHOT = {
                        "date":  "2026-07-25"
                    },
                    {
-                       "title":  "Marvel teases \u0027Zodiac\u0027 spy thriller. Here\u0027s what fans are theorizing.",
-                       "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQxTWdzYlVsdUVXUG5xaXdVcHRYWGtTNkJQS0FLYVpuWXFwTW9RS2owUzlpbkFYZFJhZnJwU1Q0TDdpSjBUdXlYQ2JBd0x0RDl2YzdNT2E0d28tbEU1VG1uOHJaYVRPS09RTm9jVzExMGdNVHI4b1gtaEM3VEc4cTNtYWxUd055U2dFRmd2VllBRnc?oc=5",
-                       "source":  "Mashable",
-                       "date":  "2026-10-09"
-                   },
-                   {
                        "title":  "LAPD investigating new fingerprint in Black Dahlia murder case: Report",
                        "url":  "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXNjTnFJQjRnODRVSU9fX2JGUHlrYkhXMFNiNENZbzctWVlYRER0SnY2SXlEdGZpM0NtZ0w3RXdTZzA2Z2hlNTZISGZXX0tBRFhBaDFSazlKc3dTalcwN0JHVXVhT2tMamJ3bEhpTGZJeXpEaUNfWWNjTXZ5Uk9CV9IBhgFBVV95cUxOMm0xLUttVzRhUW80OHZjNF85SXl5Y1drTjFJNzlWZ0xucmZqYTBXSGotN3F4Q2NveFVoMlZMYUFWNVRFb20tWU1Xc3ZkdkxwQkgzOVpweU50SnZiWnV4bFRjTUlkS2RxOVo3Um5hNGM1MkZfRzlvcnR6dURLTVBTNDBCVWY2UQ?oc=5",
                        "source":  "NewsNation",
                        "date":  "2026-05-14"
+                   },
+                   {
+                       "title":  "Marvel teases \u0027Zodiac\u0027 spy thriller. Here\u0027s what fans are theorizing.",
+                       "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQxTWdzYlVsdUVXUG5xaXdVcHRYWGtTNkJQS0FLYVpuWXFwTW9RS2owUzlpbkFYZFJhZnJwU1Q0TDdpSjBUdXlYQ2JBd0x0RDl2YzdNT2E0d28tbEU1VG1uOHJaYVRPS09RTm9jVzExMGdNVHI4b1gtaEM3VEc4cTNtYWxUd055U2dFRmd2VllBRnc?oc=5",
+                       "source":  "Mashable",
+                       "date":  "2026-10-09"
                    }
                ],
     "jonbenet-ramsey":  [
@@ -315,6 +315,12 @@ window.NEWS_SNAPSHOT = {
                          "url":  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcUxkc0U0MVVUT2p6ZjM0aXdPVzZEOG5wa2pFR084N3pBRTZib2Y2Tmg3TmUyUnpsZkt6ckhuLXV5QjBoVnlWaTBpVW5DSGtGRm5ibGxuZktJVUF4UHY4aVB1cUV4NUk3UlBrQ0hBWVhtUnU1V1VyQV9QSm9FZW1CSC03R2NQVkYyZHFVTXF0WWViWlpjY1IyWFdxWFF2dUQ4MS1STFlzcGlsRkdMb29YU3k1dXpkUQ?oc=5",
                          "source":  "Us Weekly",
                          "date":  "2026-08-13"
+                     },
+                     {
+                         "title":  "A Comprehensive Guide to the Duggar Family: Jim Bob and Michelle Duggar’s Kids and Grandkids",
+                         "url":  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFB2OWV2N3ZNX0x5TGRLcUFqOG9FZU5UQ3dacHpTdXFKTVNqZ2l2eXVRWi0yVEsxaTdzRUNYdXo3UjgtcXNtWVpIWVQ0ZmhTQjNIYzVybWJmOFVHTkR2TGJXQkVfZS1WYjFYNlROQ29aZTlINW5WcUNrbFJaMC10ZTB6T1lBQV9ybkE0NVhkcE5tcE9Yc1BfZTRPUVYtRHFGdmVEdThqSFJZZw?oc=5",
+                         "source":  "Us Weekly",
+                         "date":  "2026-09-28"
                      },
                      {
                          "title":  "9 Celebrity Deaths That Have Never Been Solved",
@@ -824,6 +830,9 @@ window.NEWS_SNAPSHOT = {
                      ],
     "mate-hines":  [
 
-                   ]
+                   ],
+    "yasmin-acree":  [
+
+                     ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-16 08:48";
+window.NEWS_SNAPSHOT_AT = "2026-10-16 12:36";

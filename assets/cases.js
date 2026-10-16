@@ -156,5 +156,7 @@ window.CASES = [
   { rank: 77, slug: "missy-bevers", cities: ["Midlothian, TX"], tags: "terri missy bevers 2016 midlothian texas creekside church of christ fitness instructor camp gladiator swat tactical gear police vest ellis county", page: "missy-bevers.html", status: "live", name: "Terri “Missy” Bevers Case", years: "2016", place: "Midlothian, Ellis County, Texas",
     summary: "A fitness instructor was killed inside a church before a 5 a.m. class. Cameras had already recorded a figure in police-style tactical gear breaking into rooms. Police say no one has been ruled out." },
   { rank: 78, slug: "mate-hines", cities: ["Lincoln Heights, OH"], tags: "mate mat’e hines 2011 lincoln heights love court reading teen girl 16 shot hamilton county sheriff", page: "mate-hines.html", status: "live", name: "Mat’e Hines Case", years: "2011", place: "Lincoln Heights, Hamilton County, Ohio",
-    summary: "A 16-year-old girl was found shot behind an apartment complex on Love Court early one morning. Police called it an apparent homicide. We found no arrest." }
+    summary: "A 16-year-old girl was found shot behind an apartment complex on Love Court early one morning. Police called it an apparent homicide. We found no arrest." },
+  { rank: 79, slug: "yasmin-acree", cities: ["Chicago, IL"], tags: "yasmin yasmine rayon acree 2008 missing chicago austin west congress parkway teen girl 15 basement cut locks jimmie smith", page: "yasmin-acree.html", status: "live", name: "Yasmin Acree Case", years: "2008", place: "Austin, Chicago, Illinois",
+    summary: "A 15-year-old vanished from her basement bedroom; her family found cut locks and her glasses left behind. Police first called her a runaway. She has never been found." }
 ];
