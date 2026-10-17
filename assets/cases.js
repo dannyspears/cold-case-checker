@@ -158,5 +158,7 @@ window.CASES = [
   { rank: 78, slug: "mate-hines", cities: ["Lincoln Heights, OH"], tags: "mate mat’e hines 2011 lincoln heights love court reading teen girl 16 shot hamilton county sheriff", page: "mate-hines.html", status: "live", name: "Mat’e Hines Case", years: "2011", place: "Lincoln Heights, Hamilton County, Ohio",
     summary: "A 16-year-old girl was found shot behind an apartment complex on Love Court early one morning. Police called it an apparent homicide. We found no arrest." },
   { rank: 79, slug: "yasmin-acree", cities: ["Chicago, IL"], tags: "yasmin yasmine rayon acree 2008 missing chicago austin west congress parkway teen girl 15 basement cut locks jimmie smith", page: "yasmin-acree.html", status: "live", name: "Yasmin Acree Case", years: "2008", place: "Austin, Chicago, Illinois",
-    summary: "A 15-year-old vanished from her basement bedroom; her family found cut locks and her glasses left behind. Police first called her a runaway. She has never been found." }
+    summary: "A 15-year-old vanished from her basement bedroom; her family found cut locks and her glasses left behind. Police first called her a runaway. She has never been found." },
+  { rank: 80, slug: "chase-isles", cities: ["Jackson Township (Stark County), OH"], tags: "chase charles isles iii 2020 jackson township stark county canton south boulevard stairwell shot father carlin isles rugby", page: "chase-isles.html", status: "live", name: "Chase Isles Case", years: "2020", place: "Jackson Township, Stark County, Ohio",
+    summary: "A 28-year-old father was shot in the stairwell of an apartment building he was visiting. A neighbor heard him say he had a daughter. Police called it a cold case in 2025." }
 ];
