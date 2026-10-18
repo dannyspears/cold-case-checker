@@ -3,7 +3,7 @@
 // Leave a value empty ("") and its button shows "Coming soon" instead of a link.
 window.COLDCASE_DONATE = {
   venmo: "",    // your Venmo username, without the @     e.g. "Cold-Case-Checker"
-  cashapp: "",  // your Cash App $Cashtag, without the $  e.g. "ColdCaseChecker"
+  cashapp: "ColdCaseChecker",  // your Cash App $Cashtag, without the $  e.g. "ColdCaseChecker"
   paypal: ""    // your PayPal.Me name                     e.g. "ColdCaseChecker"  (from paypal.me/ColdCaseChecker)
 };
 // ─────────────────────────────────────────────────────────────────────────
