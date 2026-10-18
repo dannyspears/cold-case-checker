@@ -37,16 +37,16 @@ window.NEWS_SNAPSHOT = {
                        "date":  "2026-09-06"
                    },
                    {
-                       "title":  "Were the Zodiac killer and the Black Dahlia the same person? The devil is in the details",
-                       "url":  "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDB4QUhPN1cyOTc5YmoxVXV6OG41dHI2VUJTMUdxU3F5VVRFaUg1OFV3SXVjUmYzQ2plaGw0RVJOWHpvaDNPelFEOFgyTVR1eVJaOUh0UWlHMF9QOGF0RldJZkJ4TVFKc3ZsR2UteVhLSHF0aWRkam9XblRNbGU5TWU4SnFSYnB2ZGpOS3dmd2lSZkR1VVVDN1lmZVE5T3hnZjlsLVYxVE1EUG9KYTV3dkVGRklkWVA5b0VnRU9LaXpWZkZWdmc?oc=5",
-                       "source":  "Los Angeles Times",
-                       "date":  "2026-04-30"
-                   },
-                   {
                        "title":  "Zodiac Killer may be tied to Black Dahlia case after ‘code cracked,’ new suspect emerges",
                        "url":  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEs2VEU0LUVyZkVmdFpuS3o2TmJwMXlzd1NYTU9ET0UxMUVLT003UWxJU0lKZHNkb2dHdzdmeXBXSEtSMHdJLWJnYlNOLTVfVTJoN3loOG5vM0ZONHdSUXdVTUtNTER2WGNmSG5Dd3FLSWV6QTJXQmVDSEZMeVdTNkFaTDVucUNUZGtHVEx1NWhiSFhQRHI1Qmlzb2ppV3VhaUHSAacBQVVfeXFMTW9ldVRPRUZkREJySm5vNG9kMTlSdFJSUkJrLVd2SjAwSnA0Ymoyakg3RXlsQWp5VjNpcDRMLU9GWnRmQlNRQ3hIRkRMMFB6MGRMT0M5RWtUX2tUa09BQ0J0SXNEQkZtMWpOcW04WGVHcXZhaUp0bDkzTkhFektWOUdzSGpEcnFyamxLV18zR090SlBNY1FGZnFtbG5NV0Nsd3NyUUV5YUk?oc=5",
                        "source":  "Fox News",
                        "date":  "2026-04-24"
+                   },
+                   {
+                       "title":  "Were the Zodiac killer and the Black Dahlia the same person? The devil is in the details",
+                       "url":  "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDB4QUhPN1cyOTc5YmoxVXV6OG41dHI2VUJTMUdxU3F5VVRFaUg1OFV3SXVjUmYzQ2plaGw0RVJOWHpvaDNPelFEOFgyTVR1eVJaOUh0UWlHMF9QOGF0RldJZkJ4TVFKc3ZsR2UteVhLSHF0aWRkam9XblRNbGU5TWU4SnFSYnB2ZGpOS3dmd2lSZkR1VVVDN1lmZVE5T3hnZjlsLVYxVE1EUG9KYTV3dkVGRklkWVA5b0VnRU9LaXpWZkZWdmc?oc=5",
+                       "source":  "Los Angeles Times",
+                       "date":  "2026-04-30"
                    },
                    {
                        "title":  "Fox News True Crime Newsletter: Zodiac Killer’s victim, Gilgo Beach killer’s ex-wife, Nancy Guthrie’s DNA",
@@ -61,7 +61,7 @@ window.NEWS_SNAPSHOT = {
                        "date":  "2026-07-25"
                    },
                    {
-                       "title":  "Marvel teases \u0027Zodiac\u0027 spy thriller. Here\u0027s what fans are theorizing.",
+                       "title":  "What is Marvel\u0027s \u0027Zodiac\u0027 show about?",
                        "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQxTWdzYlVsdUVXUG5xaXdVcHRYWGtTNkJQS0FLYVpuWXFwTW9RS2owUzlpbkFYZFJhZnJwU1Q0TDdpSjBUdXlYQ2JBd0x0RDl2YzdNT2E0d28tbEU1VG1uOHJaYVRPS09RTm9jVzExMGdNVHI4b1gtaEM3VEc4cTNtYWxUd055U2dFRmd2VllBRnc?oc=5",
                        "source":  "Mashable",
                        "date":  "2026-10-09"
@@ -407,34 +407,34 @@ window.NEWS_SNAPSHOT = {
                                      "date":  "2026-09-03"
                                  },
                                  {
-                                     "title":  "Man sentenced in ‘Texas Killing Fields\u0027 case, decades after dozens of bodies found - NBC 5 Dallas-Fort Worth",
-                                     "url":  "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeW81TEhURjY2ejdjaTdwRlpfVHVsV25LM2tHUXExcVVQQktMRG5zNVhFY28wRURDT0FIS1VTUC1qNng1NlZSTDBsdXpFS25VLWJiTl82OUxxT3B2by1oTkFSTmIyRExJdThsd21wS09nMlB4MTdWQzVXMzVWazBlN0dCaXc5bFFidlY0aE1ZQ1V0dzFZcE9zQVhBTWp2aUtaSlpMZXBJLXBfZlZIWDhRQklGR1FMQzVzMFlfOWktd3lEd0lZU09TRDc1UXlsQdIB1gFBVV95cUxQaXBnNjE1LS1fcmN5VTUtM0g4ZmlaVXN1OU5aRWZHX1Y1anVSVWVzNldQMUllVUlqc0xTMDBuQjg2Vmh2c3VKY09ET2VkazBSTDR3RTFNWDZZcG1EUEpiOHdrNzc4ZDdPR2VMZ2xodTFnaUtfOUF2RzVrMF8yZUVUdUwxaTZXYjh3TWtESm1BSG1Pb0xRZ3RGQXJpOWNTWXRPTC1CN1BDNzVQd3pUd2RRYWhScjZtY1gzdkF5S291czNEYWF4ZHdoTGtOQ0hLT2hkMlAwUHN3?oc=5",
-                                     "source":  "NBC 5 Dallas-Fort Worth",
-                                     "date":  "2026-09-03"
-                                 },
-                                 {
                                      "title":  "‘Texas Killing Fields’ suspect pleads not guilty ahead of Aug. 31 trial",
                                      "url":  "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHlpSDBvNXNHa3pHRUU0bDVwY3pvdTR6dGJnV081VDFkUXEtNG11QjJPV0FiWmRaSUlrejRLQmszaDV1X3NkakhlVFJRZFhOSjRLeXZYNzFQRWJvOXJCQk9hei1GWldNVE5YSE0xLUxJZ1J3em52S1JaU2stY1VtVzAzTnA3WEVzdHZsYVJBbTFsX1hTY1pzUEJrY2MzZ191RU9vRFBfLVVKN3c2endGdWFlNk1RWGRhZnpBZVNkWklpWU4x0gHMAUFVX3lxTE10d3VLOWdpOHBRR1BvVzZWSkhERTBVeXdaM2hLM1VpcUdpT290N0VpYXhrWTBZTTJjMTQyYVlaY3p6aTROQmFEQVpGczZDT1JzdmpTcEtueUlQR3BWX0lnRC1wQjc1aUpQaDRSX1BPT2t5ZHNxU3FOX1ZVOWhSSEh2RnJGQzE0V2ttYVJJZk9fNUtHNllVeFVPVWdfZ19vemF5VW5Md0RaT1hTUVlRc0p3WUgzYmxTMGhidS1CQmVkb1VoUDdTTTFJSGxEbg?oc=5",
                                      "source":  "Houston Public Media",
                                      "date":  "2026-08-24"
                                  },
                                  {
+                                     "title":  "James Dolphs Elmore Jr. found guilty of manslaughter in \u0027Texas Killing Fields\u0027 case",
+                                     "url":  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzVHMHd6M21aYTdCSmxxOWlnZ00tdnN5UXdFSFhCVkoyNENaVWhuNnByZ29WN041RGFxLUhOZHlFeDBuTDgzVGFlajNQVWhfXy05SDNtUDBxY2xwMzJpdGY1a0lacWhMWXBmamdHSF9GbEYtOURpMGpySjludl92bmZOYjJPVlB0eE9NUWoxazlaSDlINjV2Ylpoaml4QVNrNHNHTEt5MkQ0VkJw0gGyAUFVX3lxTE1Ba2FEUG04MkRnVEQ0ZmI0dDM1Yklvc1FpUVZ2Q1VDSjZPQXV2VHlnQk9tT29jRjlGaWNfS2w3c2Y2NVBmTWhvYl9pVU5GZTUzQUtkeTBjWllldnJ3X2pWajBibW0yV3hlZkhFUkRpYkJnVnd4UGpVVmdEVmJMQUFHT25vNFczZTJ2UWYzRzI0RUZGYzNDZEc0dm8zNkRWbHpRTFoxSlN4TFdOcG9GaGpEVXc?oc=5",
+                                     "source":  "FOX 26 Houston",
+                                     "date":  "2026-09-02"
+                                 },
+                                 {
+                                     "title":  "Trial ongoing against James Elmore Jr., who was arrested in connection to \u0027Texas Killing Fields\u0027 case",
+                                     "url":  "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNWl2Z0EwNjg5UDBmQnlHSGFoVGJNS3RhN1dGQmxzYnRtdjhJUVZ3OUFkTV9nUldJYjR6c3dRQWYzQkN4WGlmeFBDVlRVeEZKMmM0SFVIVzFHV3dMU2o3cUVUR2ZhaWZFYUdnT0dPa01zSkZ0TmYxSFlWenk5dnl0ZHlNajB3bnBlVzh4YVEtVWxsYTI3bnVZNjl1MVJKS2hoMGZYXzZuSDd6UUx1ZkVvOUl30gG3AUFVX3lxTE1pVGV6bExESnFtVWxPWWZsZjU4NWk0clU1UV9iTmVMTnBBcHIteUNENHJwMHdPajBFOHZYUldKTVFZRFd0Q3d2VllTeURwTzhaenE1S1F2WVM5TGRHTTFSS05RMmpCLVFSRHBGa3ZuYzd3NDFncFBJQkpaMkdwejdrM2plb2VmRzFqQi03eGJQZTE2SFBUTkZ2WFVldzk1aEdCZWZwSUFCOS00VVRnNkhqQVB6RktEbw?oc=5",
+                                     "source":  "ABC13 Houston",
+                                     "date":  "2026-09-01"
+                                 },
+                                 {
+                                     "title":  "‘Where the nightmare started’: Father of ‘Texas Killing Fields’ victim testifies in trial",
+                                     "url":  "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSV8taDdQX1Z6OHpJbDZBNUdiSWxRN3VIa0FtTDdCaFhMUGJRLUNwRnJtS2hZVXdVV0xkUTNzTnRGUUJ5VmpaY0tFUzRIajhwQ3hJVElvRTBIN0dkNGVMOWRxWElUOXByejByd0ZDRW8wRmdQc3VyUjRWS2U1VXBaZV94b0JBend0YXBZbTlXUnRxRTdQUjlySV9SX3lYRkhaY1lHazVxRnI1LVYtX2dNN2dJdUIwb1lzYjlsVG1mYjhZYXB5OUdLck8tQmdzUko5UGl2RjN6U3NmZy1nMzNnWVhENzdLd1dBdTRpZGhoRXJtSXE2dDQw0gH_AUFVX3lxTE1yRXY4emZyaTlGTUdJUkNhbDZjUTRsalk1MlJ2X2dvTDJqb3FQbjNfSEQzeXEySzRieWI5Z21rb2s0MF9OSVVwN3ZqYmh2Tm5DX2FFWWRjRDhNZXBXcGRUcVo0ZDBfZ2k2S3hyNm10N01aZXdqaTlkOEdWeUlXa2hLNmFhOEFwWWdxWWtLYV9HYm54VUx2RlJUcml3WmliUU5zMDB1M1MwTk5QZlNZbXVMU0g0MVQ1VXd4OHFFTmVxLWpPZXJqRnVHUlRGQ3NWRE1vSGk1VXIzbzJmT1Ewa2hXTlQ2M3pXTmZhTDZzUDh2X1dYN3R2bjFXYzUxb1ZJTQ?oc=5",
+                                     "source":  "Houston Public Media",
+                                     "date":  "2026-09-02"
+                                 },
+                                 {
                                      "title":  "\"Texas Killing Fields\" suspect indicted after 42 years",
                                      "url":  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGprWUc2NUZJYm5oN1NqaDZtRzBldlFaeWJ1b3IycXpEREJwLXY0ZTVXbFhBUVNsYW1faE5Sa1c0TUx6ZDBpT2ZsdTJ2VnJVV2N0c0NjU3BZTkRvTWkyY2dMYjhrVDl4WlRwTUhROVA1Q1B3enpIQVhCcW1hemVhbzQ3cWFMb2k10gGOAUFVX3lxTE9PTHY5WFRRSWl6QXFRV1c3UFFoTTNVeHhYajQ1UlBlbGdBb0p3d2Z4WFF2NW5YbGRpWkI2TjJXZGZLYkcta1VpTVMyZTUwUlVTNDZZQ0dvcExpQWlvNmN3NkpRc3FiNnNBMkpyX3R3VndPZWstWFRjVWdSTmJrdWZwbk9XdnJyN3d4cTdQcVE?oc=5",
                                      "source":  "FOX 26 Houston",
                                      "date":  "2026-04-30"
-                                 },
-                                 {
-                                     "title":  "Jury proceedings ongoing for trial against James Elmore Jr., who was arrested in connection to \u0027Texas Killing Fields\u0027 case",
-                                     "url":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0R3SW4zWEVkQW43Y2prUU1vZ2RPUDJzbXJXTTJPTmZJOG9UVFQ1X0tLVjlCRE02cjVnSXVydmU3Z2x2eVJUZFl0Yng4MnoxY0RZTm1oWFVvLTJmNEthcm1zVHh4UEtVUkVFSlJveXJmeGg5Mjd5eGhDVjdFMnZrdWlsZkxydjFzSXZhUTR5c0htWXdFZnMwSFlEcEt4YUd3b1ZBOFQxOERFZVA2U2dJYUdwNjV5bEpWOFRra1IzbDZxUlo2Q1NrONIBzgFBVV95cUxNdTA5UU0tWGVJWUlELXZVTjBtNjVQSTdGLThoWjFOVVgwZHBCbjF4WktERHhScURwWTFtc3lwQkZYT19mRXhULVpsTkRlek9tUDNiOXMySTdfY3BJM1p6YzZoMmlTNkprbExUXzloM1hQUTJVMExJVjNiQU9mNV81WUZSMDY2R0dwXy1GdDVuMEw0VUhsZ3BvTi1POEpBNFFpSTRzMVNnZjVZeVZVZ2ZZYk5HanZ3aE5GT3dqeXJ4dHlmUS04LUFyUzJwY0JNdw?oc=5",
-                                     "source":  "ABC13 Houston",
-                                     "date":  "2026-08-31"
-                                 },
-                                 {
-                                     "title":  "Searchers return to the ‘Texas Killing Fields’",
-                                     "url":  "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkFpaXlhS002S2l6WDJfMWlxTHFJZWg5bnBaMi10YzdUNHgyVWd5N0lVcXE5MUoxbkFkcjhQZE1YakdvZWhBekR5aDV1eFVnVlBTdllRSEJfa1FOa3RuUU45ZzIzcnJtSWJJb19XQmhkc3VvendIRF9SYU9rYUIzWS1hUF9EVkhvZHNuYXdSMFFER0pENHRDZ05pcEhENm40dGtQY0NfUQ?oc=5",
-                                     "source":  "Click2Houston",
-                                     "date":  "2026-06-12"
                                  }
                              ],
     "cleveland-torso":  [
@@ -545,12 +545,6 @@ window.NEWS_SNAPSHOT = {
                                 "url":  "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPZldIYUVBdlZqSUhjVEw3VzZRWC1jZ1dFWXk2RXVLSVVmbFROM1JuZGpuM0R6VDJiVXFxN21KS0g2T1ZmZXMxS0N0dmJuY3ZzTlNHR1hWSmltdmNYU2VNWlpfTU56a1JNVWpVX1A1VGtTVjRCSjM5bDhfSmFUVHNDSVBsb1pIR2hqdXA1YThORE0tSFgyLV8yMV93aTN6SF8zVHo5VWNTZVAzRWJrWlI1Q0xRM2p6STZtMzM2bjlsaVJCdmJ1cnowSHdzcUJPNmYzak83Y3hiNXYzbGUwOTczWEsxZzJXNHh0ankzUTljR2lOT3ItMk5uc3RvMU5Kd2NRaWZvb1pQS0Q0Mlc3YzVBZHJaUV9objlRdnlHbmd3Z0dfSmtCbVo2c25SSFBwb014elU2VkhIVjdYXzhYQ29SMWF1a3dkMmNQc0p0RkNUV2NaaTU1azlvbEY4SkI?oc=5",
                                 "source":  "WKRC",
                                 "date":  "2026-08-28"
-                            },
-                            {
-                                "title":  "Memorial held for Brown County woman killed in unsolved 2013 shooting",
-                                "url":  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX05LT1dnMnk4Rnd1OHJUZWQ2ai1IWDlkM29VdGl6c0RiVHlJallENl9QMmtGdUw1SmxVS2I0enVTaFJkZWNrM0hiVFg0RXN6UjV3UW94RDA0WGRwdS02SWM5cjNYTmVEX295OU9ubXFzcEdpWXRIVjVLWkY2clNMSkJVLThNNEpaeVBjaUlwZDhnVWFzemlhV2o2MmfSAbABQVVfeXFMTUtvWkNMNWRRRkJWM1dEWGxkZE9TbDRSeXA0bkdBVWVPcmVLd1BrQk5qbFBRY0hlUzJUU1MtWWl3NmF3dXpUWnU3QXZfSDB0bnNDcDkzTlJFNng3ZFZJRFZMOUdPd08xSGZ4Y0U3MTZINXZGZ1FWS3lVT0lacUFwS2VLZHc2QmFXUS0weWk4RTZsMjhSVjFnR3cyNVNJRk9SSUkwSmtLWEVkU0E2UTlJcEE?oc=5",
-                                "source":  "FOX19 | Cincinnati",
-                                "date":  "2026-05-04"
                             },
                             {
                                 "title":  "Family marks 13 years since Brown Co. woman, unborn baby killed as case remains unsolved",
@@ -831,6 +825,14 @@ window.NEWS_SNAPSHOT = {
                      ],
     "chase-isles":  [
 
-                    ]
+                    ],
+    "jennifer-kesse":  [
+                           {
+                               "title":  "Could This Footage Finally Identify Jennifer Kesse\u0027s Abductor?",
+                               "url":  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kb2pzYm9fUzNMOHNKaDliTVlaYzBIdkw1WWt0cm5PbVJFOEVUdEZEUXpqLTNuY29kWGw0dnhXV0dTZkxUamc3OUcyTnlHa25yd3NGTDU5ZnF4MUpl?oc=5",
+                               "source":  "YouTube",
+                               "date":  "2026-06-05"
+                           }
+                       ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-17 15:14";
+window.NEWS_SNAPSHOT_AT = "2026-10-18 10:10";

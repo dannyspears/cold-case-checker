@@ -160,5 +160,7 @@ window.CASES = [
   { rank: 79, slug: "yasmin-acree", cities: ["Chicago, IL"], tags: "yasmin yasmine rayon acree 2008 missing chicago austin west congress parkway teen girl 15 basement cut locks jimmie smith", page: "yasmin-acree.html", status: "live", name: "Yasmin Acree Case", years: "2008", place: "Austin, Chicago, Illinois",
     summary: "A 15-year-old vanished from her basement bedroom; her family found cut locks and her glasses left behind. Police first called her a runaway. She has never been found." },
   { rank: 80, slug: "chase-isles", cities: ["Jackson Township (Stark County), OH"], tags: "chase charles isles iii 2020 jackson township stark county canton south boulevard stairwell shot father carlin isles rugby", page: "chase-isles.html", status: "live", name: "Chase Isles Case", years: "2020", place: "Jackson Township, Stark County, Ohio",
-    summary: "A 28-year-old father was shot in the stairwell of an apartment building he was visiting. A neighbor heard him say he had a daughter. Police called it a cold case in 2025." }
+    summary: "A 28-year-old father was shot in the stairwell of an apartment building he was visiting. A neighbor heard him say he had a daughter. Police called it a cold case in 2025." },
+  { rank: 81, slug: "jennifer-kesse", cities: ["Orlando, FL"], tags: "jennifer joyce kesse 2006 missing orlando florida millenia conroy road huntington on the green chevrolet malibu surveillance video fdle westgate", page: "jennifer-kesse.html", status: "live", name: "Jennifer Kesse Case", years: "2006", place: "Orlando, Florida",
+    summary: "A 24-year-old vanished on her way to work. A camera caught someone parking her car a mile away and walking off. FDLE says new DNA has been found." }
 ];
