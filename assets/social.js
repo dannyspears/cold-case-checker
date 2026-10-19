@@ -2,9 +2,9 @@
    The owner sets the four profile links here. Leave a value "" to hide that icon; the bar hides itself if all are empty. */
 var SOCIAL = {
   facebook:  "https://www.facebook.com/profile.php?id=61595203655403",   // e.g. "https://www.facebook.com/coldcasechecker"
-  instagram: "",   // e.g. "https://www.instagram.com/coldcasechecker"
+  instagram: "https://www.instagram.com/coldcasechecker",   // e.g. "https://www.instagram.com/coldcasechecker"
   tiktok:    "https://www.tiktok.com/@cold.case.checker",   // e.g. "https://www.tiktok.com/@coldcasechecker"
-  x:         ""    // e.g. "https://x.com/coldcasechecker"
+  x:         "https://x.com/ColdCaseChecker"    // e.g. "https://x.com/coldcasechecker"
 };
 
 (function () {
