@@ -3,7 +3,7 @@
 var SOCIAL = {
   facebook:  "",   // e.g. "https://www.facebook.com/coldcasechecker"
   instagram: "",   // e.g. "https://www.instagram.com/coldcasechecker"
-  tiktok:    "",   // e.g. "https://www.tiktok.com/@coldcasechecker"
+  tiktok:    "https://www.tiktok.com/@cold.case.checker",   // e.g. "https://www.tiktok.com/@coldcasechecker"
   x:         ""    // e.g. "https://x.com/coldcasechecker"
 };
 
