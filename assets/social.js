@@ -1,7 +1,7 @@
 /* Social follow links shown at the top of the home page (inside #social-follow).
    The owner sets the four profile links here. Leave a value "" to hide that icon; the bar hides itself if all are empty. */
 var SOCIAL = {
-  facebook:  "",   // e.g. "https://www.facebook.com/coldcasechecker"
+  facebook:  "https://www.facebook.com/profile.php?id=61595203655403",   // e.g. "https://www.facebook.com/coldcasechecker"
   instagram: "",   // e.g. "https://www.instagram.com/coldcasechecker"
   tiktok:    "https://www.tiktok.com/@cold.case.checker",   // e.g. "https://www.tiktok.com/@coldcasechecker"
   x:         ""    // e.g. "https://x.com/coldcasechecker"
