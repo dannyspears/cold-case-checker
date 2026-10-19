@@ -261,3 +261,12 @@ a.chip{text-decoration:none;display:inline-block}
 @media (max-width:420px){.donate-buttons{grid-template-columns:1fr}}
 .grid.grid-2{grid-template-columns:repeat(2,minmax(0,1fr))}
 @media (max-width:600px){.grid.grid-2{grid-template-columns:1fr}}
+/* Social follow icons (home page masthead; links set in assets/social.js) */
+.mast-side{display:flex;flex-direction:column;align-items:flex-end;gap:10px}
+.social-follow{display:flex;align-items:center;gap:6px}
+.soc-label{font:11px var(--mono);color:var(--muted);text-transform:uppercase;letter-spacing:.08em;margin-right:4px}
+.soc{display:grid;place-items:center;width:34px;height:34px;background:var(--signal);color:var(--signal-ink);text-decoration:none;transition:transform .12s ease,filter .12s ease}
+.soc svg{width:19px;height:19px}
+.soc:hover,.soc:focus-visible{filter:brightness(1.12);transform:translateY(-1px)}
+.soc:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
+@media (max-width:600px){.mast-side{align-items:flex-start}}
