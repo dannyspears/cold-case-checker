@@ -19,6 +19,12 @@ window.NEWS_SNAPSHOT = {
                        "date":  "2026-09-02"
                    },
                    {
+                       "title":  "AI May Have Uncovered the Zodiac Killer’s Identity. Could It Crack History’s Greatest Mysteries?",
+                       "url":  "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVNXLXN0d1dPeWh3ZDlTelMwbTFtaXhsc0xLMF93SjdpUkppWHFBWUlkS1dMUWdoYkZtOVRCanl4WVVhVDdhbTBMNnN5RXV3cTVIVm9GLWpYQmFHcnllYTNCckRWU3k4UmtUeW1CNFh2cVUzc19fejJFWEp1R0E4eg?oc=5",
+                       "source":  "Popular Mechanics",
+                       "date":  "2026-10-19"
+                   },
+                   {
                        "title":  "Did the Zodiac Kill the Black Dahlia? This Crime Writer Thinks So.",
                        "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdk9DZmNhT3VJSlF6N1Y3SUNsNFVVSXJJOVJzMjc2Mm1vZWl0Qmp4a1g5dnVFVlRGU2t1Nlc5cFlyekR5dG9INnN0RFN6eW90ajMwYzRDd1B4WFBDLW9VNzFHQjJDcWctSlFhUnpjbUgxM3dlNWRRRlhJazhhcjlkalpOendHQVJDWnVReXpTMmEtekU?oc=5",
                        "source":  "The New York Times",
@@ -35,12 +41,6 @@ window.NEWS_SNAPSHOT = {
                        "url":  "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51bGZydnpGVzhITlhWMF9xVE5kc1dFQzZKNS1RZENVR2R4cGJfRWxNd2hwS3FmZm5sc2lIOExCVkUwSjMzb004dkpCLTloQ2Fydmw5SA?oc=5",
                        "source":  "All That\u0027s Interesting",
                        "date":  "2026-09-06"
-                   },
-                   {
-                       "title":  "AI May Have Uncovered the Zodiac Killer’s Identity. Could It Crack History’s Greatest Mysteries?",
-                       "url":  "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVNXLXN0d1dPeWh3ZDlTelMwbTFtaXhsc0xLMF93SjdpUkppWHFBWUlkS1dMUWdoYkZtOVRCanl4WVVhVDdhbTBMNnN5RXV3cTVIVm9GLWpYQmFHcnllYTNCckRWU3k4UmtUeW1CNFh2cVUzc19fejJFWEp1R0E4eg?oc=5",
-                       "source":  "Popular Mechanics",
-                       "date":  "2026-10-19"
                    },
                    {
                        "title":  "Were the Zodiac killer and the Black Dahlia the same person? The devil is in the details",
@@ -99,16 +99,16 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-08-21"
                             },
                             {
-                                "title":  "JonBenét Ramsey’s father questions DNA testing after ex-CBI analyst pleads guilty",
-                                "url":  "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5X0xTa1dqWlhBNGV4NWY0MkZ5c3czLVBkcl9zZjY2ZnZHMzdpUF9ZRE5jNW0yTkx3UVlvcVVlc1hqcmJ0bmFJamp5RUd2UG4tcEg3eW9UZklXeFhkbUNPWklnUzVKRENZeHI1c0RBTjhjTmvSAXhBVV95cUxOTWZVNEVOUFNLNTAwREhxaDVuYkdfd2NNalp4YjJZb3BoZmxBOXBnb1VkekgwOWJSOHZvSUNhaHI2NDlac1R3bmpwU0JudW1vMEVGb3ZIV1FkQlNlVGhqUXVKM1JNNlpBSEFzQ2VNZVpjTjk1UkF6Tng?oc=5",
-                                "source":  "NewsNation",
-                                "date":  "2026-06-26"
-                            },
-                            {
                                 "title":  "Melissa McCarthy on Getting Serious for ‘JonBenét Ramsey,’ the Psychiatrist on Set and Hollywood’s ‘Bulls—’ Excuse for Why Comedies Don’t Work Anymore",
                                 "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHRyUXQ5WnhsTzNpTTRUbl9HeTVjRG5sSnhsS3BTZU5fOVcxN3VURHBwbFltd3dXWlE3ME5YWDBWVzFhUjV6dUNJQ0VJMXdBNUY0a3ZqVnVrVkl3MDhfMk12dVh0UEpBMVpxMjVULUZScFRuN0traEpWS0JOY0dnOF8yUmJqUVNKT1ZSUDJ1MHNINzRiSVI3a2cxbVRMeDRTLWFoTkdzNFlLV25FV0E?oc=5",
                                 "source":  "Variety",
                                 "date":  "2026-09-21"
+                            },
+                            {
+                                "title":  "JonBenét Ramsey’s father questions DNA testing after ex-CBI analyst pleads guilty",
+                                "url":  "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5X0xTa1dqWlhBNGV4NWY0MkZ5c3czLVBkcl9zZjY2ZnZHMzdpUF9ZRE5jNW0yTkx3UVlvcVVlc1hqcmJ0bmFJamp5RUd2UG4tcEg3eW9UZklXeFhkbUNPWklnUzVKRENZeHI1c0RBTjhjTmvSAXhBVV95cUxOTWZVNEVOUFNLNTAwREhxaDVuYkdfd2NNalp4YjJZb3BoZmxBOXBnb1VkekgwOWJSOHZvSUNhaHI2NDlac1R3bmpwU0JudW1vMEVGb3ZIV1FkQlNlVGhqUXVKM1JNNlpBSEFzQ2VNZVpjTjk1UkF6Tng?oc=5",
+                                "source":  "NewsNation",
+                                "date":  "2026-06-26"
                             },
                             {
                                 "title":  "Melissa McCarthy shares her opinion on JonBenét Ramsey case after playing her mom in limited series",
@@ -481,6 +481,12 @@ window.NEWS_SNAPSHOT = {
                               "url":  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdlAyRGVEcy1JTUFSMlZ2ak5yb21MWC0wMzhTY3RTVDl0cTVPRGl4R3hBZXBnaUNDbm5NMUhYMUZvRVFxNE91MjhmbnNNV1REcmhnRnN0Rl9SOXZRdUd3b0ZjdGdOdlJMUHk1d0VmUW9QVFAwR1FMX3J3M29TTlptSVEtS0VCQTdxLXVUNFBkMVlxZzJRNG1rOXFidmtJVEloUkdteDhEMXl3MXZjWnFTdmJ4TVNCZzNremoyeEppaGFaQ1JvTFNROUttT3FwUnBpNlhtTQ?oc=5",
                               "source":  "Cincinnati Enquirer",
                               "date":  "2026-09-26"
+                          },
+                          {
+                              "title":  "Bricca family murders still unsolved 60 years later. Women seek justice",
+                              "url":  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPSldnRGtCbGs1UGJwQ3JXYUpyNWRISWFLeDVnRGdYUTJzeUVpWGhGLWxDMDRJbUVaMFV1SGxtdXpJODh2WUg4NjgwaXRDbHJpRkU5Q0V0eG03ZVdwMVhWdA?oc=5",
+                              "source":  "Cincinnati Enquirer",
+                              "date":  "2026-10-08"
                           }
                       ],
     "frederick-walker":  [
@@ -529,21 +535,15 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-05-04"
                             },
                             {
-                                "title":  "Vigil marks Brown County woman\u0027s 35th birthday as 13-year-old murder remains unsolved",
-                                "url":  "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNcEJiWXZ3SmY4aGN0VGhIZmplbS1rSGRIemY0LTVwWjhTd0UwZTJNbDBqU3A5bUxqM0JhQmRiSk5qYzdzanZSTEZqUkFaZUhDQ08xbEVHR2FjUmJ0Tk02WkNZUW13TnFBODZTV1BxbWF4Mi1ZRzJsX2R2aV9zSmtZWWNlc0xGeUplUmZPQmR3U0NhSWk5OU9jQ0JXT19EUnJPM1hRcFhSQUhSdm4xLWdqa292VmVtb094aUY1TnFRbTJfNTkwbVdCS2FZeXVQb1NPYWl0TWdqb0g0Z0pXQnpKSUZSZVluVWNMVjNsS3p0OHlQQkRBTjByTFRjdzlQNWd6a0V2RDBab0VWaXRYdEtvWEtBVzk4MXo5TW1uYThSQ2JPcEY0aHl2aUJHdWh1S3pPZGx6ekZwQTVpdVZGVWVIMzhDaUhMRUtYcDRvR3pYSlU2ZXVfS3NkMmExRG1wa0NLWWJ1VFVUcmZZUFN2eXZXNXpEV01lSzNvd3ln?oc=5",
+                                "title":  "Family marks 13 years since Brown Co. woman, unborn baby killed as case remains unsolved",
+                                "url":  "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPZldIYUVBdlZqSUhjVEw3VzZRWC1jZ1dFWXk2RXVLSVVmbFROM1JuZGpuM0R6VDJiVXFxN21KS0g2T1ZmZXMxS0N0dmJuY3ZzTlNHR1hWSmltdmNYU2VNWlpfTU56a1JNVWpVX1A1VGtTVjRCSjM5bDhfSmFUVHNDSVBsb1pIR2hqdXA1YThORE0tSFgyLV8yMV93aTN6SF8zVHo5VWNTZVAzRWJrWlI1Q0xRM2p6STZtMzM2bjlsaVJCdmJ1cnowSHdzcUJPNmYzak83Y3hiNXYzbGUwOTczWEsxZzJXNHh0ankzUTljR2lOT3ItMk5uc3RvMU5Kd2NRaWZvb1pQS0Q0Mlc3YzVBZHJaUV9objlRdnlHbmd3Z0dfSmtCbVo2c25SSFBwb014elU2VkhIVjdYXzhYQ29SMWF1a3dkMmNQc0p0RkNUV2NaaTU1azlvbEY4SkI?oc=5",
                                 "source":  "WKRC",
-                                "date":  "2026-05-04"
+                                "date":  "2026-08-28"
                             },
                             {
                                 "title":  "13 years later, family still seeks justice for Brittany Stykes",
                                 "url":  "https://news.google.com/rss/articles/CBMingFBVV95cUxNVktvMWI1QXlMTk5RZlgyUDhGcUVfelBWOEY5aXRmRWdNOWNvSjlsRVkxRFFBNzBQbzQtNkotUVZmc1p4X1lqWDZxRUg0LVQzQnhrVV9vMmJRTm12cGNILUtmUlBVdEJ5TWY5NzQwMGNKUS05ek9mSExmYnloeHZFWmVRRDJDQnVTVE9PcVVIRFNLeXNTQ1o4ZExITzVFdw?oc=5",
                                 "source":  "FOX19 | Cincinnati",
-                                "date":  "2026-08-28"
-                            },
-                            {
-                                "title":  "Family marks 13 years since Brown Co. woman, unborn baby killed as case remains unsolved",
-                                "url":  "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPZldIYUVBdlZqSUhjVEw3VzZRWC1jZ1dFWXk2RXVLSVVmbFROM1JuZGpuM0R6VDJiVXFxN21KS0g2T1ZmZXMxS0N0dmJuY3ZzTlNHR1hWSmltdmNYU2VNWlpfTU56a1JNVWpVX1A1VGtTVjRCSjM5bDhfSmFUVHNDSVBsb1pIR2hqdXA1YThORE0tSFgyLV8yMV93aTN6SF8zVHo5VWNTZVAzRWJrWlI1Q0xRM2p6STZtMzM2bjlsaVJCdmJ1cnowSHdzcUJPNmYzak83Y3hiNXYzbGUwOTczWEsxZzJXNHh0ankzUTljR2lOT3ItMk5uc3RvMU5Kd2NRaWZvb1pQS0Q0Mlc3YzVBZHJaUV9objlRdnlHbmd3Z0dfSmtCbVo2c25SSFBwb014elU2VkhIVjdYXzhYQ29SMWF1a3dkMmNQc0p0RkNUV2NaaTU1azlvbEY4SkI?oc=5",
-                                "source":  "WKRC",
                                 "date":  "2026-08-28"
                             },
                             {
@@ -701,18 +701,6 @@ window.NEWS_SNAPSHOT = {
                               "url":  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0p6bEVSRksyTXNPVUF6ZVg5T3B3dmQ0MVBmTlQyOEdBLTgwa1VUM0Y2TzRNT0RudkRnSTcwMHZFUllyYkR1bGlNcDlUN1BOdFBPX3A3cVpRV3VDVm5wSDdBUlE3ZGZDY1QycmlmWVJxck9LNFpYVlZ6QUlqd1VNSHJMU25pMGtBbUlqRlZ3?oc=5",
                               "source":  "AOL.com",
                               "date":  "2026-09-17"
-                          },
-                          {
-                              "title":  "Crystal Rogers and Tommy Ballard to be memorialized with Bardstown bridge",
-                              "url":  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUnBQVDJwUzFySVh0VmNRV2lJVjJRd1RDOVBHOUp6WDlJRWp0LVpzQXg2aGJUQ190aGdJMHM2ZkVWTmVsY1hOU2wyY3p4VmNkLXhVMnFhYTVZRW9kTmViQlhxRHgxSzllRFJ3TUpxeWRpR2stRjJrT0I5cXNNNzZxc1ZkYUJidUxhNjE3QmdqeGxzdkcz?oc=5",
-                              "source":  "Yahoo",
-                              "date":  "2026-09-15"
-                          },
-                          {
-                              "title":  "Crystal Rogers and Tommy Ballard to be memorialized with Bardstown bridge",
-                              "url":  "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTURWamRGV0NicEZPNFdPS0tHc1hvcElOVkJ1QzBGYlVXY1RlWW9pNVFOaWd5R2d6RVZ1dGNjamhxa1doOTV1RGtNTnk4UEZaeldYdC1qSWtidVBsckdmcVhDZkVyZ0F1RWMxbFJONURvZGlzcTg4MXRJRGcyUkFuSHpvYk03Ym1nSUNJSFRLRmpQTW9FLXVQdkJibk4wUjA4Zzdpelo3UVFFbXdwMUgyYVhoQnpoaEZ4YTFPS2NYeTNzN2FndFFmS3lVOFA3MlhWUTdWNkIwWVdZNnI4OFNSNElPQndwZ1BsZmRwb1B3?oc=5",
-                              "source":  "WHAS11",
-                              "date":  "2026-09-15"
                           }
                       ],
     "anita-taylor":  [
@@ -839,6 +827,20 @@ window.NEWS_SNAPSHOT = {
                        ],
     "tonka-george":  [
 
-                     ]
+                     ],
+    "asha-degree":  [
+                        {
+                            "title":  "WCNC Archives: 2024 Asha Degree Investigation",
+                            "url":  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGg5ZnNFcFJMcG9iSHctU1hoV3FNWDhQTXhmTlJfUW9HS1NCeGh6cng4Z0R6Rk0tcWFvZlZRUlVXak9hQXkwNllMaTRnNlNobXJ2VGREN2hBd0s4YWJMUXh2M0NpYXZTbVM0dXRIaGNEdHVjR3QxRWo3LXBDNm5MY3VKM04wNlIwY0ZMaGZXY3lyNzYtOGo5WVBQUjUzRHZEWlZUdjNWcXZVNFQzWElDeWp4dDJWQTBD?oc=5",
+                            "source":  "WCNC",
+                            "date":  "2026-08-10"
+                        },
+                        {
+                            "title":  "What Happened to Asha Degree? The Mystery That Remains Unsolved",
+                            "url":  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51TnltVXR0Z2JFQ1pQRVJYTno4ZkRKQzVUaTl1cElmUnpWVmpfRTBobmUxbzZGdlVYS1lyUVZoOU5hX0xVX1Vvb185R3ZIZUNGTTFPclJtd0VXRWpR?oc=5",
+                            "source":  "YouTube",
+                            "date":  "2026-08-01"
+                        }
+                    ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-20 11:19";
+window.NEWS_SNAPSHOT_AT = "2026-10-20 17:14";

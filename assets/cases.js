@@ -170,5 +170,7 @@ window.CASES = [
   { rank: 84, slug: "adams-marcelin", cities: ["New Orleans, LA"], tags: "brandon adams christine marcelin 2012 kipp believe eighth graders desire new orleans east alcee fortier press higgins acquitted", page: "adams-marcelin.html", status: "live", name: "Brandon Adams and Christine Marcelin Murders", years: "2012", place: "New Orleans, Louisiana",
     summary: "Two 15-year-old eighth graders, a couple, were killed three days apart. The one man tried for her death was acquitted. No one was ever charged in his." },
   { rank: 85, slug: "tonka-george", cities: ["New Orleans, LA"], tags: "tollette tonka george 2016 algiers new orleans alcorn state edna karr football celebration bowl lauradale vespasian", page: "tonka-george.html", status: "live", name: "Tollette “Tonka” George Case", years: "2016", place: "Algiers, New Orleans, Louisiana",
-    summary: "An Alcorn State receiver who tied the first Celebration Bowl came home to coach and was shot near his house a month after graduating." }
+    summary: "An Alcorn State receiver who tied the first Celebration Bowl came home to coach and was shot near his house a month after graduating." },
+  { rank: 86, slug: "asha-degree", cities: ["Shelby, NC"], tags: "asha jaquilla degree 2000 missing shelby north carolina cleveland county highway 18 backpack burke county morganton green car lincoln thunderbird dedmon fbi", page: "asha-degree.html", status: "live", name: "Asha Degree Case", years: "2000", place: "Shelby, North Carolina",
+    summary: "A 9-year-old packed a bookbag and walked out into a stormy night. Her backpack was found buried 26 miles away. Warrants now point to a local family, who deny it. No one is charged." }
 ];
