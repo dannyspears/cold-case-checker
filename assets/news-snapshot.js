@@ -37,6 +37,12 @@ window.NEWS_SNAPSHOT = {
                        "date":  "2026-09-06"
                    },
                    {
+                       "title":  "AI May Have Uncovered the Zodiac Killer’s Identity. Could It Crack History’s Greatest Mysteries?",
+                       "url":  "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUVNXLXN0d1dPeWh3ZDlTelMwbTFtaXhsc0xLMF93SjdpUkppWHFBWUlkS1dMUWdoYkZtOVRCanl4WVVhVDdhbTBMNnN5RXV3cTVIVm9GLWpYQmFHcnllYTNCckRWU3k4UmtUeW1CNFh2cVUzc19fejJFWEp1R0E4eg?oc=5",
+                       "source":  "Popular Mechanics",
+                       "date":  "2026-10-19"
+                   },
+                   {
                        "title":  "Were the Zodiac killer and the Black Dahlia the same person? The devil is in the details",
                        "url":  "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDB4QUhPN1cyOTc5YmoxVXV6OG41dHI2VUJTMUdxU3F5VVRFaUg1OFV3SXVjUmYzQ2plaGw0RVJOWHpvaDNPelFEOFgyTVR1eVJaOUh0UWlHMF9QOGF0RldJZkJ4TVFKc3ZsR2UteVhLSHF0aWRkam9XblRNbGU5TWU4SnFSYnB2ZGpOS3dmd2lSZkR1VVVDN1lmZVE5T3hnZjlsLVYxVE1EUG9KYTV3dkVGRklkWVA5b0VnRU9LaXpWZkZWdmc?oc=5",
                        "source":  "Los Angeles Times",
@@ -44,14 +50,8 @@ window.NEWS_SNAPSHOT = {
                    },
                    {
                        "title":  "Zodiac Killer may be tied to Black Dahlia case after ‘code cracked,’ new suspect emerges",
-                       "url":  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEs2VEU0LUVyZkVmdFpuS3o2TmJwMXlzd1NYTU9ET0UxMUVLT003UWxJU0lKZHNkb2dHdzdmeXBXSEtSMHdJLWJnYlNOLTVfVTJoN3loOG5vM0ZONHdSUXdVTUtNTER2WGNmSG5Dd3FLSWV6QTJXQmVDSEZMeVdTNkFaTDVucUNUZGtHVEx1NWhiSFhQRHI1Qmlzb2ppV3VhaUE?oc=5",
+                       "url":  "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEs2VEU0LUVyZkVmdFpuS3o2TmJwMXlzd1NYTU9ET0UxMUVLT003UWxJU0lKZHNkb2dHdzdmeXBXSEtSMHdJLWJnYlNOLTVfVTJoN3loOG5vM0ZONHdSUXdVTUtNTER2WGNmSG5Dd3FLSWV6QTJXQmVDSEZMeVdTNkFaTDVucUNUZGtHVEx1NWhiSFhQRHI1Qmlzb2ppV3VhaUHSAacBQVVfeXFMTW9ldVRPRUZkREJySm5vNG9kMTlSdFJSUkJrLVd2SjAwSnA0Ymoyakg3RXlsQWp5VjNpcDRMLU9GWnRmQlNRQ3hIRkRMMFB6MGRMT0M5RWtUX2tUa09BQ0J0SXNEQkZtMWpOcW04WGVHcXZhaUp0bDkzTkhFektWOUdzSGpEcnFyamxLV18zR090SlBNY1FGZnFtbG5NV0Nsd3NyUUV5YUk?oc=5",
                        "source":  "Fox News",
-                       "date":  "2026-04-24"
-                   },
-                   {
-                       "title":  "Fox News True Crime Newsletter: Zodiac Killer’s victim, Gilgo Beach killer’s ex-wife, Nancy Guthrie’s DNA",
-                       "url":  "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMVdFV3ItQ0lOZWlCTUhFck81dm92SDVhV205cExZWUJZR2NXODZpWEc0Mk91VTVFckFadTVZLUYyWF9Xc3BVMkhzOWhkSXNyNjdZbl9aRlpKcFhzcEc4SzJwNjVwMnJXdlM3cTBESl9CYkhwUTRzMXZadzFDeGJmaDBkX2V0b0VRbjNZZGdhcENCWmVhbEIweHByeFFUQkhWejl4eHc5a3VFU0ZERFBraldmYXd0VUktNnBlU1ZkcFdpSzBsODVkOXRvczU?oc=5",
-                       "source":  "930 WFMD Free Talk",
                        "date":  "2026-04-24"
                    },
                    {
@@ -61,16 +61,16 @@ window.NEWS_SNAPSHOT = {
                        "date":  "2026-07-25"
                    },
                    {
-                       "title":  "What is Marvel\u0027s \u0027Zodiac\u0027 show about?",
-                       "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQxTWdzYlVsdUVXUG5xaXdVcHRYWGtTNkJQS0FLYVpuWXFwTW9RS2owUzlpbkFYZFJhZnJwU1Q0TDdpSjBUdXlYQ2JBd0x0RDl2YzdNT2E0d28tbEU1VG1uOHJaYVRPS09RTm9jVzExMGdNVHI4b1gtaEM3VEc4cTNtYWxUd055U2dFRmd2VllBRnc?oc=5",
-                       "source":  "Mashable",
-                       "date":  "2026-10-09"
-                   },
-                   {
                        "title":  "LAPD investigating new fingerprint in Black Dahlia murder case: Report",
                        "url":  "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXNjTnFJQjRnODRVSU9fX2JGUHlrYkhXMFNiNENZbzctWVlYRER0SnY2SXlEdGZpM0NtZ0w3RXdTZzA2Z2hlNTZISGZXX0tBRFhBaDFSazlKc3dTalcwN0JHVXVhT2tMamJ3bEhpTGZJeXpEaUNfWWNjTXZ5Uk9CV9IBhgFBVV95cUxOMm0xLUttVzRhUW80OHZjNF85SXl5Y1drTjFJNzlWZ0xucmZqYTBXSGotN3F4Q2NveFVoMlZMYUFWNVRFb20tWU1Xc3ZkdkxwQkgzOVpweU50SnZiWnV4bFRjTUlkS2RxOVo3Um5hNGM1MkZfRzlvcnR6dURLTVBTNDBCVWY2UQ?oc=5",
                        "source":  "NewsNation",
                        "date":  "2026-05-14"
+                   },
+                   {
+                       "title":  "Fox News True Crime Newsletter: Zodiac Killer’s victim, Gilgo Beach killer’s ex-wife, Nancy Guthrie’s DNA",
+                       "url":  "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMVdFV3ItQ0lOZWlCTUhFck81dm92SDVhV205cExZWUJZR2NXODZpWEc0Mk91VTVFckFadTVZLUYyWF9Xc3BVMkhzOWhkSXNyNjdZbl9aRlpKcFhzcEc4SzJwNjVwMnJXdlM3cTBESl9CYkhwUTRzMXZadzFDeGJmaDBkX2V0b0VRbjNZZGdhcENCWmVhbEIweHByeFFUQkhWejl4eHc5a3VFU0ZERFBraldmYXd0VUktNnBlU1ZkcFdpSzBsODVkOXRvczU?oc=5",
+                       "source":  "930 WFMD Free Talk",
+                       "date":  "2026-04-24"
                    }
                ],
     "jonbenet-ramsey":  [
@@ -99,12 +99,6 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-08-21"
                             },
                             {
-                                "title":  "Melissa McCarthy shares her opinion on JonBenét Ramsey case after playing her mom in limited series",
-                                "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcUQxbWZnNE9VSlJoRkRXVjkxNjEwWHQ1bHhFdW9JRnpzelZXV25PVFNxS1htYnZkTlNDQmltaWtpY3U2Um9wV3ltdzNoN2hOcV95ZS1ZY0R4S2hhcWoxZWc4U3J4LXhOSnJSc3JQY0FhNjNfZE1qSDZzd3oxNFhURmptVThWRDVBZnlEV3dhaW03cDg4LWdoM0p5dTNTclpTa2dXOHZKT2NISThfYmc?oc=5",
-                                "source":  "Entertainment Weekly",
-                                "date":  "2026-09-22"
-                            },
-                            {
                                 "title":  "JonBenét Ramsey’s father questions DNA testing after ex-CBI analyst pleads guilty",
                                 "url":  "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5X0xTa1dqWlhBNGV4NWY0MkZ5c3czLVBkcl9zZjY2ZnZHMzdpUF9ZRE5jNW0yTkx3UVlvcVVlc1hqcmJ0bmFJamp5RUd2UG4tcEg3eW9UZklXeFhkbUNPWklnUzVKRENZeHI1c0RBTjhjTmvSAXhBVV95cUxOTWZVNEVOUFNLNTAwREhxaDVuYkdfd2NNalp4YjJZb3BoZmxBOXBnb1VkekgwOWJSOHZvSUNhaHI2NDlac1R3bmpwU0JudW1vMEVGb3ZIV1FkQlNlVGhqUXVKM1JNNlpBSEFzQ2VNZVpjTjk1UkF6Tng?oc=5",
                                 "source":  "NewsNation",
@@ -117,10 +111,22 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-09-21"
                             },
                             {
+                                "title":  "Melissa McCarthy shares her opinion on JonBenét Ramsey case after playing her mom in limited series",
+                                "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcUQxbWZnNE9VSlJoRkRXVjkxNjEwWHQ1bHhFdW9JRnpzelZXV25PVFNxS1htYnZkTlNDQmltaWtpY3U2Um9wV3ltdzNoN2hOcV95ZS1ZY0R4S2hhcWoxZWc4U3J4LXhOSnJSc3JQY0FhNjNfZE1qSDZzd3oxNFhURmptVThWRDVBZnlEV3dhaW03cDg4LWdoM0p5dTNTclpTa2dXOHZKT2NISThfYmc?oc=5",
+                                "source":  "Entertainment Weekly",
+                                "date":  "2026-09-22"
+                            },
+                            {
                                 "title":  "Melissa McCarthy Reveals Her Take on JonBenét Ramsey Case After Playing Her Mom",
                                 "url":  "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mMTFGc3FiSkdHeG5XbGROWmt3dEF3dDZaeDkxdDA4cGR1TFdCRENQcDBIR283cFBJYTQxRUdVSHRRYmdHVlk0RG5yTGNHRHpud0lQNExDeGcwWGhjYWNDRnVMcGJFczFVUDAyRWtoNFQ4MGJ4VEQyXzljWEc?oc=5",
                                 "source":  "People.com",
                                 "date":  "2026-09-21"
+                            },
+                            {
+                                "title":  "‘The Murder Of JonBenét Ramsey’: Release Date On Netflix \u0026 First-Look",
+                                "url":  "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3FScGh2OGJ0NzY5UDVSREJrbE5xSWN2VEpVS2k5emwtZmVKWmdmeXNCbXZvVnY3eG9jQWZZd3dBd2JhUkFubUVCNDE0UldaVlZZYTlXYmMzYlpVQWgzNURrSDMyUFVNZDhhd3BPYjNaWUNqdlhBXzExWVdSSWUxWVZqVFlCOUFWZExWalNFUWppVHBwZ0NiX1M4Z0tuQQ?oc=5",
+                                "source":  "Deadline",
+                                "date":  "2026-09-15"
                             },
                             {
                                 "title":  "Melissa McCarthy, Clive Owen as JonBenét Ramsey Parents in Netflix Series",
@@ -129,22 +135,16 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-09-15"
                             },
                             {
-                                "title":  "Murder of JonBenét Ramsey | Case, House, Killer, Brother, Parents, \u0026 Ransom Note",
-                                "url":  "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kMmdNczBrTllWS3lLQldZOE9wcDU2dzA5czA5R2ZoSURWWlFYN1l4NXdfZW9fUDJTSVZJbjhYNy1EU3VLWGFEaVlaS3ZMTEwwd3J6eWZmcHpTWjh3aHdlMGNpZzNwUFNWeHc?oc=5",
-                                "source":  "Britannica",
-                                "date":  "2026-08-20"
+                                "title":  "Netflix is digging into the JonBenét Ramsey case — this is what I learned from covering the tragedy",
+                                "url":  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNnNqUmw5RmlQckhETm9YN2pjVGt4bkRjUjBLb2xuTmxGUm5qYXlTank3b2cxUFo3WEVYMkdtX2JYVjdsZlhObVBTdGtPWGxBSC1GV3dNeEd5TGtDcnJiN1lUX0lCQTNBWVRPdVJXbm1KbFR2ODIzM1cyUFdSREpzeDZLSFBDaEduYWZiLUtQSlpFeFFvTUl2eUxJdXV0Njk2YU04T0JDc2p1Z0lvWFl3NTFrRnhxaFk0VkVxZnp4aU1Tc2xrQlR0d0h4dERnU0kwZUE?oc=5",
+                                "source":  "New York Post",
+                                "date":  "2026-10-12"
                             },
                             {
-                                "title":  "EXCLUSIVE: ‘The Murder of JonBenét Ramsey’ has found a new home. The high-profile limited series, starring Melissa McCarthy and Clive Owen, has been picked up by Netflix which will release it as a global original this winter. McCarthy and Owen star as J",
-                                "url":  "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVm1ZVFNPU0NuN0R4QWg2WWRCYzhQbkRJQ2ZxckJuYlBiNFJGRDZXVm5fdjNOTmxBd2gtV2dCWGpNWE9iNG1kd0VhY3dlY3JQZzk3alRid1BnalliVGxaZFB1TjNsXzhxR1VFNDRxeHJ5LTF2ZU1kYUZTVFJoMVI0RUVxQ1p1dlQtek1sZDlSZThUR2NGMXdpVUpZQW1LSzNTcU5oTFY4SmxMc2w4bDRkX2dVczQ2WV9wUjhGb2ZSS0hJeURKWTgwS0c1ZkNZV19ra1Bab21JNWdpQms?oc=5",
-                                "source":  "Facebook",
+                                "title":  "After Being Shelved, ‘Murder of JonBenét Ramsey’ Series Is Back On",
+                                "url":  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeEh6bG13MGVEaV91a1dmdjZrc3lGRC13THBXQncyQWYzYlA3WGZWVmJ1a2ZDa1kzdjBaNmMwODZycmlpQ2RJSkhoZW0tb09jM0hEMXg1WURCeHBBZ2hYNDNXbWVWTGxya2JsTTRKV19GZHNmeWwzQy1ULU8wbGJFRTkzakU4czlNaVJ3a3VwWUJic2J3Mmo3VThYY1lYN3VScmkxLXBEcmpsN1hIVUExdTZR?oc=5",
+                                "source":  "Rolling Stone",
                                 "date":  "2026-07-01"
-                            },
-                            {
-                                "title":  "‘The Murder Of JonBenét Ramsey’: Release Date On Netflix \u0026 First-Look",
-                                "url":  "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3FScGh2OGJ0NzY5UDVSREJrbE5xSWN2VEpVS2k5emwtZmVKWmdmeXNCbXZvVnY3eG9jQWZZd3dBd2JhUkFubUVCNDE0UldaVlZZYTlXYmMzYlpVQWgzNURrSDMyUFVNZDhhd3BPYjNaWUNqdlhBXzExWVdSSWUxWVZqVFlCOUFWZExWalNFUWppVHBwZ0NiX1M4Z0tuQQ?oc=5",
-                                "source":  "Deadline",
-                                "date":  "2026-09-15"
                             }
                         ],
     "black-dahlia":  [
@@ -203,12 +203,6 @@ window.NEWS_SNAPSHOT = {
                              "date":  "2026-08-26"
                          },
                          {
-                             "title":  "A Bombshell Claim Just Upended Every Theory About America’s Most Infamous Murder. The Aftermath Has Been Revealing.",
-                             "url":  "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekJRNlY3NUtQU1Vld1NZN3dTSnQyamlWSUVpZ01KRnozS043a2hvcElQMkJHSUkzS21tLUVnZUVNVU92WEVrTnlSX1AxNDNZSjlpc1FLdHpjZTdTUmZmMm5lWDlweFd1TWRpd1QySjhVeDJrNlNTb2FzVk9DY2xkTFFGanRoNFdVQVdXeG5tMA?oc=5",
-                             "source":  "Slate",
-                             "date":  "2026-04-22"
-                         },
-                         {
                              "title":  "The curious, unsolved mystery of “The Black Dahlia”",
                              "url":  "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ3JtUHptRl9qR1FpUGxRajhqYzMyb2o4YVdDc3R1aVdUQUlmUlREWjRLaHp1c1ExMnRFV0JNVzg1cTQ2NDVxcjVLWFZuRGVTb1ZLVE5KQjNqeVljVGFSVWJoUTVvTVhzM1VYZnI0S0loRUpMeXdob3N5Y19QZ0lDSmJWbUV1d05GOVE?oc=5",
                              "source":  "Salon.com",
@@ -219,6 +213,12 @@ window.NEWS_SNAPSHOT = {
                              "url":  "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJbWgyeXFKYl9JdW5OMnprbkdWakYtb3BTOUFKMUM0QktrVEZ3WGx4SXY4ZWx0RGgtdGIxeXQ0Wm96ZnVuZ3Q2VFRyVHZtMThudUZYQmxiZ0J3TExFQ3o4R0xOZw?oc=5",
                              "source":  "All That\u0027s Interesting",
                              "date":  "2026-08-13"
+                         },
+                         {
+                             "title":  "Arch Enemy and Black Dahlia Murder Team Up for Extensive Co-Headlining Fall 2026 North American Tour",
+                             "url":  "https://news.google.com/rss/articles/CBMib0FVX3lxTE05NUxiSElYSXpqWkhfRzhPaldsckN0N25ON0FZazFXNE9JMUppSjNUT1Job2dKNW5uYm10Vm1QWFprN3djQXdPYlZDek44bngzbTBoUVFFZXpYa3RSODdNajBDcHhOdlRycElma2J4MA?oc=5",
+                             "source":  "Loudwire",
+                             "date":  "2026-05-19"
                          }
                      ],
     "notorious-big":  [
@@ -235,16 +235,16 @@ window.NEWS_SNAPSHOT = {
                               "date":  "2026-09-02"
                           },
                           {
+                              "title":  "Tupac’s Murder Finally Has a Guilty Verdict. But the Mystery Isn’t Over",
+                              "url":  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVlsel90NTNMcDRRam9hdkJnNzFXM19td3htQnJvSnZpRzI5Mk1pZ0ZsWmg0UHF6Yk9rQ2lVWGVhV0FhcE5FdmhCb2tVdWtQUkhuaENhU01ZekVKQjYwWDJtaTZQZ0p0VWRYc2dXcTdmX2YtQnN5WGpVa1BtVFYtTEJkVzlHWkxFRmtONUhaQ0ZUelhxbGhaQXctWEFoOUVDN3pWdUdCdXR6TlRk?oc=5",
+                              "source":  "The Hollywood Reporter",
+                              "date":  "2026-09-01"
+                          },
+                          {
                               "title":  "Tupac Shakur\u0027s murder trial begins: Former gang leader accused of ordering killing goes on trial; here\u0027s",
                               "url":  "https://news.google.com/rss/articles/CBMivAJBVV95cUxQMGFKUlAyVGFSc3gzNmdSOGx2Tml4aEpmbjRxSFZreW9uaEwyWk43Y2hnUWRhTDhZdWE0MEFsOFZIZDdxckdkWlRjb25Xb2dGU2xHOFk0TF9vMm9rY2FYN1RLNU9OWFNMNmJJSjhyR2lfaTREczhtVTlQQnh3TkVYbGF2c1U0bkF1djJ3ZlRhYjE0ZW1TZkZLTldTXzl6OU5LOURFUThHMlc1T1FzbmRzSnE1UVJoT3NySkFINzFKQThKX2JfZVgzQW9IQXE5c1luMHVkVlpRTjNoUWZFUDExVkhLVW11dTNCaHJNVnZIUl9KOXlHTFhaVUtydkZyVXFVY3poUjUta0lMdmpFYzMteXJYaGJIYWUtRlZseFo1OXRQRlRCWnBmNThDUUs1dkkwMllmMWtVTGRkZ3Fq0gHCAkFVX3lxTE5FUURSZXFwTDlVM1MwTFo3bFRXbHZfTTNTOVpnNWtGYVFPLWttN2tRYUdoN0t1QWU4WjBtSHdtTXVfZDZTbk9UT2tqS2ZWY0R2UHIxWWRJeXcyeTY1ZWhvcnVZckMtR2g3bG1jX2ZVOUU3bThkU08tQm1qcGo4MVJYZzlLRVluVnh4a1RXVWlQTk9fMi02eUZRd25RTnRGaE51enNLVy1MSjllb2wtM1RNR0VxMVE4WTUtZ29KRWVfaEUxSTA5VWlkcmVxN2ZvLVgwYVRKdEk2UldWU1BUZGxMSmFZTk1NU3AtbXR0QWJHZy16cFpmcmsxd2I1UF9UdDJFZnNURDUzRUxuVEVLSTFGeTQydmF1VW1ZX21hcG5qZWlZUXBYeTNBZkxncHN6MklON0pQOE9tcnJSUERTRlZFSmc?oc=5",
                               "source":  "The Times of India",
                               "date":  "2026-08-11"
-                          },
-                          {
-                              "title":  "Truth behind Notorious BIG\u0027s shocking murder and if P Diddy was involved",
-                              "url":  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzZOR2ZvVDV3WmIxVEgwaWoyMGkwTk5tMmtFaWF0UVNJcl8xU205Wl9HczdmcjZDVTlyMzFpQktOTXRPakpZMDgzN3hIbklJYlpGMG1HX1ZLZXhpeC1tOVRhNm16Ui1HTHNrUG0zTlpyY3dGMjlOallTUXJSZkwxb0hvYmZYR194?oc=5",
-                              "source":  "Daily Star",
-                              "date":  "2026-05-21"
                           },
                           {
                               "title":  "Keefe D Defense Team Scrambles After Prosecutors Flood Case With Evidence Connected To Notorious B.I.G. Murder",
@@ -287,16 +287,16 @@ window.NEWS_SNAPSHOT = {
                          "date":  "2026-08-17"
                      },
                      {
-                         "title":  "12 of the Most Famous Unsolved Crimes in History",
-                         "url":  "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX280Y3FMeWhRMXgwcmQyUDdQY2FzQ19VaEdwX3RBaEZxcXFnOTRqWVFCS3RSeTV2aHg1UHJVbnJ2SmJKZnBSd0szOGdhNWhXajdNbDBFTXZjUl9QUUM4bFZxSGpUWXg4azdUSUpkUUpRQ3JuSkh0TmdqeUMyTWx0dA?oc=5",
-                         "source":  "HowStuffWorks",
-                         "date":  "2026-10-13"
-                     },
-                     {
                          "title":  "THE DARKEST UNSOLVED MYSTERY YOU\u0027VE NEVER HEARD OF!! ||VILLISCA AXE MURDERS",
                          "url":  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GZFBGeGxfcndreFBkSUNkUzI4ZVQzdXNpemVmeEpuRUJqU2JZQm5VSjlJRTcwUDdOQmRkQ1dzQlZZZlV4TzY4c09VUUxGdURwdzJheGVjS1BXSkg2?oc=5",
                          "source":  "YouTube",
                          "date":  "2026-10-10"
+                     },
+                     {
+                         "title":  "12 of the Most Famous Unsolved Crimes in History",
+                         "url":  "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX280Y3FMeWhRMXgwcmQyUDdQY2FzQ19VaEdwX3RBaEZxcXFnOTRqWVFCS3RSeTV2aHg1UHJVbnJ2SmJKZnBSd0szOGdhNWhXajdNbDBFTXZjUl9QUUM4bFZxSGpUWXg4azdUSUpkUUpRQ3JuSkh0TmdqeUMyTWx0dA?oc=5",
+                         "source":  "HowStuffWorks",
+                         "date":  "2026-10-13"
                      },
                      {
                          "title":  "Famous killers from every state",
@@ -335,6 +335,12 @@ window.NEWS_SNAPSHOT = {
                                    "url":  "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMjk2YTJsWEdtVUVqUXBpUVRGS0pEcEowdkJlRGNVbEFWUHl1YTkzcTRnVjJJQURkLUtQY1VrUGpHclo3U2FzNjJVQk5xZEJKWFFLQkwxSnotejRxX1c4QlU2bUkyTGtVR2tCV3NwYm1YX2VfWFp3LWJnWjRXM2oyaG1vVHU1MUZUMGdzaHZJd1owelY5SjNodzVSemJFYmtCU3pz?oc=5",
                                    "source":  "Men\u0027s Journal",
                                    "date":  "2026-06-16"
+                               },
+                               {
+                                   "title":  "Dublin Dark-Folk Trio Saltaire Make Their Mark With Debut EP ‘Only Moonlight’",
+                                   "url":  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM01oUkRWQ2tDLWpIZXlXMUJlbnpFMVA2UUV6eUpFNmJZeDM5Qmt2TEJZeUxuT3F2TmkwU3JLZXFNRm8tOUdzV2w5elJhT1FPeF8xYkFLd2V6cEU2VklrNWZTb2JEa0h1bnZBU2hUNF9vb25kNlB0U2F1Zk55QTJaWFYwcmtwZ0RnWFhDOVlOMnk3OGF1Z1Y3cXlKSEJ3QWVqY1JSUG1qYW1QN0pCNkwzQTVWZEZtTlg2?oc=5",
+                                   "source":  "That Eric Alper",
+                                   "date":  "2026-06-07"
                                },
                                {
                                    "title":  "How the Hunt for D.B. Cooper Worked",
@@ -389,6 +395,12 @@ window.NEWS_SNAPSHOT = {
                                      "date":  "2026-09-02"
                                  },
                                  {
+                                     "title":  "Man Gets 20 Years in Teen’s 1984 ‘Texas Killing Fields’ Death After Her Dad Paid Him $33K for Answers",
+                                     "url":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZll6US1SdHA1LXZfQnc0QmN4eV9Nb2loRWlTV0ZSX3BvcWp0VXI1Y1FpMHppZUZxdTJxTTFZZVFST1VqRGNDMjVsTFlReEJHdzV6N1QtVGtUdWJrdWNuRGJIc1VjVVpINUtTRXdodlpUNlFGdUpIOWk3WUR0aDJReFJGT3RxQTM1dTV2S19LbVd6X2lVUzdRR01lZHhpWFZzZkFKSVU2NmFGM19jal9Pa0FuZUVlS1pwd202cVQyV0xNYkE0REVONw?oc=5",
+                                     "source":  "People.com",
+                                     "date":  "2026-09-03"
+                                 },
+                                 {
                                      "title":  "James Elmore Jr. found guilty of manslaughter in Texas Killing Fields trial",
                                      "url":  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkJfT0hBUjRhYURQWTJidDhMZnEwZjJtYlo5UllhcU56d0ZWNEZkUlBIMFM2U1dGUFJ0aFhFWUVNeUFmenRhUTFFbUd3QndacUkzR2wxaENlNWFpaGpoTFcxb1NXbk4xVWp3UWpUNlJyZWFfcHo1bl9zeTVpRVcyZS1aZ2hxVi1rY3BKczBKMHJVdVM0ak1LYUowRXBLcms?oc=5",
                                      "source":  "Click2Houston",
@@ -423,12 +435,6 @@ window.NEWS_SNAPSHOT = {
                                      "url":  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGprWUc2NUZJYm5oN1NqaDZtRzBldlFaeWJ1b3IycXpEREJwLXY0ZTVXbFhBUVNsYW1faE5Sa1c0TUx6ZDBpT2ZsdTJ2VnJVV2N0c0NjU3BZTkRvTWkyY2dMYjhrVDl4WlRwTUhROVA1Q1B3enpIQVhCcW1hemVhbzQ3cWFMb2k10gGOAUFVX3lxTE9PTHY5WFRRSWl6QXFRV1c3UFFoTTNVeHhYajQ1UlBlbGdBb0p3d2Z4WFF2NW5YbGRpWkI2TjJXZGZLYkcta1VpTVMyZTUwUlVTNDZZQ0dvcExpQWlvNmN3NkpRc3FiNnNBMkpyX3R3VndPZWstWFRjVWdSTmJrdWZwbk9XdnJyN3d4cTdQcVE?oc=5",
                                      "source":  "FOX 26 Houston",
                                      "date":  "2026-04-30"
-                                 },
-                                 {
-                                     "title":  "Jury proceedings ongoing for trial against James Elmore Jr., who was arrested in connection to \u0027Texas Killing Fields\u0027 case",
-                                     "url":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0R3SW4zWEVkQW43Y2prUU1vZ2RPUDJzbXJXTTJPTmZJOG9UVFQ1X0tLVjlCRE02cjVnSXVydmU3Z2x2eVJUZFl0Yng4MnoxY0RZTm1oWFVvLTJmNEthcm1zVHh4UEtVUkVFSlJveXJmeGg5Mjd5eGhDVjdFMnZrdWlsZkxydjFzSXZhUTR5c0htWXdFZnMwSFlEcEt4YUd3b1ZBOFQxOERFZVA2U2dJYUdwNjV5bEpWOFRra1IzbDZxUlo2Q1NrONIBzgFBVV95cUxNdTA5UU0tWGVJWUlELXZVTjBtNjVQSTdGLThoWjFOVVgwZHBCbjF4WktERHhScURwWTFtc3lwQkZYT19mRXhULVpsTkRlek9tUDNiOXMySTdfY3BJM1p6YzZoMmlTNkprbExUXzloM1hQUTJVMExJVjNiQU9mNV81WUZSMDY2R0dwXy1GdDVuMEw0VUhsZ3BvTi1POEpBNFFpSTRzMVNnZjVZeVZVZ2ZZYk5HanZ3aE5GT3dqeXJ4dHlmUS04LUFyUzJwY0JNdw?oc=5",
-                                     "source":  "ABC13 Houston",
-                                     "date":  "2026-08-31"
                                  }
                              ],
     "cleveland-torso":  [
@@ -541,12 +547,6 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-08-28"
                             },
                             {
-                                "title":  "Memorial held for Brown County woman killed in unsolved 2013 shooting",
-                                "url":  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX05LT1dnMnk4Rnd1OHJUZWQ2ai1IWDlkM29VdGl6c0RiVHlJallENl9QMmtGdUw1SmxVS2I0enVTaFJkZWNrM0hiVFg0RXN6UjV3UW94RDA0WGRwdS02SWM5cjNYTmVEX295OU9ubXFzcEdpWXRIVjVLWkY2clNMSkJVLThNNEpaeVBjaUlwZDhnVWFzemlhV2o2MmfSAbABQVVfeXFMTUtvWkNMNWRRRkJWM1dEWGxkZE9TbDRSeXA0bkdBVWVPcmVLd1BrQk5qbFBRY0hlUzJUU1MtWWl3NmF3dXpUWnU3QXZfSDB0bnNDcDkzTlJFNng3ZFZJRFZMOUdPd08xSGZ4Y0U3MTZINXZGZ1FWS3lVT0lacUFwS2VLZHc2QmFXUS0weWk4RTZsMjhSVjFnR3cyNVNJRk9SSUkwSmtLWEVkU0E2UTlJcEE?oc=5",
-                                "source":  "FOX19 | Cincinnati",
-                                "date":  "2026-05-04"
-                            },
-                            {
                                 "title":  "Family marks 13 years since Brown Co. woman, unborn baby killed as case remains unsolved",
                                 "url":  "https://news.google.com/rss/articles/CBMi5wJBVV95cUxONEFoWXVqMUo1dzB0R3lBcXhDRXVHQnRHQXprSFc5bWNfMmNVV0xxR09YVjJYNEd3UzNWc3NyenNET19wcEdVR3ZXRHZYQTU5MzdCUkNKM2VVUDc1eHRJSk41VlM4WjQwMUV5WHZwR2FyajFuN2ZwaHh1TWxBRXZxNTJUNGRXbWxoemgxemdPTVBxQzhTUTVvVEhmbXI3a3l1b0lydHU1a0stWmd0ajJ3QzFYZHNRUXAwZFlnMjRqS0ZuUXh4X2RzN0h2SE5iVmNfREhMcDM2d3AwcXBjS2NBYXEzeE9TNzdpQzQzTDNzd0tFdnFsMjdoWWpPTEN2TTg5bzR2UV95SVpuOVYtTDllMEtVWlFiMWhKeWw0M2FBcWxySjdOdG12UU95dUtIWTc2Sk41VC0zczdTME12aUNxZkh6U3g2R0VRbVRNT19OeFZFcTNIZnhqbTdsRmh6UEZwTldoUzdEdw?oc=5",
                                 "source":  "WKRC",
@@ -589,6 +589,12 @@ window.NEWS_SNAPSHOT = {
                              "url":  "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdUJQUWFuT1FvX1d2SkdIcUZROHMtUW02R2d5dzlvX0x1d1d1Z0pPTHZuZ3lWZDJLSlBUVF9LRkFKYy14MGNEM29wRTJ6bG1MVGhOVzVxd0UyTTRvY3ZCTVd1MVBWanpSb3FLWnpyNFZ1RVZ6bm02UFB3Z1BxMFFFd3QtazlMNlBsTHRReExiMmh4N2d0dmFBU3g5cm90SlB2NnNmQndjcw?oc=5",
                              "source":  "WLWT",
                              "date":  "2026-07-30"
+                         },
+                         {
+                             "title":  "Former death row inmate Elwood Jones sues Blue Ash, former police officers over wrongful murder conviction",
+                             "url":  "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSDVhRFMtT2RuZnNERm1FZ2NUZ3FNcVBQd1pCLU1rR0lCZlowRHlidHByNEI3YklWQVVuQnRfMEMzamhZSlhLY1A4Nk1DQ0dhTHB2VDBuNVNyNFNGQ2ZuVjVoaDM1NW0wbEZZMDRPV0JjWVhGT3lsaV9YUV8za3NEOUhOSWVjT1dPNS1zcTQ0LUdXcnJiTWdkaGNQTktWMzA2QXFIX0lVa29GTWg1X1BwdGdRREw3UGF5TXRlT3ZHMFM1a1Q1RVI5S2d0VGQ1bm81azc3aVJ1U2tQLVd2ZUsxTnJIQmFiTWJ4TXRtSkJTMkRIdnRERnpuMmJMWQ?oc=5",
+                             "source":  "WCPO 9 Cincinnati",
+                             "date":  "2026-07-31"
                          },
                          {
                              "title":  "Evidence \u0027planted\u0027 by Blue Ash police led to Elwood Jones conviction, lawsuit says",
@@ -641,12 +647,6 @@ window.NEWS_SNAPSHOT = {
                             "date":  "2026-05-25"
                         },
                         {
-                            "title":  "Remembering Jason Ellis 13 years later - The News-Enterprise",
-                            "url":  "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLU53TXZJZ2pBSGNLTmx0NldaNzNKQ050MFFVLXVtcXVYdGxab2xVZ1ZkcnRzVU82VUQ0QlFPZEhRRVk3LWEtdHdUajE2amVta0xwQ0JpZldRR09rVXBXX3F2WnUwcGNCcFY2cXBCRDN3Nkl1aUN4QU02bTZLRW16V0d6TWw1MFNQYUpLX1dNYXl2RUozRmlDWnE2eDhUQU0wdThNY1lPOG40VmlHcTRWSGR5YThBcTkzYUE5c2puNnBDbUhHLXZoc3EwdmZFdw?oc=5",
-                            "source":  "The News-Enterprise",
-                            "date":  "2026-10-02"
-                        },
-                        {
                             "title":  "Remembering Jason Ellis 13 years later - pmg-ky2.com",
                             "url":  "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeHlvV2VOM0cxdGQyaHI4bVczSVJ2YUduZGlKYnhDY0p0azdtQ1lCaU5OOE5ELWc5dGQxdERaMWM2aENFWkc2dHdsQy16Rm9CNTZUTmp0MlQySFBBUHh5T2VidDltNnQ0cjFXczZSajI3LVBJYlh3SGl2Y2NDNWJIY19CZkhPcDhJcGY3QzRBMG1XYlc5QXNvZi1VLW9ZQlduWF9iQWF3dDlWMS14LVo4bzQ2WnVmdzhSZjdNZG9JV0xMNjQ1OHdv?oc=5",
                             "source":  "pmg-ky2.com",
@@ -691,16 +691,16 @@ window.NEWS_SNAPSHOT = {
                               "date":  "2026-09-15"
                           },
                           {
-                              "title":  "Bardstown bridge dedicated to memory of Crystal Rogers, father Tommy Ballard",
-                              "url":  "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0hUSVJmY1o0dFNObU9FZE82bzlxNDBORW81S2NXNEJ1cWVqMmFablAwcGs0UjVCSC1Nd01aNW90WWdYQUJLQ1NUSjZxMmVfZF9fNUZpS19aSkxVVkJuUmR3WEdlNklHTkxiN1ZfWURvZXlJR1AyNFVJSVlvYXZZMWtWRWkzSnpGdk9YSjJqRWtuX01hSEJISjVoTW1LVHVsbl84eW1tWHRVRWdxa1JIdFJB0gG3AUFVX3lxTE5ieUU2WWVFczlRYXBpQjl6WUFPcjgtTk40UXVnQzQtUVlHc3lFdjBQVGpDc2pMU1JyR19mb0JaWmFORHBMd2ZWVEpCMklLY0FKdE5ua0IxZmhTOUQ0OVd3TnRub0RjLVN4OFdDbEhPYkdlUk9FbHdFZDVwb2tCOFROTXpMRERZWklvdFEyb1Z3TUIzYlFORDU1SGhwbFVxYXA1RlpmX1pQSjB3MmVILWJCOExNWF9rUQ?oc=5",
-                              "source":  "FOX 56 News",
-                              "date":  "2026-09-17"
-                          },
-                          {
                               "title":  "Bridge in Nelson County dedicated in memory of Crystal Rogers and Tommy Ballard",
                               "url":  "https://news.google.com/rss/articles/CBMingFBVV95cUxPclNNVWZqaTRsWFpMVklRU2t2UWZxNTAtVGRpWEV3M0VzSXk1SURzaFRHdFFwZTNUUV95UTA2dGxnU1JzcGxoa1Rfc042MDZzS1h1T0p1VFpVYnFlOUc1VnhlU1ZVbGpqRGJaY3JPVjlMYWt1VEF1ak9ORE9uak5Rb2lTWXpJLUNKRldkQndlQzBmTUktN1VIUWE4MXcxdw?oc=5",
                               "source":  "WLKY",
                               "date":  "2026-09-15"
+                          },
+                          {
+                              "title":  "Bardstown bridge dedicated to memory of Crystal Rogers, father Tommy Ballard",
+                              "url":  "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0p6bEVSRksyTXNPVUF6ZVg5T3B3dmQ0MVBmTlQyOEdBLTgwa1VUM0Y2TzRNT0RudkRnSTcwMHZFUllyYkR1bGlNcDlUN1BOdFBPX3A3cVpRV3VDVm5wSDdBUlE3ZGZDY1QycmlmWVJxck9LNFpYVlZ6QUlqd1VNSHJMU25pMGtBbUlqRlZ3?oc=5",
+                              "source":  "AOL.com",
+                              "date":  "2026-09-17"
                           },
                           {
                               "title":  "Crystal Rogers and Tommy Ballard to be memorialized with Bardstown bridge",
@@ -830,6 +830,15 @@ window.NEWS_SNAPSHOT = {
                        ],
     "brian-thompson":  [
 
-                       ]
+                       ],
+    "sandra-jefferson":  [
+
+                         ],
+    "adams-marcelin":  [
+
+                       ],
+    "tonka-george":  [
+
+                     ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-18 18:41";
+window.NEWS_SNAPSHOT_AT = "2026-10-20 11:19";
