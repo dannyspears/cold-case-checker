@@ -129,16 +129,16 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-09-19"
                             },
                             {
-                                "title":  "Netflix is digging into the JonBenét Ramsey case — this is what I learned from covering the tragedy",
-                                "url":  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNnNqUmw5RmlQckhETm9YN2pjVGt4bkRjUjBLb2xuTmxGUm5qYXlTank3b2cxUFo3WEVYMkdtX2JYVjdsZlhObVBTdGtPWGxBSC1GV3dNeEd5TGtDcnJiN1lUX0lCQTNBWVRPdVJXbm1KbFR2ODIzM1cyUFdSREpzeDZLSFBDaEduYWZiLUtQSlpFeFFvTUl2eUxJdXV0Njk2YU04T0JDc2p1Z0lvWFl3NTFrRnhxaFk0VkVxZnp4aU1Tc2xrQlR0d0h4dERnU0kwZUE?oc=5",
-                                "source":  "New York Post",
-                                "date":  "2026-10-12"
-                            },
-                            {
                                 "title":  "‘The Murder Of JonBenét Ramsey’: Release Date On Netflix \u0026 First-Look",
                                 "url":  "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3FScGh2OGJ0NzY5UDVSREJrbE5xSWN2VEpVS2k5emwtZmVKWmdmeXNCbXZvVnY3eG9jQWZZd3dBd2JhUkFubUVCNDE0UldaVlZZYTlXYmMzYlpVQWgzNURrSDMyUFVNZDhhd3BPYjNaWUNqdlhBXzExWVdSSWUxWVZqVFlCOUFWZExWalNFUWppVHBwZ0NiX1M4Z0tuQQ?oc=5",
                                 "source":  "Deadline",
                                 "date":  "2026-09-15"
+                            },
+                            {
+                                "title":  "Netflix is digging into the JonBenét Ramsey case — this is what I learned from covering the tragedy",
+                                "url":  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNnNqUmw5RmlQckhETm9YN2pjVGt4bkRjUjBLb2xuTmxGUm5qYXlTank3b2cxUFo3WEVYMkdtX2JYVjdsZlhObVBTdGtPWGxBSC1GV3dNeEd5TGtDcnJiN1lUX0lCQTNBWVRPdVJXbm1KbFR2ODIzM1cyUFdSREpzeDZLSFBDaEduYWZiLUtQSlpFeFFvTUl2eUxJdXV0Njk2YU04T0JDc2p1Z0lvWFl3NTFrRnhxaFk0VkVxZnp4aU1Tc2xrQlR0d0h4dERnU0kwZUE?oc=5",
+                                "source":  "New York Post",
+                                "date":  "2026-10-12"
                             },
                             {
                                 "title":  "Netflix gives first look at ‘The Murder of JonBenét Ramsey’ limited series - WSB-TV",
@@ -840,6 +840,9 @@ window.NEWS_SNAPSHOT = {
                             "source":  "YouTube",
                             "date":  "2026-08-01"
                         }
-                    ]
+                    ],
+    "darian-woods":  [
+
+                     ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-23 12:42";
+window.NEWS_SNAPSHOT_AT = "2026-10-23 16:25";
