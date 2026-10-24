@@ -46,7 +46,7 @@ window.NEWS_SNAPSHOT = {
                        "title":  "L.A. Noire 2 Zodiac Leak: 6 Outlets, One 2023 Post [2026]",
                        "url":  "https://news.google.com/rss/articles/CBMia0FVX3lxTE44RXBaSG5DUFJUckhGYXF2TURFX3J3OXlST1h4RlNFMnY4LXcyYzMya0JKNkF4LXNFcWFidzE1Tmt2cG9fMG9VeDBEbHpNeWRiUWVkMUlMZEVkTUZ3bF9PcE1pQzhPRTNFUVo0?oc=5",
                        "source":  "shattered.io",
-                       "date":  "2026-09-30"
+                       "date":  "2026-10-19"
                    },
                    {
                        "title":  "Were the Zodiac killer and the Black Dahlia the same person? The devil is in the details",
@@ -67,13 +67,19 @@ window.NEWS_SNAPSHOT = {
                        "date":  "2026-05-14"
                    },
                    {
-                       "title":  "What is Marvel\u0027s \u0027Zodiac\u0027 show about?",
-                       "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQxTWdzYlVsdUVXUG5xaXdVcHRYWGtTNkJQS0FLYVpuWXFwTW9RS2owUzlpbkFYZFJhZnJwU1Q0TDdpSjBUdXlYQ2JBd0x0RDl2YzdNT2E0d28tbEU1VG1uOHJaYVRPS09RTm9jVzExMGdNVHI4b1gtaEM3VEc4cTNtYWxUd055U2dFRmd2VllBRnc?oc=5",
-                       "source":  "Mashable",
-                       "date":  "2026-10-09"
+                       "title":  "Did the Zodiac Kill the Black Dahlia? This Crime Writer Thinks So.",
+                       "url":  "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdm9veDFMY0Z2Q0VZX25leUF1dnNNWlF1dEFFU0xNLUVoZ3NNSFJlQ0pRazZaT0ZxMmJ6VFFYOEk0VldiSlAybGtaMzFqX0tIbTdLZkhyNHZIaTYtN1VKQzVMaUh6Qk5faVk3U1ZrM283SDcyX25DOEhKUWFNU0NyS25yYXZmd2dWbjAyT2VtUUVwSFQ1cU9POTBjTmlteFdoM0cyaUpVOFg1bWFIM2pkNXV6UW1MdWVfcWJzeWRWOFdtRXdJSWVZQ21vTGtGeGF3SGxSazZieUgzWW1tUVQ1dlBweXpUa2hzRi1nX2gtMkNYVG1OQ1A0?oc=5",
+                       "source":  "The Seattle Times",
+                       "date":  "2026-08-28"
                    }
                ],
     "jonbenet-ramsey":  [
+                            {
+                                "title":  "Netflix is digging into the JonBenét Ramsey case — this is what I learned from covering the tragedy",
+                                "url":  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNnNqUmw5RmlQckhETm9YN2pjVGt4bkRjUjBLb2xuTmxGUm5qYXlTank3b2cxUFo3WEVYMkdtX2JYVjdsZlhObVBTdGtPWGxBSC1GV3dNeEd5TGtDcnJiN1lUX0lCQTNBWVRPdVJXbm1KbFR2ODIzM1cyUFdSREpzeDZLSFBDaEduYWZiLUtQSlpFeFFvTUl2eUxJdXV0Njk2YU04T0JDc2p1Z0lvWFl3NTFrRnhxaFk0VkVxZnp4aU1Tc2xrQlR0d0h4dERnU0kwZUE?oc=5",
+                                "source":  "New York Post",
+                                "date":  "2026-10-12"
+                            },
                             {
                                 "title":  "See Melissa McCarthy and Clive Owen in The Murder of JonBenét Ramsey on Dec. 10",
                                 "url":  "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQkExQjV6cDlhQVB5a2Q5ZDJSV2tqRWI4LWJVVnFEMXM0OVlDT1ZVd3FESUFGV0ZSbHpnQ1RoNGxIa1BUNFhtT2prdXVTbXFKYmNBc3A1b2V3SjVQaW9ZU0VSOXVuY1NTbUdWaHlRUGpzMy1pZ29KVlNHWFZLZkVSbW1ySzFIcmhWUWc?oc=5",
@@ -93,12 +99,6 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-09-22"
                             },
                             {
-                                "title":  "Melissa McCarthy shares her opinion on JonBenét Ramsey case after playing her mom in limited series",
-                                "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcUQxbWZnNE9VSlJoRkRXVjkxNjEwWHQ1bHhFdW9JRnpzelZXV25PVFNxS1htYnZkTlNDQmltaWtpY3U2Um9wV3ltdzNoN2hOcV95ZS1ZY0R4S2hhcWoxZWc4U3J4LXhOSnJSc3JQY0FhNjNfZE1qSDZzd3oxNFhURmptVThWRDVBZnlEV3dhaW03cDg4LWdoM0p5dTNTclpTa2dXOHZKT2NISThfYmc?oc=5",
-                                "source":  "Entertainment Weekly",
-                                "date":  "2026-09-22"
-                            },
-                            {
                                 "title":  "\u0027The Murder of JonBenét Ramsey\u0027 Netflix series reveals first look",
                                 "url":  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVN4eXBYZ0QtZDhhWkpGNzJ3S1ZLTEJaQ1hHaER5Tnp2cHlMQ3FISUxVcXNkMmc0Z0FPcmFQVXZBZ0pTSWFZWTdNXzRwQWdEekQtaTlWSk1US0dqV2FXRDZsSWQwdm5PVFRON0hjS3BUQXFhOGZLYzFyRUNnQVdyWVh1YUdNSlNTNS14Tm5oUmdfVlFOY1J5a3NRWDdkd3p0N3ZvYTZva1dzRFk?oc=5",
                                 "source":  "The Post",
@@ -111,15 +111,21 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-09-09"
                             },
                             {
-                                "title":  "Melissa McCarthy Reveals Her Take on JonBenét Ramsey Case After Playing Her Mom",
-                                "url":  "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mMTFGc3FiSkdHeG5XbGROWmt3dEF3dDZaeDkxdDA4cGR1TFdCRENQcDBIR283cFBJYTQxRUdVSHRRYmdHVlk0RG5yTGNHRHpud0lQNExDeGcwWGhjYWNDRnVMcGJFczFVUDAyRWtoNFQ4MGJ4VEQyXzljWEc?oc=5",
-                                "source":  "People.com",
-                                "date":  "2026-09-21"
+                                "title":  "Melissa McCarthy shares her opinion on JonBenét Ramsey case after playing her mom in limited series",
+                                "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcUQxbWZnNE9VSlJoRkRXVjkxNjEwWHQ1bHhFdW9JRnpzelZXV25PVFNxS1htYnZkTlNDQmltaWtpY3U2Um9wV3ltdzNoN2hOcV95ZS1ZY0R4S2hhcWoxZWc4U3J4LXhOSnJSc3JQY0FhNjNfZE1qSDZzd3oxNFhURmptVThWRDVBZnlEV3dhaW03cDg4LWdoM0p5dTNTclpTa2dXOHZKT2NISThfYmc?oc=5",
+                                "source":  "Entertainment Weekly",
+                                "date":  "2026-09-22"
                             },
                             {
                                 "title":  "Melissa McCarthy on Getting Serious for ‘JonBenét Ramsey,’ the Psychiatrist on Set and Hollywood’s ‘Bulls—’ Excuse for Why Comedies Don’t Work Anymore",
                                 "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHRyUXQ5WnhsTzNpTTRUbl9HeTVjRG5sSnhsS3BTZU5fOVcxN3VURHBwbFltd3dXWlE3ME5YWDBWVzFhUjV6dUNJQ0VJMXdBNUY0a3ZqVnVrVkl3MDhfMk12dVh0UEpBMVpxMjVULUZScFRuN0traEpWS0JOY0dnOF8yUmJqUVNKT1ZSUDJ1MHNINzRiSVI3a2cxbVRMeDRTLWFoTkdzNFlLV25FV0E?oc=5",
                                 "source":  "Variety",
+                                "date":  "2026-09-21"
+                            },
+                            {
+                                "title":  "Melissa McCarthy Reveals Her Take on JonBenét Ramsey Case After Playing Her Mom",
+                                "url":  "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mMTFGc3FiSkdHeG5XbGROWmt3dEF3dDZaeDkxdDA4cGR1TFdCRENQcDBIR283cFBJYTQxRUdVSHRRYmdHVlk0RG5yTGNHRHpud0lQNExDeGcwWGhjYWNDRnVMcGJFczFVUDAyRWtoNFQ4MGJ4VEQyXzljWEc?oc=5",
+                                "source":  "People.com",
                                 "date":  "2026-09-21"
                             },
                             {
@@ -133,12 +139,6 @@ window.NEWS_SNAPSHOT = {
                                 "url":  "https://news.google.com/rss/articles/CBMingFBVV95cUxNb3FScGh2OGJ0NzY5UDVSREJrbE5xSWN2VEpVS2k5emwtZmVKWmdmeXNCbXZvVnY3eG9jQWZZd3dBd2JhUkFubUVCNDE0UldaVlZZYTlXYmMzYlpVQWgzNURrSDMyUFVNZDhhd3BPYjNaWUNqdlhBXzExWVdSSWUxWVZqVFlCOUFWZExWalNFUWppVHBwZ0NiX1M4Z0tuQQ?oc=5",
                                 "source":  "Deadline",
                                 "date":  "2026-09-15"
-                            },
-                            {
-                                "title":  "Netflix is digging into the JonBenét Ramsey case — this is what I learned from covering the tragedy",
-                                "url":  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNnNqUmw5RmlQckhETm9YN2pjVGt4bkRjUjBLb2xuTmxGUm5qYXlTank3b2cxUFo3WEVYMkdtX2JYVjdsZlhObVBTdGtPWGxBSC1GV3dNeEd5TGtDcnJiN1lUX0lCQTNBWVRPdVJXbm1KbFR2ODIzM1cyUFdSREpzeDZLSFBDaEduYWZiLUtQSlpFeFFvTUl2eUxJdXV0Njk2YU04T0JDc2p1Z0lvWFl3NTFrRnhxaFk0VkVxZnp4aU1Tc2xrQlR0d0h4dERnU0kwZUE?oc=5",
-                                "source":  "New York Post",
-                                "date":  "2026-10-12"
                             },
                             {
                                 "title":  "Netflix gives first look at ‘The Murder of JonBenét Ramsey’ limited series - WSB-TV",
@@ -159,6 +159,12 @@ window.NEWS_SNAPSHOT = {
                              "url":  "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVjFLVGFmMVhsUWFuMnBpcFhUbjFHNXpHVmZ1ckdnSVZwM3NkeTVyc3puYUdDNUp2NF9KUzZXWUZ1TE52ZzJzeEYyelBPN0FDMnpHWVZTcHk5QS1UOENmSDRTdjM0YUlyYmVMcEdjUVBIbzYzbGc2dWlqczVuRUE3U3lPcVRlRzZLNTMwZWZxWW5fcmZwZDh1bWtZTTE1NWtCQU1BZHR5ZGhkNHVPeWR4Wk5PSUxIR3lxSkVkYmlJajNkUXNGdnhhUnpUdGdkdw?oc=5",
                              "source":  "Awards Daily",
                              "date":  "2026-04-29"
+                         },
+                         {
+                             "title":  "The Black Dahlia’s Autopsy Report Is Missing; Investigators Want to Know Why",
+                             "url":  "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEFTZHhqcGxrN0p4SVhwb2hZbmRpZWVyajdhSHpHUlR3ZG1VQThadVJTR055MF9MTGN1dGhCanpoVjk3MTlHSnpabHNEYUk0cFVrcU0wNXNoSGVaSHhpMWhKczhkUlcyOVBHV2NmU2tfU2VJY0NOeXZwTHU3MzRab1BWZU9xR3E3V05FTDBlc1RVMmg2LUtOVzVmWXhLZDc4cFphejhn?oc=5",
+                             "source":  "LAmag",
+                             "date":  "2026-10-07"
                          },
                          {
                              "title":  "The Black Dahlia Murder Has Gone Unsolved for Decades. The Theories Are Still Disturbing.",
@@ -185,12 +191,6 @@ window.NEWS_SNAPSHOT = {
                              "date":  "2026-07-01"
                          },
                          {
-                             "title":  "The Black Dahlia’s Autopsy Report Is Missing; Investigators Want to Know Why",
-                             "url":  "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEFTZHhqcGxrN0p4SVhwb2hZbmRpZWVyajdhSHpHUlR3ZG1VQThadVJTR055MF9MTGN1dGhCanpoVjk3MTlHSnpabHNEYUk0cFVrcU0wNXNoSGVaSHhpMWhKczhkUlcyOVBHV2NmU2tfU2VJY0NOeXZwTHU3MzRab1BWZU9xR3E3V05FTDBlc1RVMmg2LUtOVzVmWXhLZDc4cFphejhn?oc=5",
-                             "source":  "LAmag",
-                             "date":  "2026-10-07"
-                         },
-                         {
                              "title":  "Black Dahlia Murder: Filmmakers Claim They Solved Elizabeth Short Murder Case",
                              "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ29YTmFWZ3Y5VmZ1eERIN3dtTGVnaGtXSGJQdkFMZkRySFhTRUhCN21SZWN1RVQyejhsNmNzVjVPZkZaTDV0OTItdk1jNVJoenlKQ3JTWGttdGdKQl9KVDJzUVd3eG5FT3ZKM0FiVjhtSGJMTHJQdGQxTVdla3RhRDhpTk41ZnZrSkI4dXlWSFhKRVlUSEk3M0E5N0VtTUZvaFdsRlBZRHI5YWdueEE?oc=5",
                              "source":  "TV Insider",
@@ -209,16 +209,16 @@ window.NEWS_SNAPSHOT = {
                              "date":  "2026-05-19"
                          },
                          {
-                             "title":  "Black Dahlia breakthrough: LAPD examines new fingerprint tied to victim’s ex-boyfriend",
-                             "url":  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTVtRk9qbk9NVkpDLVlxbHM1c3VkY0pkQ2pqS3VxaXR2a1RJZmlwNlpsem5UUUV5dmlvVkIzWHRSeDNFSHRTX25ta3hKNHNmZFg3RUwyWnI4MXlCUmhPeUM1T2g4U1JvbjN5X09JZ1Nsdi1sTzYwdGYwclk1X0tWT2tmb2tmNWdQRjBTSjEzeWpwOHVPYkVWeGpOcUtfWjk0OV9uZEFHRjJsemhh0gGyAUFVX3lxTE5JLTY1MEstbFhxTFJEb1FlMFlJR0NKUUNHSGkwV2M5cGh6N05rTVhVREdjZTFJdW95bVVBM3VOdTFGeHJhOXFPc2VxeEdYOXQyUzJSdVhfc05VaWNfT3lpWEF0X29tV1Bfb3B0OC05b19teGl0NVJobDZ6NTNwa09XNnJrTTBJQjdZZWlWMVh2RlFsOEdEanJCZVQyTk5LdlRQakJnQXpJaG1zUmFIaXF2YkE?oc=5",
-                             "source":  "Fox News",
-                             "date":  "2026-05-14"
-                         },
-                         {
                              "title":  "Black Dahlia Elizabeth Short\u0027s Friend Reveals Rare Childhood Insight as Fight to Solve Case Continues",
                              "url":  "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3NfMjdnT1A5OVdRbVJQaWFQcHBpaGpPQ1owNkpSMW5Ma3ljNTBoVWRYREN1azZNRTNnUDNjTjI5SXNoQnBwaUw1LVc1NjNORXY1c2tTZGlRVTdVVjQ5b3hBOTIzMXJtdE1NbEhTbzlSSGpMRThFMWttd0ZKbFpTZWM0RC1lVVpZb3JmRmk1ZExLSmxvT2gzM1R1TUsyWE4tLUNrSG5fOEIxN2Rz?oc=5",
                              "source":  "Oxygen Official Site",
                              "date":  "2026-07-31"
+                         },
+                         {
+                             "title":  "Investigative team says they know who killed the Black Dahlia",
+                             "url":  "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdW5BNnlxT3gyTE50TTFQazhuaHhJNWQteXRkb3VRYk4tZkFlMngwdGFCYXdYcVVhY2VuME9PTHhCNVJSUU00ZEJ6c1liZHhWcXVvME96SFItNjdZVTdNNkRmbVNvcnRieE5hQlc3YllmT21iUHBMWWMyeG5vRXI3V0lhYk92UmxzaTF1Y2FQQy1HTHRB0gGaAUFVX3lxTE1hMDFBMGZJbkRZMEhjUkdXUE81Xy05WWlDQVB3Qk5WTVQxRG5FaDBCaUx4N1BtRk4zeER5cmZndTZxTXY5VVhzcmxId2l5QndDM21QNlJCeC1WRnFuMUlheHQ3TXp2WlZGV1FETlhHcnNzOXRUZ3I0MVo3QUUzTHRnMXI4U0NTaGNmcFR1ZmJvWDNMdW5vZWw1b1E?oc=5",
+                             "source":  "NewsNation",
+                             "date":  "2026-05-28"
                          }
                      ],
     "notorious-big":  [
@@ -299,6 +299,12 @@ window.NEWS_SNAPSHOT = {
                          "date":  "2026-10-16"
                      },
                      {
+                         "title":  "How the Hunt for D.B. Cooper Worked",
+                         "url":  "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUG5lWG1JeXhIMWtra1dkWXBMdG53OF9zbmEzekZ6Y05fTXg0UEEwY2Uxd2U1SmpjSHpKOGR2emZlRkpTckZPX2xpT1Z1bXFHRllpdTdDOFMtdEdrb1ZzNDFjZzVZNFVkMHFJMjNvOEx1c0NKYV93LTB6M0d1Y1l4VkNxVHJOeUNjbHc?oc=5",
+                         "source":  "HowStuffWorks",
+                         "date":  "2026-10-13"
+                     },
+                     {
                          "title":  "THE DARKEST UNSOLVED MYSTERY YOU\u0027VE NEVER HEARD OF!! ||VILLISCA AXE MURDERS",
                          "url":  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GZFBGeGxfcndreFBkSUNkUzI4ZVQzdXNpemVmeEpuRUJqU2JZQm5VSjlJRTcwUDdOQmRkQ1dzQlZZZlV4TzY4c09VUUxGdURwdzJheGVjS1BXSkg2?oc=5",
                          "source":  "YouTube",
@@ -329,6 +335,12 @@ window.NEWS_SNAPSHOT = {
                                    "url":  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPM01oUkRWQ2tDLWpIZXlXMUJlbnpFMVA2UUV6eUpFNmJZeDM5Qmt2TEJZeUxuT3F2TmkwU3JLZXFNRm8tOUdzV2w5elJhT1FPeF8xYkFLd2V6cEU2VklrNWZTb2JEa0h1bnZBU2hUNF9vb25kNlB0U2F1Zk55QTJaWFYwcmtwZ0RnWFhDOVlOMnk3OGF1Z1Y3cXlKSEJ3QWVqY1JSUG1qYW1QN0pCNkwzQTVWZEZtTlg2?oc=5",
                                    "source":  "That Eric Alper",
                                    "date":  "2026-06-07"
+                               },
+                               {
+                                   "title":  "How the Hunt for D.B. Cooper Worked",
+                                   "url":  "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUG5lWG1JeXhIMWtra1dkWXBMdG53OF9zbmEzekZ6Y05fTXg0UEEwY2Uxd2U1SmpjSHpKOGR2emZlRkpTckZPX2xpT1Z1bXFHRllpdTdDOFMtdEdrb1ZzNDFjZzVZNFVkMHFJMjNvOEx1c0NKYV93LTB6M0d1Y1l4VkNxVHJOeUNjbHc?oc=5",
+                                   "source":  "HowStuffWorks",
+                                   "date":  "2026-10-13"
                                }
                            ],
     "springfield-three":  [
@@ -523,22 +535,28 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-08-28"
                             },
                             {
+                                "title":  "Friends and family honor Brittany Stykes",
+                                "url":  "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVRqaGlmdlZnMGhQbzlWeGRWSHljM01ycmwweFZPM2pnbkdYUDdhNm1PbHVsTlpvZ0dlRWJPTUpGNkZuMldtTlVwTkpPN0puLTZpd2ZNcER4THJXald1WVhxTC1yVW5qaUdnNW5qWHNLdUtkLURnUkJYWUROS2o4SUFB?oc=5",
+                                "source":  "FOX19 | Cincinnati",
+                                "date":  "2026-05-05"
+                            },
+                            {
                                 "title":  "13 years later, family still seeks justice for Brittany Stykes",
                                 "url":  "https://news.google.com/rss/articles/CBMingFBVV95cUxNVktvMWI1QXlMTk5RZlgyUDhGcUVfelBWOEY5aXRmRWdNOWNvSjlsRVkxRFFBNzBQbzQtNkotUVZmc1p4X1lqWDZxRUg0LVQzQnhrVV9vMmJRTm12cGNILUtmUlBVdEJ5TWY5NzQwMGNKUS05ek9mSExmYnloeHZFWmVRRDJDQnVTVE9PcVVIRFNLeXNTQ1o4ZExITzVFdw?oc=5",
                                 "source":  "FOX19 | Cincinnati",
                                 "date":  "2026-08-28"
                             },
                             {
-                                "title":  "Memorial held for Brown County woman killed in unsolved 2013 shooting",
-                                "url":  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX05LT1dnMnk4Rnd1OHJUZWQ2ai1IWDlkM29VdGl6c0RiVHlJallENl9QMmtGdUw1SmxVS2I0enVTaFJkZWNrM0hiVFg0RXN6UjV3UW94RDA0WGRwdS02SWM5cjNYTmVEX295OU9ubXFzcEdpWXRIVjVLWkY2clNMSkJVLThNNEpaeVBjaUlwZDhnVWFzemlhV2o2MmfSAbABQVVfeXFMTUtvWkNMNWRRRkJWM1dEWGxkZE9TbDRSeXA0bkdBVWVPcmVLd1BrQk5qbFBRY0hlUzJUU1MtWWl3NmF3dXpUWnU3QXZfSDB0bnNDcDkzTlJFNng3ZFZJRFZMOUdPd08xSGZ4Y0U3MTZINXZGZ1FWS3lVT0lacUFwS2VLZHc2QmFXUS0weWk4RTZsMjhSVjFnR3cyNVNJRk9SSUkwSmtLWEVkU0E2UTlJcEE?oc=5",
-                                "source":  "FOX19 | Cincinnati",
-                                "date":  "2026-05-04"
-                            },
-                            {
                                 "title":  "Family marks 13 years since Brown Co. woman, unborn baby killed as case remains unsolved",
                                 "url":  "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOUzhxcWpNUkhfQmVnTFAtM3JZVkhiRWRtWmluSjBkWF8tRFg1dGlhSFM4QTI5ZEMzZzVqMzFtMGEydmRIMzF5MThYWHV1ejNpMDNQMUFXN0VONlVkWHI3ekV1ZGpMWkEwbXNDckhPckNTWU5rMUdBQXZWZFZRcXRRUXN1dDJqT3F5RmVaNS1zSWdueUVuMHZTZFM0NlYtWlYzYUlZT3VPOHRGX3Q2M2ZOYV9aNjVRUGs1OTAyQTRzbnhZWDJjVDhwMlg3NWZZU1VZeHE3U2RCQVgzWjhQNDFyS1BHV3hxd2QtanRhcGhqNldtck5pcGV1MUhRc2hvVmMteHJIbUpGV3p4bkhXb0xxaHo4TW9nTmtNaTlrU1FTZWJ3MUU0YjY0TjRmRTA0LTVTMlJsN2JiZUJVOGdsclEtclE0OTJ3MHd4ck5LZHhKRnVyVFpUb2hiYjdQYnc5a1Y4U0RBZXZsT3RCNHpSV3VyZHR3?oc=5",
                                 "source":  "WKRC",
                                 "date":  "2026-10-10"
+                            },
+                            {
+                                "title":  "Memorial held for Brown County woman killed in unsolved 2013 shooting",
+                                "url":  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX05LT1dnMnk4Rnd1OHJUZWQ2ai1IWDlkM29VdGl6c0RiVHlJallENl9QMmtGdUw1SmxVS2I0enVTaFJkZWNrM0hiVFg0RXN6UjV3UW94RDA0WGRwdS02SWM5cjNYTmVEX295OU9ubXFzcEdpWXRIVjVLWkY2clNMSkJVLThNNEpaeVBjaUlwZDhnVWFzemlhV2o2MmfSAbABQVVfeXFMTUtvWkNMNWRRRkJWM1dEWGxkZE9TbDRSeXA0bkdBVWVPcmVLd1BrQk5qbFBRY0hlUzJUU1MtWWl3NmF3dXpUWnU3QXZfSDB0bnNDcDkzTlJFNng3ZFZJRFZMOUdPd08xSGZ4Y0U3MTZINXZGZ1FWS3lVT0lacUFwS2VLZHc2QmFXUS0weWk4RTZsMjhSVjFnR3cyNVNJRk9SSUkwSmtLWEVkU0E2UTlJcEE?oc=5",
+                                "source":  "FOX19 | Cincinnati",
+                                "date":  "2026-05-04"
                             }
                         ],
     "cheryl-fossyl":  [
@@ -799,10 +817,10 @@ window.NEWS_SNAPSHOT = {
                              "date":  "2026-05-29"
                          },
                          {
-                             "title":  "FITNESS MOM, MISSY BEVERS, BLUDGEONED DEAD IN CHURCH BASEMENT",
-                             "url":  "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFpsVzNWWUMteWpMQjhpdVRTN1BGbGJ0YjNIaDY1WDlGakt3aU5wRjJudk1ES3RJdFAtMURFTEtOODROSmc2bkVGMDNFR2I4aGZFZmVCLUZlYnFVampsMXdPcEdteW5NUmdXM0NNMzdkOXR2N2diYnNTUXNncmxTNnlPcUVyM21JcS1xd1FKcVNVcEZxejQxblN6cC01aW9Q?oc=5",
-                             "source":  "Crime Online",
-                             "date":  "2026-07-15"
+                             "title":  "Crime Stories With Nancy Grace - Fitness Mom, Missy Bevers, Bludgeoned Dead In Church Basement",
+                             "url":  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdTNMaVU1enJZVDhXU2RNajF4NU13VmQzVUtJbXNjdGlaYmVnVFdnS19ycVAxRFBWRFBpMXNYT2JyVGdYT0o0UVJ0aV80LTIxdzdkVWtEUzZMZHF4WG5nelhNMEtmajBUenlzRWxkNXFBTE9YQXpPMkstMmNUdFRzNHVRRU1xd203SEFGb1ZwcFdVTTEwZXNQUnZ3a3A2OWZzaDVSclQ5cENOSjhZa1VrX2xaVFM?oc=5",
+                             "source":  "FOX One",
+                             "date":  "2026-07-13"
                          }
                      ],
     "mate-hines":  [
@@ -856,8 +874,16 @@ window.NEWS_SNAPSHOT = {
     "darian-woods":  [
 
                      ],
+    "jennifer-cohen":  [
+                           {
+                               "title":  "A decade without answers: Jennifer Cohen’s Owl’s Head Park murder remains a mystery 10 years later",
+                               "url":  "https://news.google.com/rss/articles/CBMidkFVX3lxTE81bmxlOFhTMlR3MndEMmxtcUtjdW1DOERFT1NKQWQ2dGFPM2RIMmtRVW9CN3dFTnhRYmZMdi1aazk5SXNGU1ZRQVZOTGN6YlhNcEJVR2dWTnozLXJWN2tkd0hBdmo4VzRybkdNcF90Y1B2WHFIdXc?oc=5",
+                               "source":  "Brooklyn Paper",
+                               "date":  "2026-10-20"
+                           }
+                       ],
     "natoya-stephens":  [
 
                         ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-23 20:42";
+window.NEWS_SNAPSHOT_AT = "2026-10-24 09:47";
