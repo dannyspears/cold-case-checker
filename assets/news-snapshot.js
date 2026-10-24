@@ -25,6 +25,12 @@ window.NEWS_SNAPSHOT = {
                        "date":  "2026-10-19"
                    },
                    {
+                       "title":  "The Zodiac Killer shot cab driver Paul Stine in 1969, the last of his five confirmed murders; San Francisco police marked the case inactive in 2004, then reopened it and still list it as open",
+                       "url":  "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrUHlUX2wxVkM3V1A4eTl0RXRaS0xGMnYtNkJCeXA1U21vMUptVWI4MUdYU1RwbEJwTHFhMENkaU9zMnp0VU9HVTAtZ1RHSU85eWdFY2RoV2FIUjJJOVVyeV9SMlYwUzJyaUkwZ3N3?oc=5",
+                       "source":  "Parade Magazine",
+                       "date":  "2026-10-11"
+                   },
+                   {
                        "title":  "Paul Avery Wrote Dozens Of Articles About The Zodiac Killer — Then He Received A Chilling Threat From Him",
                        "url":  "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51bGZydnpGVzhITlhWMF9xVE5kc1dFQzZKNS1RZENVR2R4cGJfRWxNd2hwS3FmZm5sc2lIOExCVkUwSjMzb004dkpCLTloQ2Fydmw5SA?oc=5",
                        "source":  "All That\u0027s Interesting",
@@ -61,16 +67,10 @@ window.NEWS_SNAPSHOT = {
                        "date":  "2026-05-14"
                    },
                    {
-                       "title":  "Did the Zodiac Kill the Black Dahlia? This Crime Writer Thinks So.",
-                       "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdk9DZmNhT3VJSlF6N1Y3SUNsNFVVSXJJOVJzMjc2Mm1vZWl0Qmp4a1g5dnVFVlRGU2t1Nlc5cFlyekR5dG9INnN0RFN6eW90ajMwYzRDd1B4WFBDLW9VNzFHQjJDcWctSlFhUnpjbUgxM3dlNWRRRlhJazhhcjlkalpOendHQVJDWnVReXpTMmEtekU?oc=5",
-                       "source":  "The New York Times",
-                       "date":  "2026-08-30"
-                   },
-                   {
-                       "title":  "Did the Zodiac Kill the Black Dahlia? This Crime Writer Thinks So.",
-                       "url":  "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdm9veDFMY0Z2Q0VZX25leUF1dnNNWlF1dEFFU0xNLUVoZ3NNSFJlQ0pRazZaT0ZxMmJ6VFFYOEk0VldiSlAybGtaMzFqX0tIbTdLZkhyNHZIaTYtN1VKQzVMaUh6Qk5faVk3U1ZrM283SDcyX25DOEhKUWFNU0NyS25yYXZmd2dWbjAyT2VtUUVwSFQ1cU9POTBjTmlteFdoM0cyaUpVOFg1bWFIM2pkNXV6UW1MdWVfcWJzeWRWOFdtRXdJSWVZQ21vTGtGeGF3SGxSazZieUgzWW1tUVQ1dlBweXpUa2hzRi1nX2gtMkNYVG1OQ1A0?oc=5",
-                       "source":  "The Seattle Times",
-                       "date":  "2026-08-28"
+                       "title":  "What is Marvel\u0027s \u0027Zodiac\u0027 show about?",
+                       "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQxTWdzYlVsdUVXUG5xaXdVcHRYWGtTNkJQS0FLYVpuWXFwTW9RS2owUzlpbkFYZFJhZnJwU1Q0TDdpSjBUdXlYQ2JBd0x0RDl2YzdNT2E0d28tbEU1VG1uOHJaYVRPS09RTm9jVzExMGdNVHI4b1gtaEM3VEc4cTNtYWxUd055U2dFRmd2VllBRnc?oc=5",
+                       "source":  "Mashable",
+                       "date":  "2026-10-09"
                    }
                ],
     "jonbenet-ramsey":  [
@@ -117,10 +117,10 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-09-21"
                             },
                             {
-                                "title":  "Netflix’s ‘The Murder of JonBenét Ramsey’ Sets Release Date, First Look at Melissa McCarthy and Clive Owen",
-                                "url":  "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMUZEYTBndGxFczdYM19tbzVzMFhZdEJRaXJ2Z1BXT1pwRVRZb2tSR29HMXlnY3czY2JOMmFSQXp2OGhaS2dUMzB3YUNleWZ2ZVRKQkMtTTBPRi1ndlBVcEJMZ3E1akVOb3FQdlFWc3diX1YwTG1ha0UzUHF2bnlHbFpBT2hNUXI5dnJGajBnNDdJZHF2N2c?oc=5",
+                                "title":  "Melissa McCarthy on Getting Serious for ‘JonBenét Ramsey,’ the Psychiatrist on Set and Hollywood’s ‘Bulls—’ Excuse for Why Comedies Don’t Work Anymore",
+                                "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHRyUXQ5WnhsTzNpTTRUbl9HeTVjRG5sSnhsS3BTZU5fOVcxN3VURHBwbFltd3dXWlE3ME5YWDBWVzFhUjV6dUNJQ0VJMXdBNUY0a3ZqVnVrVkl3MDhfMk12dVh0UEpBMVpxMjVULUZScFRuN0traEpWS0JOY0dnOF8yUmJqUVNKT1ZSUDJ1MHNINzRiSVI3a2cxbVRMeDRTLWFoTkdzNFlLV25FV0E?oc=5",
                                 "source":  "Variety",
-                                "date":  "2026-09-15"
+                                "date":  "2026-09-21"
                             },
                             {
                                 "title":  "No sign ex-DNA analyst touched JonBenét Ramsey data: Forensic expert",
@@ -215,10 +215,10 @@ window.NEWS_SNAPSHOT = {
                              "date":  "2026-05-14"
                          },
                          {
-                             "title":  "ARCH ENEMY and THE BLACK DAHLIA MURDER announce co-headline tour",
-                             "url":  "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMFBZMjE1LUFhY2VFRUljT2xFUnNYNElYUXpfaGpsQzc5TWdzbXBOYWJULTk2MlZyakhKLTN6UHFWdVJDVW5NSFZfMHlPX3JtTHZtdzZGdXJMR1JfTzNURVlqdHZJY2U2VUh6YUJ5NC1ycEdNRU1pUUpVUVZzMmNwa2NRMlZNd01jQ0VYQXZ3LVZaTjI4VG5EeUViMHZyMkNOcGc?oc=5",
-                             "source":  "Revolver Magazine",
-                             "date":  "2026-05-19"
+                             "title":  "Black Dahlia Elizabeth Short\u0027s Friend Reveals Rare Childhood Insight as Fight to Solve Case Continues",
+                             "url":  "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3NfMjdnT1A5OVdRbVJQaWFQcHBpaGpPQ1owNkpSMW5Ma3ljNTBoVWRYREN1azZNRTNnUDNjTjI5SXNoQnBwaUw1LVc1NjNORXY1c2tTZGlRVTdVVjQ5b3hBOTIzMXJtdE1NbEhTbzlSSGpMRThFMWttd0ZKbFpTZWM0RC1lVVpZb3JmRmk1ZExLSmxvT2gzM1R1TUsyWE4tLUNrSG5fOEIxN2Rz?oc=5",
+                             "source":  "Oxygen Official Site",
+                             "date":  "2026-07-31"
                          }
                      ],
     "notorious-big":  [
@@ -585,6 +585,12 @@ window.NEWS_SNAPSHOT = {
                              "date":  "2026-07-31"
                          },
                          {
+                             "title":  "Ex-death row inmate Elwood Jones sues Blue Ash, former police officers",
+                             "url":  "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYm16Wmd1cVIwd1k5cHkteFVrLXFQYTc0MlU0SlAzMHU4ZVMzalh4R1h4bklWOVJtdmxVSVh6YW12TmZRSWMxalZqaV9ZTE5ZTkk5R0dHWFM1Nk9rUHo3aDd4TVo1NUFPbktWNi1nUFBtcFFTYUllQmVRb3g3b1pJLWxNZDJKUF8yeUxPdUkwaFBNaGd2RWNmRkxfSV9jUHhmeTg4dWF3?oc=5",
+                             "source":  "FOX19 | Cincinnati",
+                             "date":  "2026-07-31"
+                         },
+                         {
                              "title":  "Evidence \u0027planted\u0027 by Blue Ash police led to Elwood Jones conviction, lawsuit says",
                              "url":  "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGhwcE9DUFRtd1JvWmRmbnQ4dEwtX2ZaYk9WcWNWamxDZkd0M185VEFxUkdhdnpVbzUtTFlvYkFrb1doc3RWbDY1cS16Rm5UWDNYSFVoTk5uNVNXVENnMjNfM0xldVdsZlFTRWlMdWJTV3I5SmJ5VHdhZkllQzdtczdlNFRGNUtyS2tLV1NMc3d2REpkVm5nMjF1eFZqNFE0QkhRWk9pRlpCUVNnRk9NRFNwMVBFYVVVdEJSWUZSVWtham85?oc=5",
                              "source":  "Cincinnati Enquirer",
@@ -787,6 +793,12 @@ window.NEWS_SNAPSHOT = {
                              "date":  "2026-07-07"
                          },
                          {
+                             "title":  "The Phantom in the Church: Why the Unsolved Murder of Missy Bevers Still Haunts the Internet",
+                             "url":  "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOW9pdFp4cndobTVxSlpqU3l4eWF0QTlnYXU5dy1qUXp2NTFIa2VOVUVzSnEyVF9kWFBja1pvOXNabWdSek1XZEFIQ0RscUl5aHlHaFE4TnVSRGxNSEtHT0FFbnY3ZGpHR1R6dEhXS0FhNFZxeFdoazdNWjhDaDMwallkWjJCcnU3MmdMWll5WXZMQXFhOF9MeU1xYkI4aTRQdzlTaFkwRXlUMGk4YVR2QmVqRzZfTmM?oc=5",
+                             "source":  "Hounslow Herald",
+                             "date":  "2026-05-29"
+                         },
+                         {
                              "title":  "FITNESS MOM, MISSY BEVERS, BLUDGEONED DEAD IN CHURCH BASEMENT",
                              "url":  "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFpsVzNWWUMteWpMQjhpdVRTN1BGbGJ0YjNIaDY1WDlGakt3aU5wRjJudk1ES3RJdFAtMURFTEtOODROSmc2bkVGMDNFR2I4aGZFZmVCLUZlYnFVampsMXdPcEdteW5NUmdXM0NNMzdkOXR2N2diYnNTUXNncmxTNnlPcUVyM21JcS1xd1FKcVNVcEZxejQxblN6cC01aW9Q?oc=5",
                              "source":  "Crime Online",
@@ -843,6 +855,9 @@ window.NEWS_SNAPSHOT = {
                     ],
     "darian-woods":  [
 
-                     ]
+                     ],
+    "natoya-stephens":  [
+
+                        ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-23 16:25";
+window.NEWS_SNAPSHOT_AT = "2026-10-23 20:42";
