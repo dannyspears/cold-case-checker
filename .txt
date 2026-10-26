@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+x-amz-id-2: Y85yCeE5ZHouVFPP6wTX9WKcB/X8dL6narESSgjXBIEHrW5/pxCqxfzqq3u+WBmJS/K21DXuSq6C2mgDgk27AiyGpLMDDtmK
+x-amz-request-id: CC215F0G71JWAYBP
+Server: AmazonS3
+Date: Sat, 24 Oct 2026 17:41:11 GMT
+x-amz-version-id: ZE3cMqfzMZij.Jwvu8OWCuIFZIWytQAT
+x-amz-server-side-encryption: AES256
+ETag: "fec5491aa221501c96e93f56af386824"
+x-amz-checksum-crc64nvme: rohTdF1frvg=
+x-amz-checksum-type: FULL_OBJECT
+Content-Length: 0
+
