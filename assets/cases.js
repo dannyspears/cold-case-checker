@@ -186,5 +186,7 @@ window.CASES = [
   { rank: 92, slug: "dermond-murders", cities: ["Eatonton, GA"], tags: "russell shirley dermond 2014 lake oconee great waters reynolds plantation putnam county georgia decapitated concrete blocks sheriff sills othram dna fbi", page: "dermond-murders.html", status: "live", name: "Russell and Shirley Dermond Murders", years: "2014", place: "Lake Oconee, Putnam County, Georgia",
     summary: "A couple married 68 years were killed in their gated lake community. His head was never found; her body was weighted in the lake. New DNA is being tested." },
   { rank: 93, slug: "seth-rich", cities: ["Washington, DC"], tags: "seth rich 2016 bloomingdale washington dc flagler place dnc robbery shotspotter metropolitan police conspiracy debunked", page: "seth-rich.html", status: "live", name: "Seth Rich Case", years: "2016", place: "Bloomingdale, Washington, D.C.",
-    summary: "A 27-year-old was shot twice in the back a block from home at 4 a.m. Police call it a robbery attempt. The theories were retracted; the killers were never found." }
+    summary: "A 27-year-old was shot twice in the back a block from home at 4 a.m. Police call it a robbery attempt. The theories were retracted; the killers were never found." },
+  { rank: 94, slug: "christopher-walker", cities: ["Houston, TX"], tags: "christopher walker ii 2025 galleria uptown houston westheimer post oak robbery green hoodie sedan crime stoppers harris county", page: "christopher-walker.html", status: "live", name: "Christopher Walker II Case", years: "2025", place: "Galleria area, Houston, Texas",
+    summary: "Three days after his 30th birthday, he was shot in a robbery in a parking lot beside the Galleria at dinnertime. The gunman fled in a light-colored sedan." }
 ];
