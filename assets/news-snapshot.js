@@ -293,6 +293,18 @@ window.NEWS_SNAPSHOT = {
                          "date":  "2026-08-17"
                      },
                      {
+                         "title":  "THE DARKEST UNSOLVED MYSTERY YOU\u0027VE NEVER HEARD OF!! ||VILLISCA AXE MURDERS",
+                         "url":  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GZFBGeGxfcndreFBkSUNkUzI4ZVQzdXNpemVmeEpuRUJqU2JZQm5VSjlJRTcwUDdOQmRkQ1dzQlZZZlV4TzY4c09VUUxGdURwdzJheGVjS1BXSkg2?oc=5",
+                         "source":  "YouTube",
+                         "date":  "2026-10-10"
+                     },
+                     {
+                         "title":  "I paid $1.6 million for the Lizzie Borden House. I wasn\u0027t prepared for what I found inside.",
+                         "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTNxTTZTQktwQm9jY0JQZ2N5MTBxdDBmUDVIb0V1dHBTTkpXbzlrYnZnLXd5a2lsZXdxNDZJNmNMTmV4RFJzNXBjTWJPYTMzYmJNVE5GVjY3MFM3YjlfcUNNMjd3X29OZjZQLUxhOW1PanVBRzNoanJUSDZ2N2pEeDVOVG9MaUpDR09yN2lRNWFGN28?oc=5",
+                         "source":  "Business Insider",
+                         "date":  "2026-10-31"
+                     },
+                     {
                          "title":  "The Villisca Axe Murders: 8 Killed in One Night America\u0027s Most Terrifying Unsolved Case",
                          "url":  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WY1ZwNHI0a2VZRzNBai1Ba2hha1ZURnB2N2pYZGVvand4RTdLZE9heXFzcjhiMHllVGlhaHVHdk9vMWdCanFGQUpaQ1J2b1ppNVRubzlIM3BUUQ?oc=5",
                          "source":  "YouTube",
@@ -407,16 +419,16 @@ window.NEWS_SNAPSHOT = {
                                      "date":  "2026-09-03"
                                  },
                                  {
+                                     "title":  "Man sentenced in ‘Texas Killing Fields\u0027 case, decades after dozens of bodies found - NBC 5 Dallas-Fort Worth",
+                                     "url":  "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeW81TEhURjY2ejdjaTdwRlpfVHVsV25LM2tHUXExcVVQQktMRG5zNVhFY28wRURDT0FIS1VTUC1qNng1NlZSTDBsdXpFS25VLWJiTl82OUxxT3B2by1oTkFSTmIyRExJdThsd21wS09nMlB4MTdWQzVXMzVWazBlN0dCaXc5bFFidlY0aE1ZQ1V0dzFZcE9zQVhBTWp2aUtaSlpMZXBJLXBfZlZIWDhRQklGR1FMQzVzMFlfOWktd3lEd0lZU09TRDc1UXlsQdIB1gFBVV95cUxQaXBnNjE1LS1fcmN5VTUtM0g4ZmlaVXN1OU5aRWZHX1Y1anVSVWVzNldQMUllVUlqc0xTMDBuQjg2Vmh2c3VKY09ET2VkazBSTDR3RTFNWDZZcG1EUEpiOHdrNzc4ZDdPR2VMZ2xodTFnaUtfOUF2RzVrMF8yZUVUdUwxaTZXYjh3TWtESm1BSG1Pb0xRZ3RGQXJpOWNTWXRPTC1CN1BDNzVQd3pUd2RRYWhScjZtY1gzdkF5S291czNEYWF4ZHdoTGtOQ0hLT2hkMlAwUHN3?oc=5",
+                                     "source":  "NBC 5 Dallas-Fort Worth",
+                                     "date":  "2026-09-03"
+                                 },
+                                 {
                                      "title":  "\u0027It\u0027s time to heal\u0027: Families gather at \u0027Texas Killing Fields\u0027 after sentencing decades in the making",
                                      "url":  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSEF6cWVXSTEyTUJaNWVhYWQ3TEV4LUFaa1ZSN1JZMW8wTmtFblhmTlFxR1VjY3RYbG5CNWdjTWRNczdSM05TdUU4VDI3UGFXN21zRWVJUEVRcl9MUkNMQkdDQUY2VTZEbDMtdGJnVmZnVE9rRU9vWEFoM2t5cjlKNW5VRVhmY1hPTktHMzc4Unc5QlFFX2RXTzNwN3B5VEQ3SVF3OWlqUnLSAa4BQVVfeXFMTm9DTEt1MDB5ejZyS2xKRFR4UllKbXBhcUVXSFNYUEViN1dnQlE3allsRVE0X2FGbzd1VkxzQkFTZUtKSWQ3VU9SYWRsbDJOekVtM3FuemNrWElPc3Y4eEROdFBoMXB6YXNNd192dnlVcEFac2VLY2R1SXN4elMwd20teGJlMzctMGJnT3JSRXlZOTY2MFU2NVhuNEJUNUhoOGpEOHJiRWNrX1ZoUEJB?oc=5",
                                      "source":  "ABC13 Houston",
                                      "date":  "2026-09-03"
-                                 },
-                                 {
-                                     "title":  "Texas Killing Fields trial: How to watch on CW39.com",
-                                     "url":  "https://news.google.com/rss/articles/CBMinAFBVV95cUxNczBad2xNMHJwT2lqZ3RMb1BobE9lOHhHQzFnME5OQWxvQzQtczhaNS03c2x6YXpWbk5JdzJBWm1rTDJCMG5URlRqR2ZTbUc5ZkNYNkdkYmlHM1I3VVIySzVzQ0toY3ZMODl0cFlEZlVMazNkdzRDcmxJTmdZTVRqT3RKa3hUU01xaktwVFFZVFZ5MFljcFFSVXc1RULSAaIBQVVfeXFMTm5CeXNXcEFfNzgwWmFERmhTaGF5NVdYaUFwTmEzaEt3R0xNai1QUmkxSk5kRjY5UWxyRlo4S29jQU4wQUYwWElKalh5eS16V2c0aWxYZVhlZFlmWmUxWUtiMC1iWDBMU0FyUEMtRngtVGpQUVhXcXhVejUzbzA4VEVZS2N2MnF4MHRaQzQ1UnlpbE5kbVpMRE5zMngwZTdPYTRn?oc=5",
-                                     "source":  "CW39 Houston",
-                                     "date":  "2026-08-31"
                                  },
                                  {
                                      "title":  "Searchers return to the ‘Texas Killing Fields’",
@@ -431,27 +443,27 @@ window.NEWS_SNAPSHOT = {
                                      "date":  "2026-09-03"
                                  },
                                  {
+                                     "title":  "He hunted for his daughter’s killer for 40 years. Then he got a phone call",
+                                     "url":  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXl1TmZTdlFzOTVVeWZZZkNSMDY4NG4zc0tCUjlYeVNJZnZMQ0ZZQXZmT2VWMUNEQkk1Sm8tdU9Nekw1a05jbHVPeDJyQ3g0SEdfbWxaM2FjRDFOV2YwRE85OWxLbzJQRFV0b2QwX3RrZ2NSbDJqODduUG41U3JmOTljTjhEWFNiNVlEUUxMdmhwZ3VST2llM1dLSEo?oc=5",
+                                     "source":  "The Guardian",
+                                     "date":  "2026-05-12"
+                                 },
+                                 {
                                      "title":  "‘Where the nightmare started’: Father of ‘Texas Killing Fields’ victim testifies in trial",
                                      "url":  "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSV8taDdQX1Z6OHpJbDZBNUdiSWxRN3VIa0FtTDdCaFhMUGJRLUNwRnJtS2hZVXdVV0xkUTNzTnRGUUJ5VmpaY0tFUzRIajhwQ3hJVElvRTBIN0dkNGVMOWRxWElUOXByejByd0ZDRW8wRmdQc3VyUjRWS2U1VXBaZV94b0JBend0YXBZbTlXUnRxRTdQUjlySV9SX3lYRkhaY1lHazVxRnI1LVYtX2dNN2dJdUIwb1lzYjlsVG1mYjhZYXB5OUdLck8tQmdzUko5UGl2RjN6U3NmZy1nMzNnWVhENzdLd1dBdTRpZGhoRXJtSXE2dDQw0gH_AUFVX3lxTE1yRXY4emZyaTlGTUdJUkNhbDZjUTRsalk1MlJ2X2dvTDJqb3FQbjNfSEQzeXEySzRieWI5Z21rb2s0MF9OSVVwN3ZqYmh2Tm5DX2FFWWRjRDhNZXBXcGRUcVo0ZDBfZ2k2S3hyNm10N01aZXdqaTlkOEdWeUlXa2hLNmFhOEFwWWdxWWtLYV9HYm54VUx2RlJUcml3WmliUU5zMDB1M1MwTk5QZlNZbXVMU0g0MVQ1VXd4OHFFTmVxLWpPZXJqRnVHUlRGQ3NWRE1vSGk1VXIzbzJmT1Ewa2hXTlQ2M3pXTmZhTDZzUDh2X1dYN3R2bjFXYzUxb1ZJTQ?oc=5",
                                      "source":  "Houston Public Media",
                                      "date":  "2026-09-02"
                                  },
                                  {
-                                     "title":  "Texas Killing Fields: Latest suspect found guilty",
-                                     "url":  "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmxYVjJXeVU4d2xRZm9kM0NUSFdjY25GRlhvQm9PdlNoUGJ2elVHS25LZ2JKcldlenNvWUF4ZFJ4c2FBbUNleE12V2JsSVJVdTRaUm1rWFNJbi1QRVFtMjFkc1h1cHZzWFBWVDhSUDFtNjJtSDhheWVFNE5ab2hQRjFucXlyNDR6a1kyRXRRZXIxcWpDQmdR0gGcAUFVX3lxTE4tMkwxVDdiRHM0bWx3dWEtcEpXUlA4c2phSEZ4NlhkdGVUUkpYb0pscklOTHlLa0JFZmVEZ3lRc3gxRXpibUZQNnlpOFFRaW8xUlBaZ2Q2dHBJNXJNbEs0bTY2d0dBY0lQQUV5VUV4TjRrWm9rWjNfUjZRa0EzTks0anVsbTVtSGVaWTN0R1IxcDY5dTBDaVBWT3h3cg?oc=5",
+                                     "title":  "James Dolphs Elmore Jr. found guilty of manslaughter in \u0027Texas Killing Fields\u0027 case",
+                                     "url":  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzVHMHd6M21aYTdCSmxxOWlnZ00tdnN5UXdFSFhCVkoyNENaVWhuNnByZ29WN041RGFxLUhOZHlFeDBuTDgzVGFlajNQVWhfXy05SDNtUDBxY2xwMzJpdGY1a0lacWhMWXBmamdHSF9GbEYtOURpMGpySjludl92bmZOYjJPVlB0eE9NUWoxazlaSDlINjV2Ylpoaml4QVNrNHNHTEt5MkQ0VkJw?oc=5",
                                      "source":  "FOX 26 Houston",
-                                     "date":  "2026-09-03"
+                                     "date":  "2026-09-02"
                                  },
                                  {
                                      "title":  "Texas Killing Fields: James Elmore Jr. sentenced to 20 years in prison for manslaughter",
                                      "url":  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObUhGLUNTdkVSS3VBV0NMZWhzWU95dlY3WHFwVTVWSGNLNlRxWXVlSkg0Wnk0OFhvZ2RGRDNIMFVmTXEtZ0VvaC1tSUFSWmNDZ1AyTGNaUHRnMDlZQkZyY1BBbldwNkdMQzJlRFFtQWo5bUc0U0tUYnc3WGVUTjllei0wSmZuME40dWtQQ0VmOW1Bc0N4UjNfazBKR0FVZzExSi1lMkdPVkVwaHdLd29vSHBWR3IwdXpCQWhpc0VzMVNhTmdMTkhlZtIBzgFBVV95cUxNdWFTenZFWHVKcTROcTBDOVhWU2NJZHJrYlk5alFkZlhLQlJ4YVZrak0yRC1PbjJ3WS1mQm9rdEN6aVBGLUZtN1BDNGRGVUFna0lZMWl5Yk5hZDBLZVBHakF2dnY3YTZMVXhhY2xGUWFpQU1wdWkxM2FqaS0zSTVsdE5GbDYydXl3dWNkNzRwMDFpX0lQN1RqQ3JuSjkwQUJYS1ZMaTRiVkFnT0hibUZRU1VHNElwQkpQUk9TMFg5S0U0cFhvSmdxcDUwdFczQQ?oc=5",
                                      "source":  "ABC13 Houston",
-                                     "date":  "2026-09-02"
-                                 },
-                                 {
-                                     "title":  "James Elmore Jr. found guilty of manslaughter in Texas Killing Fields trial",
-                                     "url":  "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkJfT0hBUjRhYURQWTJidDhMZnEwZjJtYlo5UllhcU56d0ZWNEZkUlBIMFM2U1dGUFJ0aFhFWUVNeUFmenRhUTFFbUd3QndacUkzR2wxaENlNWFpaGpoTFcxb1NXbk4xVWp3UWpUNlJyZWFfcHo1bl9zeTVpRVcyZS1aZ2hxVi1rY3BKczBKMHJVdVM0ak1LYUowRXBLcms?oc=5",
-                                     "source":  "Click2Houston",
                                      "date":  "2026-09-02"
                                  }
                              ],
@@ -653,16 +665,16 @@ window.NEWS_SNAPSHOT = {
                             "date":  "2026-05-25"
                         },
                         {
-                            "title":  "Remembering Jason Ellis 13 years later - The News-Enterprise",
-                            "url":  "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLU53TXZJZ2pBSGNLTmx0NldaNzNKQ050MFFVLXVtcXVYdGxab2xVZ1ZkcnRzVU82VUQ0QlFPZEhRRVk3LWEtdHdUajE2amVta0xwQ0JpZldRR09rVXBXX3F2WnUwcGNCcFY2cXBCRDN3Nkl1aUN4QU02bTZLRW16V0d6TWw1MFNQYUpLX1dNYXl2RUozRmlDWnE2eDhUQU0wdThNY1lPOG40VmlHcTRWSGR5YThBcTkzYUE5c2puNnBDbUhHLXZoc3EwdmZFdw?oc=5",
-                            "source":  "The News-Enterprise",
-                            "date":  "2026-10-02"
-                        },
-                        {
                             "title":  "Remembering Jason Ellis 13 years later - pmg-ky2.com",
                             "url":  "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeHlvV2VOM0cxdGQyaHI4bVczSVJ2YUduZGlKYnhDY0p0azdtQ1lCaU5OOE5ELWc5dGQxdERaMWM2aENFWkc2dHdsQy16Rm9CNTZUTmp0MlQySFBBUHh5T2VidDltNnQ0cjFXczZSajI3LVBJYlh3SGl2Y2NDNWJIY19CZkhPcDhJcGY3QzRBMG1XYlc5QXNvZi1VLW9ZQlduWF9iQWF3dDlWMS14LVo4bzQ2WnVmdzhSZjdNZG9JV0xMNjQ1OHdv?oc=5",
                             "source":  "pmg-ky2.com",
                             "date":  "2026-05-26"
+                        },
+                        {
+                            "title":  "Remembering Jason Ellis 13 years later - The News-Enterprise",
+                            "url":  "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLU53TXZJZ2pBSGNLTmx0NldaNzNKQ050MFFVLXVtcXVYdGxab2xVZ1ZkcnRzVU82VUQ0QlFPZEhRRVk3LWEtdHdUajE2amVta0xwQ0JpZldRR09rVXBXX3F2WnUwcGNCcFY2cXBCRDN3Nkl1aUN4QU02bTZLRW16V0d6TWw1MFNQYUpLX1dNYXl2RUozRmlDWnE2eDhUQU0wdThNY1lPOG40VmlHcTRWSGR5YThBcTkzYUE5c2puNnBDbUhHLXZoc3EwdmZFdw?oc=5",
+                            "source":  "The News-Enterprise",
+                            "date":  "2026-10-02"
                         }
                     ],
     "netherland-murders":  [
@@ -982,8 +994,11 @@ window.NEWS_SNAPSHOT = {
                                    "date":  "2026-09-09"
                                }
                            ],
+    "james-heath":  [
+
+                    ],
     "jason-wynn":  [
 
                    ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-31 11:12";
+window.NEWS_SNAPSHOT_AT = "2026-10-31 12:42";

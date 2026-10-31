@@ -190,5 +190,7 @@ window.CASES = [
   { rank: 94, slug: "christopher-walker", cities: ["Houston, TX"], tags: "christopher walker ii 2025 galleria uptown houston westheimer post oak robbery green hoodie sedan crime stoppers harris county", page: "christopher-walker.html", status: "live", name: "Christopher Walker II Case", years: "2025", place: "Galleria area, Houston, Texas",
     summary: "Three days after his 30th birthday, he was shot in a robbery in a parking lot beside the Galleria at dinnertime. The gunman fled in a light-colored sedan." },
   { rank: 95, slug: "jason-wynn", cities: ["Cincinnati, OH"], tags: "jason wynn terry 2006 avondale forest avenue 521 church shot cincinnati crime stoppers card six of diamonds terry jones vine street cemetery hamilton county", page: "jason-wynn.html", status: "live", name: "Jason Wynn Case", years: "2006", place: "Avondale, Cincinnati, Ohio",
-    summary: "A 22-year-old father of three was shot behind a church on Forest Avenue in Avondale and collapsed in the street. His father still holds a vigil almost every year." }
+    summary: "A 22-year-old father of three was shot behind a church on Forest Avenue in Avondale and collapsed in the street. His father still holds a vigil almost every year." },
+  { rank: 96, slug: "james-heath", cities: ["Cincinnati, OH"], tags: "james heath 2010 columbia tusculum delta avenue 298 eastern avenue east end oakley beaten beating cincinnati hamilton county", page: "james-heath.html", status: "live", name: "James Heath Case", years: "2010", place: "Columbia Tusculum, Cincinnati, Ohio",
+    summary: "A 56-year-old man was beaten to death on Delta Avenue on Cincinnati's east side. Police released no suspect, and almost nothing about his death was ever made public." }
 ];
