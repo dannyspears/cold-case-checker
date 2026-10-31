@@ -188,5 +188,7 @@ window.CASES = [
   { rank: 93, slug: "seth-rich", cities: ["Washington, DC"], tags: "seth rich 2016 bloomingdale washington dc flagler place dnc robbery shotspotter metropolitan police conspiracy debunked", page: "seth-rich.html", status: "live", name: "Seth Rich Case", years: "2016", place: "Bloomingdale, Washington, D.C.",
     summary: "A 27-year-old was shot twice in the back a block from home at 4 a.m. Police call it a robbery attempt. The theories were retracted; the killers were never found." },
   { rank: 94, slug: "christopher-walker", cities: ["Houston, TX"], tags: "christopher walker ii 2025 galleria uptown houston westheimer post oak robbery green hoodie sedan crime stoppers harris county", page: "christopher-walker.html", status: "live", name: "Christopher Walker II Case", years: "2025", place: "Galleria area, Houston, Texas",
-    summary: "Three days after his 30th birthday, he was shot in a robbery in a parking lot beside the Galleria at dinnertime. The gunman fled in a light-colored sedan." }
+    summary: "Three days after his 30th birthday, he was shot in a robbery in a parking lot beside the Galleria at dinnertime. The gunman fled in a light-colored sedan." },
+  { rank: 95, slug: "jason-wynn", cities: ["Cincinnati, OH"], tags: "jason wynn terry 2006 avondale forest avenue 521 church shot cincinnati crime stoppers card six of diamonds terry jones vine street cemetery hamilton county", page: "jason-wynn.html", status: "live", name: "Jason Wynn Case", years: "2006", place: "Avondale, Cincinnati, Ohio",
+    summary: "A 22-year-old father of three was shot behind a church on Forest Avenue in Avondale and collapsed in the street. His father still holds a vigil almost every year." }
 ];
