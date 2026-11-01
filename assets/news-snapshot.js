@@ -43,12 +43,6 @@ window.NEWS_SNAPSHOT = {
                        "date":  "2026-06-21"
                    },
                    {
-                       "title":  "What is Marvel\u0027s \u0027Zodiac\u0027 show about?",
-                       "url":  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenQxTWdzYlVsdUVXUG5xaXdVcHRYWGtTNkJQS0FLYVpuWXFwTW9RS2owUzlpbkFYZFJhZnJwU1Q0TDdpSjBUdXlYQ2JBd0x0RDl2YzdNT2E0d28tbEU1VG1uOHJaYVRPS09RTm9jVzExMGdNVHI4b1gtaEM3VEc4cTNtYWxUd055U2dFRmd2VllBRnc?oc=5",
-                       "source":  "Mashable",
-                       "date":  "2026-10-09"
-                   },
-                   {
                        "title":  "The Horrifying Murders of the Zodiac Killer (2016)",
                        "url":  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMzlWNHpHZmgwY19vd3k1Uk5kNHZwb0lxR18xd1JmZ0dnQTVWcXA4bjB5cVJ1WDBBa2FBNnNZSUYxSm52OEFlS1U2NGx2WHZFekxMR0FkZG5rMmVJcjk2eGM3YzhMZVRZYjdRTmQ3aGtjdG9jNFUyWGJaX2dWNHRQOU9PRG5TT1E?oc=5",
                        "source":  "IMDb",
@@ -71,6 +65,12 @@ window.NEWS_SNAPSHOT = {
                        "url":  "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1Vyd2NpTjBuUGpkWlhQOVJNOVk1Xy1sSWM3aHdWamYyc1BuY1pycktodS1WZ2ZXa3ZYTERzbXloeHFHVEpQNDZZMkdYV2MtZmZUMTl2TXB4eWFZb016MUh2VFczZzMyOGZJRFJ1aEo5MUFDaHVSYW80MVRqbTItRW1NSlpwSlBJTnhQeFZQakJmYTBILXJR?oc=5",
                        "source":  "Santa Cruz Sentinel",
                        "date":  "2026-07-25"
+                   },
+                   {
+                       "title":  "In the late 1960s, a killer terrorised California, claimed responsibility through cryptic letters \u0026 cipher",
+                       "url":  "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOaGNINTJIQ2p4S20xbFU2U3VEUUt5X3pwZnRXNkRtWDlzNjk5UjY3bTRGU19TY2pvd2NEYVFYX2R5VUJxXzdYZW1Dak0wRGlqQ1BPdmVmVk5vb2x3NGxRc0xrcW0wVldyUzdBWHJlWjNuZTQ1VEdjemJ2aHdzVGVjdlRPczVmcmVERHN5S0xmc3AxODZ2OXVBUWFhM2dzOGtYVTlSZUJhLV9makhoVHVDVGFYRnVUWlVLSkZRNnJqbkdvRkdxemY4ZC16UDZQS0Eyck1yenUxN0JmRk11Y0FQcVlpZEhFNWl4dlJkSF9rSTFZeXVBVjRkcWdLSzV3TGptc0NaYzExR1lQN0N6MVJCa1NIVHEtWUJHblpnUUxiUEtXYV9WZGZnNGh1WkJBcVNNVzd5U2IyWHR3R1EwTUxvdWxVbmxqcWhzeDRKNFhvQVhWSHNHZDM40gHcAkFVX3lxTE9rbnQ5dTgyendiUFNHNUw0cFc2M3NXT1dveV94TFpqblNGd056NnhFdTRCWFYyMkx2UjgtekZUYmVaMnJUSnpVSFpRa19Da3p4QWtZVktLWnQxaUZnQzRyblNFSVR5NzA2X1JsVHFkWjZ0ems4RXg5OU1oNjk3aVc3Z1hWVFdRSWw0T05nX3ZIckVwM0ZQVmhHM3MzbjFZYS1VZjBvYmFKN2dfUjhfeVRhYmZfbzU5LVVzeWFvWUtjTU0xX3V1ZWhnN2NkOFJLNWV1ZmhiNTZIRUlwX1FPTFZjejhEX1VtbktNRjdjMzdZNjVrVm1NSDRyRlhkRVhqek84MHJSbkJXNjJWY1JLUHVDWUg0T0RNLXF0ckc3b2dPb3lEeW9rWDcwSGxySUJlRnRzQ2tUUGpMN2x0eXZIdGhZZDhRYW5yYldZUmJWcVNNN1ptMkdBWDJYd0xHVA?oc=5",
+                       "source":  "The Economic Times",
+                       "date":  "2026-09-06"
                    }
                ],
     "jonbenet-ramsey":  [
@@ -293,10 +293,10 @@ window.NEWS_SNAPSHOT = {
                          "date":  "2026-08-17"
                      },
                      {
-                         "title":  "THE DARKEST UNSOLVED MYSTERY YOU\u0027VE NEVER HEARD OF!! ||VILLISCA AXE MURDERS",
-                         "url":  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GZFBGeGxfcndreFBkSUNkUzI4ZVQzdXNpemVmeEpuRUJqU2JZQm5VSjlJRTcwUDdOQmRkQ1dzQlZZZlV4TzY4c09VUUxGdURwdzJheGVjS1BXSkg2?oc=5",
+                         "title":  "The Villisca Axe Murders: 8 Killed in One Night America\u0027s Most Terrifying Unsolved Case",
+                         "url":  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WY1ZwNHI0a2VZRzNBai1Ba2hha1ZURnB2N2pYZGVvand4RTdLZE9heXFzcjhiMHllVGlhaHVHdk9vMWdCanFGQUpaQ1J2b1ppNVRubzlIM3BUUQ?oc=5",
                          "source":  "YouTube",
-                         "date":  "2026-10-10"
+                         "date":  "2026-09-29"
                      },
                      {
                          "title":  "I paid $1.6 million for the Lizzie Borden House. I wasn\u0027t prepared for what I found inside.",
@@ -305,26 +305,8 @@ window.NEWS_SNAPSHOT = {
                          "date":  "2026-10-31"
                      },
                      {
-                         "title":  "The Villisca Axe Murders: 8 Killed in One Night America\u0027s Most Terrifying Unsolved Case",
-                         "url":  "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WY1ZwNHI0a2VZRzNBai1Ba2hha1ZURnB2N2pYZGVvand4RTdLZE9heXFzcjhiMHllVGlhaHVHdk9vMWdCanFGQUpaQ1J2b1ppNVRubzlIM3BUUQ?oc=5",
-                         "source":  "YouTube",
-                         "date":  "2026-09-29"
-                     },
-                     {
                          "title":  "12 of the Most Famous Unsolved Crimes in History",
                          "url":  "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX280Y3FMeWhRMXgwcmQyUDdQY2FzQ19VaEdwX3RBaEZxcXFnOTRqWVFCS3RSeTV2aHg1UHJVbnJ2SmJKZnBSd0szOGdhNWhXajdNbDBFTXZjUl9QUUM4bFZxSGpUWXg4azdUSUpkUUpRQ3JuSkh0TmdqeUMyTWx0dA?oc=5",
-                         "source":  "HowStuffWorks",
-                         "date":  "2026-10-13"
-                     },
-                     {
-                         "title":  "Famous killers from every state",
-                         "url":  "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LN1NHUTFhMnk2b2F6NUdlaUpXLUE3VjhWc3AwRXBvdXBJMWdmaXpwYnZZYjRhQzU0aE96QlE3M19hbjZ1N19pWWx4bGVXbDk1ZGZhN2tvRURDdkFKUFlSWThkRU1NdHlDTF9GbXlOazNaX1NaRHZVTEpn?oc=5",
-                         "source":  "AOL.com",
-                         "date":  "2026-10-16"
-                     },
-                     {
-                         "title":  "How the Hunt for D.B. Cooper Worked",
-                         "url":  "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUG5lWG1JeXhIMWtra1dkWXBMdG53OF9zbmEzekZ6Y05fTXg0UEEwY2Uxd2U1SmpjSHpKOGR2emZlRkpTckZPX2xpT1Z1bXFHRllpdTdDOFMtdEdrb1ZzNDFjZzVZNFVkMHFJMjNvOEx1c0NKYV93LTB6M0d1Y1l4VkNxVHJOeUNjbHc?oc=5",
                          "source":  "HowStuffWorks",
                          "date":  "2026-10-13"
                      },
@@ -675,6 +657,12 @@ window.NEWS_SNAPSHOT = {
                             "url":  "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLU53TXZJZ2pBSGNLTmx0NldaNzNKQ050MFFVLXVtcXVYdGxab2xVZ1ZkcnRzVU82VUQ0QlFPZEhRRVk3LWEtdHdUajE2amVta0xwQ0JpZldRR09rVXBXX3F2WnUwcGNCcFY2cXBCRDN3Nkl1aUN4QU02bTZLRW16V0d6TWw1MFNQYUpLX1dNYXl2RUozRmlDWnE2eDhUQU0wdThNY1lPOG40VmlHcTRWSGR5YThBcTkzYUE5c2puNnBDbUhHLXZoc3EwdmZFdw?oc=5",
                             "source":  "The News-Enterprise",
                             "date":  "2026-10-02"
+                        },
+                        {
+                            "title":  "Bardstown Remembers: 13 years since the murder of Bardstown Police Officer Jason Ellis",
+                            "url":  "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNGZJQzZUUy1JX2kwY1VsZ24yU09keUw0WGRRZW43YnhaOUJNVWxCNUUwUzVPZlMwS2VUSTVpSGU1a1lIMHE2RDlpLXgzQ09rdVhuc2hSNDZ5QUZMbkZfc1dlMGpJeGRHclJHdVNpdGYxZDFpXzVHcUFxcElCalRhdGxmeno4WmpwVDJib3RubWIxZFJvRWhmNy1HeHJXbjVUSk0xQTdaXzYzekVwenNGcV9RV2lHbDIzZWowQjFB?oc=5",
+                            "source":  "WDRB",
+                            "date":  "2026-05-25"
                         }
                     ],
     "netherland-murders":  [
@@ -703,16 +691,16 @@ window.NEWS_SNAPSHOT = {
                               "date":  "2026-09-15"
                           },
                           {
-                              "title":  "\u0027I\u0027ll be honored every time.\u0027 | Crystal Rogers and Tommy Ballard memorialized with Bardstown bridge",
-                              "url":  "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYmg3Smd0bURzOGpzekNmWHNjZm1fYmNtNFFSYlNLRURpZlNveWFvUm9ONmFkUUtlcF8ydWcwNTNRZkhsazZGNm1oc3hQUVVFXzRRb0JfalpzanZsWF9SRjZlRnI4X09peHBVU2xsOW9RQzdLNjFvMWYxU1RheHFycmFTTlJUVXJvbjRhcW1TbFduaFUxbzdBdG00ZHc3UkhUR3prSDdwanI5Y0tGUFkwUWJ2MUNNQ0VhYUdBVDBtUEM2QnZpcV9tOWtkWElpWWNUU3h6b1JyRU0xajU1QndfQ2F3OVpOdkJy?oc=5",
-                              "source":  "WHAS11",
-                              "date":  "2026-09-15"
-                          },
-                          {
                               "title":  "Bardstown bridge dedicated to Crystal Rogers and Tommy Ballard",
                               "url":  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQXFNaE5IV3c4cTBuUl95U3NUX09BM2VSc1VITGRXbGdwRENkaFhSVUdSdUNjMWt4YXd2dkg0djNHY3U5Y1NNSFJBZWxvX253Rk9JeWcxRXRXblN5T2tFdnhjVXRMd3Ata2d0a2tCUk83RkRBOXN3YzBhWnNQWlRUR0o0MTBJZ3NuNWNPQ1JhV1c3UQ?oc=5",
                               "source":  "Spectrum News",
                               "date":  "2026-09-16"
+                          },
+                          {
+                              "title":  "\u0027I\u0027ll be honored every time.\u0027 | Crystal Rogers and Tommy Ballard memorialized with Bardstown bridge",
+                              "url":  "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYmg3Smd0bURzOGpzekNmWHNjZm1fYmNtNFFSYlNLRURpZlNveWFvUm9ONmFkUUtlcF8ydWcwNTNRZkhsazZGNm1oc3hQUVVFXzRRb0JfalpzanZsWF9SRjZlRnI4X09peHBVU2xsOW9RQzdLNjFvMWYxU1RheHFycmFTTlJUVXJvbjRhcW1TbFduaFUxbzdBdG00ZHc3UkhUR3prSDdwanI5Y0tGUFkwUWJ2MUNNQ0VhYUdBVDBtUEM2QnZpcV9tOWtkWElpWWNUU3h6b1JyRU0xajU1QndfQ2F3OVpOdkJy?oc=5",
+                              "source":  "WHAS11",
+                              "date":  "2026-09-15"
                           },
                           {
                               "title":  "Bardstown bridge dedicated to memory of Crystal Rogers, father Tommy Ballard",
@@ -727,6 +715,15 @@ window.NEWS_SNAPSHOT = {
                               "date":  "2026-09-15"
                           }
                       ],
+    "nickeisha-holloman":  [
+
+                           ],
+    "joe-leach":  [
+
+                  ],
+    "lian-nung":  [
+
+                  ],
     "anita-taylor":  [
 
                      ],
@@ -857,7 +854,12 @@ window.NEWS_SNAPSHOT = {
 
                        ],
     "tonka-george":  [
-
+                         {
+                             "title":  "10 years later, Tollette George’s murder remains unsolved",
+                             "url":  "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZmVadlJwZUtjNW93LUFucDJXWmY1dzVUU2ltM1dtamlBWlNfalNNbFYxczN0T0NUdnZBWmVEclpkWUhfc3RWWEpVa21ZUE1fYkFRVXN4QlRCQkI5S19MdGd1MDhjWkFELVJQWnZKV0Y4VUNzZlF4WTZEY0RaZGZvdDFKUHZ2ckdEV3UxTEJ2bGdDWEtwRVEwUDZuZ9IBoAFBVV95cUxOLTk1d0lDam81QnRudllDUnBSdmhNMzNfOVNrOEYxTHdGY3FMZTIxTnB4YjQtbXFfSS0zaExUeXhaY3dDWENaTFdLNFFDbTRhUGowZnJaN2dEbzR4WHBueWdtRlViUzg5RjlGZUs5RkpQSDVtdEJaVlBMTmFFQjcwd1djdVl5Z08yMHBYaGFHTkd3Vk8teFlDNXpQeGV3a25R?oc=5",
+                             "source":  "WGNO",
+                             "date":  "2026-06-25"
+                         }
                      ],
     "asha-degree":  [
                         {
@@ -1001,4 +1003,4 @@ window.NEWS_SNAPSHOT = {
 
                    ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-10-31 12:42";
+window.NEWS_SNAPSHOT_AT = "2026-11-01 01:58";
