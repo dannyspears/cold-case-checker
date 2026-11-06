@@ -197,3 +197,6 @@ one when we found none. Re-check rewards in the daily review and update REWARDS_
 - DNA: the state police 2022 release says the item was on the ground near the car; Wikipedia says the car. We follow the release. Maj. Trudeau's "ruled that information out" (Vermont Public, Mar 19, 2024) is about the DNA source.
 - Not named: her mother, housemate, the former friend (cleared), former boyfriend, the woman behind the statement, others arrested in the raid.
 - Maitland reel (Nov 6, 2026): `tools/make-maitland-reel.ps1` -> `video-work/brianna-maitland-reel.mp4` (16 slides, `render-reel.ps1 -NoSplit`; L15 = wise L10, L16 = bricca follow line). Post: `video-work/brianna-maitland-post.txt`. The video and post do not name the two men from the raid; the page does, with its caveats.
+
+## Analytics (Nov 6, 2026)
+- Cloudflare Web Analytics, set up by the owner; no cookies. `tools/add-analytics.ps1` puts the beacon before `</body>` on every top-level page, and `run-gen.ps1` runs it after every generator. Never change the token unless asked. `terms.html#analytics` discloses it.
