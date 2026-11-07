@@ -200,3 +200,13 @@ one when we found none. Re-check rewards in the daily review and update REWARDS_
 
 ## Analytics (Nov 6, 2026)
 - Cloudflare Web Analytics, set up by the owner; no cookies. `tools/add-analytics.ps1` puts the beacon before `</body>` on every top-level page, and `run-gen.ps1` runs it after every generator. Never change the token unless asked. `terms.html#analytics` discloses it.
+
+## Nicholas Kernan (#100, Corryville, Nov 7, 2026)
+- `tools/gen-kernan.ps1` (owner request: a Cincinnati-area murder from the last five years with victim and suspect images). Shot about 3 p.m. May 23, 2023, 2900 block of Bellevue Ave., while landscaping for Uptown Rental Properties. Police released images of a person of interest June 7, 2023 (`assets/img/kernan-poi-*.jpg`, via WCPO, WKRC, the Enquirer). He is never to be called a suspect or the killer: Capt. Saunders declined to call him one. A separate "one suspect" (May 2023) was never named, and it is unknown if it is the same person.
+- Stolen gun = his mother's statement only (Enquirer 2025). Gang initiation = his wife's account of what police told her (Enquirer 2024). Rewards ($10,000 Uptown, $2,500 Crime Stoppers) are `unconfirmed`: not re-reported since 2023.
+- Named because they spoke publicly: Melody, Kim and Bonnie Kernan, Katie Duncan, Dan Schimberg (WKRC spells it Shimberg). Not named: his twin brother, co-workers, neighbors. No AG listing or Websleuths thread; cincinnati.com blocks our tools, so the Enquirer was read through Yahoo copies. Newest report found: May 2025.
+
+## PowerShell trap: aliases beat functions
+- Never name a helper after a built-in alias. A helper called `Rd` ran Remove-Item instead and deleted `assets/cases.js` and `assets/rewards.js` (Nov 7, 2026; restored from git before any push). Other aliases to avoid: `rm`, `del`, `ri`, `rmdir`, `cp`, `mv`, `ls`, `gc`, `sc`, `cat`, `kill`, `h`, `r`.
+- If a generator reports that `cases.js` is missing, stop: `run-gen.ps1` still runs `build-states.ps1`, which empties the state pages. Check `git status` before pushing.
+- The `thaw` preview now serves the D: folder (checked Nov 7, 2026); opening a page by `file://` in the browser pane shows a snapshot with broken images.
