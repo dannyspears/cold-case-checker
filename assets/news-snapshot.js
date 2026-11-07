@@ -93,12 +93,6 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-09-15"
                             },
                             {
-                                "title":  "JonBenét Ramsey’s brother urges focus on DNA in cold case",
-                                "url":  "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YZm5QSWpfT2o4cEhDQ21kQ29sQmhlU2F2RzNFNTZXa0pMc3dtaWo2MldfYXd0ZGc2YmZkWDk0MnhkT3BkOUhsdlREcXp2LXFueFk2RzRqZGdMeVBsWk1nOVlzdy1Dd1BOWHNzTWo3blB3N01wOVhvQXRB0gF_QVVfeXFMTUdFcjQ0TXNhejlYcHJwOE5ZWHNmLTNsWlIzQTBNWTJOTFJYVFhaYzg1Z01CMFl0Q2VLVEV5OEVtakVmUmVtUWpraVJfZXI3QU05SXVQS2hrNjJQanZvM2R1cGlFZ09YbHpJZEh0QWJPeUQ4eTVEQlFOSVBGd2xSRQ?oc=5",
-                                "source":  "NewsNation",
-                                "date":  "2026-11-05"
-                            },
-                            {
                                 "title":  "‘JonBenét Ramsey: Race Against Time’ 20/20 special airs tonight - WSB-TV",
                                 "url":  "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXVKMnhCeUpnMXk0QU80LThKMWRTVWs5RHJoZFFseFk1Q191UkxoZDh6eE5tMWhLTTJWOHRwclotQkQ2anA0NWowbjQwLUdKVmtIOVpBcjFUVmFsT0dWT1JrbWlSWmNMdmQyREQxR2s3cTFsQXZtbkVSVHNoLWM2MHZrdHR0YVRKQVVaR3NZd2d6T1BQSlBWUkY1dEpCaUcwNkthTkZBejNVUml6eloyQ3oySW4tZlBmUjZZ0gHPAUFVX3lxTE14S2JvQnlXQm1SeGZYQ0dyLTlhUXB6NVVoNURIUFpxUmNtbUdEZUg4aF9QeEFMYWR3ZGw3LWp0a1dOTmNpWmNpWVlSYWxRdmlBU3dGZVptUVBxM0hGVjhpeGo4MzMwQWFLNVhsMXlfamRSZ2lXOXBmYmhwelQtNFViQzNIcmhPdEMzMnluWkloMGxVSVFXRGVONWV2OTRUQXAzTWtDR3g3M054WXJEUUJxbHpVdl8tcUFVOGp4cGdOb0ZGLTZaNjJ6WTVJWU5fVQ?oc=5",
                                 "source":  "WSB-TV",
@@ -109,6 +103,12 @@ window.NEWS_SNAPSHOT = {
                                 "url":  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcUQxbWZnNE9VSlJoRkRXVjkxNjEwWHQ1bHhFdW9JRnpzelZXV25PVFNxS1htYnZkTlNDQmltaWtpY3U2Um9wV3ltdzNoN2hOcV95ZS1ZY0R4S2hhcWoxZWc4U3J4LXhOSnJSc3JQY0FhNjNfZE1qSDZzd3oxNFhURmptVThWRDVBZnlEV3dhaW03cDg4LWdoM0p5dTNTclpTa2dXOHZKT2NISThfYmc?oc=5",
                                 "source":  "Entertainment Weekly",
                                 "date":  "2026-09-22"
+                            },
+                            {
+                                "title":  "JonBenét Ramsey’s brother urges focus on DNA in cold case",
+                                "url":  "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YZm5QSWpfT2o4cEhDQ21kQ29sQmhlU2F2RzNFNTZXa0pMc3dtaWo2MldfYXd0ZGc2YmZkWDk0MnhkT3BkOUhsdlREcXp2LXFueFk2RzRqZGdMeVBsWk1nOVlzdy1Dd1BOWHNzTWo3blB3N01wOVhvQXRB0gF_QVVfeXFMTUdFcjQ0TXNhejlYcHJwOE5ZWHNmLTNsWlIzQTBNWTJOTFJYVFhaYzg1Z01CMFl0Q2VLVEV5OEVtakVmUmVtUWpraVJfZXI3QU05SXVQS2hrNjJQanZvM2R1cGlFZ09YbHpJZEh0QWJPeUQ4eTVEQlFOSVBGd2xSRQ?oc=5",
+                                "source":  "NewsNation",
+                                "date":  "2026-11-05"
                             },
                             {
                                 "title":  "Fifty for 150: 6-year-old JonBenét Ramsey found dead in upscale Boulder home in 1996",
@@ -129,16 +129,16 @@ window.NEWS_SNAPSHOT = {
                                 "date":  "2026-09-09"
                             },
                             {
-                                "title":  "JonBenét Ramsey Murder Reexamined in New Diane Sawyer Investigation: Watch the Exclusive Trailer",
-                                "url":  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGhlVTNhVWxyWGhUQ3Y4VEhZREVsMEpScUdVTXp5bURHZ3ZQOHdLOXotSXc3R1haR0d3UHRLd3ZZVFZNd0YyNnByTWtxb29Kd29xRFlVR2dWS1Q4UThHb0ROWWhmSDJMY0tSQzIxWFRSelpwa2FmalVMWlpJMzlKR3BfdE9QbUhLc2pfbVhrQ0hkbk9MaktYLXVWTHRxQ2pENUk4eWU2Z29zODBTeC1iQkFmbUJxdl82bG10ZXBfdjA?oc=5",
-                                "source":  "People.com",
-                                "date":  "2026-11-02"
-                            },
-                            {
                                 "title":  "Melissa McCarthy Shares Her Theory on JonBenét Ramsey Case Ahead of Netflix Drama",
                                 "url":  "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXhjbG1BaDlIaDJIcGpRenRzZy1tTENTUlNCRXQ1Tzg3dFRWel96MkpBZUV2cVZXb0QyNDBSR1VKX2pOOGRIM2o3bFIxb3JfdmJ1OHpXUGp0UkZpSkpHMi1WZGpZaGF1VkR0aWsxazZNZ1lDdGM0TEM0UkpwWk9kR3ZKYXg5SFRVa2lIQmRn?oc=5",
                                 "source":  "TV Insider",
                                 "date":  "2026-09-22"
+                            },
+                            {
+                                "title":  "JonBenét Ramsey Murder Reexamined in New Diane Sawyer Investigation: Watch the Exclusive Trailer",
+                                "url":  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGhlVTNhVWxyWGhUQ3Y4VEhZREVsMEpScUdVTXp5bURHZ3ZQOHdLOXotSXc3R1haR0d3UHRLd3ZZVFZNd0YyNnByTWtxb29Kd29xRFlVR2dWS1Q4UThHb0ROWWhmSDJMY0tSQzIxWFRSelpwa2FmalVMWlpJMzlKR3BfdE9QbUhLc2pfbVhrQ0hkbk9MaktYLXVWTHRxQ2pENUk4eWU2Z29zODBTeC1iQkFmbUJxdl82bG10ZXBfdjA?oc=5",
+                                "source":  "People.com",
+                                "date":  "2026-11-02"
                             },
                             {
                                 "title":  "Here\u0027s how you can watch the ‘JonBenét Ramsey: Race Against Time’ 20/20 special, \u0027Celebrity Wheel of Fortune\u0027 on WFAA",
@@ -713,12 +713,6 @@ window.NEWS_SNAPSHOT = {
                               "url":  "https://news.google.com/rss/articles/CBMingFBVV95cUxPclNNVWZqaTRsWFpMVklRU2t2UWZxNTAtVGRpWEV3M0VzSXk1SURzaFRHdFFwZTNUUV95UTA2dGxnU1JzcGxoa1Rfc042MDZzS1h1T0p1VFpVYnFlOUc1VnhlU1ZVbGpqRGJaY3JPVjlMYWt1VEF1ak9ORE9uak5Rb2lTWXpJLUNKRldkQndlQzBmTUktN1VIUWE4MXcxdw?oc=5",
                               "source":  "WLKY",
                               "date":  "2026-09-15"
-                          },
-                          {
-                              "title":  "Crystal Rogers and Tommy Ballard to be memorialized with Bardstown bridge",
-                              "url":  "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTURWamRGV0NicEZPNFdPS0tHc1hvcElOVkJ1QzBGYlVXY1RlWW9pNVFOaWd5R2d6RVZ1dGNjamhxa1doOTV1RGtNTnk4UEZaeldYdC1qSWtidVBsckdmcVhDZkVyZ0F1RWMxbFJONURvZGlzcTg4MXRJRGcyUkFuSHpvYk03Ym1nSUNJSFRLRmpQTW9FLXVQdkJibk4wUjA4Zzdpelo3UVFFbXdwMUgyYVhoQnpoaEZ4YTFPS2NYeTNzN2FndFFmS3lVOFA3MlhWUTdWNkIwWVdZNnI4OFNSNElPQndwZ1BsZmRwb1B3?oc=5",
-                              "source":  "WHAS11",
-                              "date":  "2026-09-15"
                           }
                       ],
     "nickeisha-holloman":  [
@@ -733,6 +727,9 @@ window.NEWS_SNAPSHOT = {
     "nicholas-kernan":  [
 
                         ],
+    "alan-holcomb":  [
+
+                     ],
     "anita-taylor":  [
 
                      ],
@@ -1012,4 +1009,4 @@ window.NEWS_SNAPSHOT = {
 
                    ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-11-07 09:59";
+window.NEWS_SNAPSHOT_AT = "2026-11-07 12:18";
