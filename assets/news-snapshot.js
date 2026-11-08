@@ -692,15 +692,15 @@ window.NEWS_SNAPSHOT = {
     "tommy-ballard":  [
                           {
                               "title":  "Bardstown bridge dedicated to Crystal Rogers and Tommy Ballard",
-                              "url":  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQXFNaE5IV3c4cTBuUl95U3NUX09BM2VSc1VITGRXbGdwRENkaFhSVUdSdUNjMWt4YXd2dkg0djNHY3U5Y1NNSFJBZWxvX253Rk9JeWcxRXRXblN5T2tFdnhjVXRMd3Ata2d0a2tCUk83RkRBOXN3YzBhWnNQWlRUR0o0MTBJZ3NuNWNPQ1JhV1c3UQ?oc=5",
-                              "source":  "Spectrum News",
-                              "date":  "2026-09-16"
-                          },
-                          {
-                              "title":  "Bardstown bridge dedicated to Crystal Rogers and Tommy Ballard",
                               "url":  "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUmtQTUdELVRUMTNWVFkxbkQ1cFNXSmR5WFFGTnZBOGpoNDZhTkxpYmJaYVlTaV90cVlGazFQNFRxYVVwV3FqZTY0d2hoZkZuNkNmdTlmVFpBSEd3VHhuWkp3d1RSdWJkSmpyQVZxNDA5RWZ6SGU2SkR5aHZHRzRIOVRiZnhZREZxelVOSkFqbmhZZ9IBpgFBVV95cUxQVGVyb0swdENxTXgyRGh6YTBJRUZIaVEtdTVseUM4ZXdBLTNtclU4Sl8tWmpsVGVBNE9sZV95T1dLV3Y3eU53VWNfQUV1V1BFYXBuaG1ZVDBrWHVHYVQxYzJ2SW8zQmhBakVwX1dXWEhfZ0dpSGV3NlBRdENmSXRGVmFyajdoYjhQUmNpWXBSYV9DMHl1R3NXQ1lST3ctQTdBVWVReFBn?oc=5",
                               "source":  "WBKO",
                               "date":  "2026-09-15"
+                          },
+                          {
+                              "title":  "Bardstown bridge dedicated to Crystal Rogers and Tommy Ballard",
+                              "url":  "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQXFNaE5IV3c4cTBuUl95U3NUX09BM2VSc1VITGRXbGdwRENkaFhSVUdSdUNjMWt4YXd2dkg0djNHY3U5Y1NNSFJBZWxvX253Rk9JeWcxRXRXblN5T2tFdnhjVXRMd3Ata2d0a2tCUk83RkRBOXN3YzBhWnNQWlRUR0o0MTBJZ3NuNWNPQ1JhV1c3UQ?oc=5",
+                              "source":  "Spectrum News",
+                              "date":  "2026-09-16"
                           },
                           {
                               "title":  "\u0027I\u0027ll be honored every time.\u0027 | Crystal Rogers and Tommy Ballard memorialized with Bardstown bridge",
@@ -731,6 +731,9 @@ window.NEWS_SNAPSHOT = {
 
                      ],
     "shirley-vaughn":  [
+
+                       ],
+    "desiree-cherry":  [
 
                        ],
     "anita-taylor":  [
@@ -832,12 +835,6 @@ window.NEWS_SNAPSHOT = {
                              "url":  "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kRV9NQ2ZWNEVpdGxQVDNlZmxmSjBLc3pXZzZKRzhQUTJqZkpKRGxXT3dmZ0c1MkthejdVYWQwUTRLdlJrTDhndmlKamdzbDNLeWFOMFlIbzB3M2FRWGV6eTNpMXBmSmNRSXVIaWdZRVA5eWhIVzR0dg?oc=5",
                              "source":  "A\u0026E",
                              "date":  "2026-07-07"
-                         },
-                         {
-                             "title":  "Who Killed Missy Bevers?",
-                             "url":  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOM1lEOEZfQ3FrcWNLMDFTc1QtSWdpT2ZfUzdyVW1ZSi1RRHd0eEdNa0ctNEhvUEhSZGxZeFpBN3ROUUc5ZDEtQmNucVpjZ0NEQ2ZHS3R4bmVNZjJh?oc=5",
-                             "source":  "YouTube",
-                             "date":  "2026-06-09"
                          },
                          {
                              "title":  "FITNESS MOM, MISSY BEVERS, BLUDGEONED DEAD IN CHURCH BASEMENT",
@@ -1012,4 +1009,4 @@ window.NEWS_SNAPSHOT = {
 
                    ]
 };
-window.NEWS_SNAPSHOT_AT = "2026-11-08 10:40";
+window.NEWS_SNAPSHOT_AT = "2026-11-08 12:03";
