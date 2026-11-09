@@ -270,3 +270,12 @@ a.chip{text-decoration:none;display:inline-block}
 .soc:hover,.soc:focus-visible{filter:brightness(1.12);transform:translateY(-1px)}
 .soc:focus-visible{outline:2px solid var(--ink);outline-offset:2px}
 @media (max-width:600px){.mast-side{align-items:flex-start}}
+
+/* Video series (add-videos.ps1) */
+.reels{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:16px}
+.reel{margin:0;background:var(--panel);border:1px solid var(--rule);display:flex;flex-direction:column;min-width:0}
+.reel video{display:block;width:100%;aspect-ratio:9/16;background:#000;max-width:100%}
+.reel figcaption{padding:10px 12px;display:flex;flex-direction:column;gap:2px}
+.reel figcaption small{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--signal)}
+.reel figcaption strong{font-family:var(--type);font-size:17px}
+.reel figcaption span{color:var(--muted);font-size:14px}
