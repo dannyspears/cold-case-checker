@@ -57,12 +57,13 @@
     if (cityBox) cityBox.addEventListener("change", function (e) { if (e.target.id === "city-select") setCity(e.target.value); });    var render = function (q) {
       var r = (q || cityFilter) ? matches(q || "") : cases;
       // No search: show the top nine, and fold every other case behind a "More cases" toggle. A search shows all matches.
-      var top = r.filter(function (c) { return c.rank <= 9; }), rest = r.filter(function (c) { return c.rank > 9; });
-      if (q || !rest.length) { tiles.innerHTML = r.map(tile).join(""); }
+      // The "top nine" tiles were removed at the owner's request (Nov 9, 2026); every case sits in one folded list.
+      var rest = r;
+      if (q || cityFilter || !rest.length) { tiles.innerHTML = r.map(tile).join(""); }
       else {
-        tiles.innerHTML = top.map(tile).join("") +
-          '<details class="more-cases" id="more-cases"' + (moreOpen ? " open" : "") + '><summary>More cases (' + rest.length + ")</summary>" +
-          '<p class="fine">These files are not ranked. They are listed in the order they were researched.</p>' +
+        tiles.innerHTML =
+          '<details class="more-cases" id="more-cases"' + (moreOpen ? " open" : "") + '><summary>All cases (' + rest.length + ")</summary>" +
+          '<p class="fine">Listed in the order they were researched.</p>' +
           '<div class="grid">' + rest.map(tile).join("") + "</div></details>";
         var md = document.getElementById("more-cases");
         if (md) md.addEventListener("toggle", function () { moreOpen = md.open; });
