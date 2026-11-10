@@ -59,9 +59,11 @@
       // No search: show the top nine, and fold every other case behind a "More cases" toggle. A search shows all matches.
       // The "top nine" tiles were removed at the owner's request (Nov 9, 2026); every case sits in one folded list.
       var rest = r;
+      // Most visited cases (assets/popular.js), shown without rank numbers, above the folded full list.
+      var pop = (window.POPULAR && window.POPULAR.slugs || []).map(function (s) { return cases.filter(function (c) { return c.slug === s; })[0]; }).filter(Boolean);
       if (q || cityFilter || !rest.length) { tiles.innerHTML = r.map(tile).join(""); }
       else {
-        tiles.innerHTML =
+        tiles.innerHTML = pop.map(function (c) { return tile(c).replace(/<span class="rank">[^<]*<\/span>/, ""); }).join("") +
           '<details class="more-cases" id="more-cases"' + (moreOpen ? " open" : "") + '><summary>All cases (' + rest.length + ")</summary>" +
           '<p class="fine">Listed in the order they were researched.</p>' +
           '<div class="grid">' + rest.map(tile).join("") + "</div></details>";
@@ -69,6 +71,7 @@
         if (md) md.addEventListener("toggle", function () { moreOpen = md.open; });
       }
       var topTitle = document.getElementById("top-title"); if (topTitle) topTitle.hidden = !!q;
+      var popNote = document.getElementById("pop-note"); if (popNote && window.POPULAR) popNote.textContent = "By page views over " + window.POPULAR.period + ". Updated " + window.POPULAR.updated + ".";
       if (none) none.hidden = r.length > 0;
       var bits = [];
       if (cityFilter) bits.push("in " + cityFilter);

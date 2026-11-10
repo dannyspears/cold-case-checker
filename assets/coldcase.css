@@ -279,3 +279,5 @@ a.chip{text-decoration:none;display:inline-block}
 .reel figcaption small{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--signal)}
 .reel figcaption strong{font-family:var(--type);font-size:17px}
 .reel figcaption span{color:var(--muted);font-size:14px}
+.top-title h3{font:inherit;margin:0}
+.top-title .fine{margin:4px 0 0;font-family:var(--serif);font-size:14px;border:0}
