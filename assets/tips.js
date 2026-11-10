@@ -36,7 +36,7 @@ window.COLDCASE_TIPS = {
     '<label for="tip-email">Your email (optional, only if you want us to follow up)</label>' +
     '<input id="tip-email" name="contact_email" type="email" maxlength="140" autocomplete="email">' +
     '<p class="hint">We do not ask for your name. The form service we use may record technical details such as your IP address. For stronger anonymity, use the FBI or a Crime Stoppers line instead.</p>' +
-    '<div class="tip-trap" aria-hidden="true"><label>Leave this empty <input name="website" tabindex="-1" autocomplete="off"></label></div>' +
+    '<div class="tip-trap" aria-hidden="true"><label>Leave this empty <input name="_gotcha" tabindex="-1" autocomplete="off"></label></div>' +
     '<input type="hidden" name="case" value="' + esc(slug) + '"><input type="hidden" name="page" value="">' +
     '<input type="hidden" name="_subject" value="Cold Case Checker clue: ' + esc(name) + '">' +
     '<label class="tip-ack"><input type="checkbox" name="ack" id="tip-ack" required> I understand this is not a report to police, that my submission may be shared with the investigating agency, and that false or malicious claims about real people are not allowed.</label>' +
@@ -50,7 +50,7 @@ window.COLDCASE_TIPS = {
   if (!on) { Array.prototype.forEach.call(f.elements, function (el) { if (el.type !== "hidden") el.disabled = true; }); return; }
   f.addEventListener("submit", function (e) {
     e.preventDefault();
-    if (f.website.value) return;                              // bot trap
+    if (f._gotcha.value) return;                              // bot trap
     if (Date.now() - loaded < 4000) { st.textContent = "Please take a moment to review your clue, then send again."; return; }
     if (!f.details.value.trim()) { st.textContent = "Please describe what you know first."; return; }
     if (!f.ack.checked) { st.textContent = "Please tick the box to confirm you understand."; return; }

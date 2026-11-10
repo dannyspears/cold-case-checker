@@ -82,7 +82,7 @@
   <label for="f-email">Your email (optional; never published)</label>
   <input id="f-email" name="contact_email" type="email" maxlength="140" autocomplete="email">
 
-  <div style="position:absolute;left:-9999px" aria-hidden="true"><label>Leave this empty <input name="website" tabindex="-1" autocomplete="off"></label></div>
+  <div style="position:absolute;left:-9999px" aria-hidden="true"><label>Leave this empty <input name="_gotcha" tabindex="-1" autocomplete="off"></label></div>
 
   <label style="display:flex;gap:10px;align-items:flex-start;font:14px/1.5 var(--serif)"><input type="checkbox" id="f-ok" required style="width:auto;margin-top:5px"> I understand this site publishes only sourced, reviewed information, and that this is not a way to report a crime.</label>
 
@@ -93,7 +93,7 @@
 <div id="site-contact"></div>
 <footer class="footer"><div class="foot-links"><a href="index.html">Home</a><a href="terms.html">Terms of Use</a></div></footer>
 </div>
-<script src="assets/submit.js"></script>
+<script src="assets/submit.js?v=20261109"></script>
 <script>
 // Browser validation (the form has novalidate so we can show our own message)
 document.getElementById("submit-form").addEventListener("submit", function (e) {

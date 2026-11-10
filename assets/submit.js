@@ -11,8 +11,9 @@ window.SUBMIT_ENDPOINT = "https://formspree.io/f/xaeqdleo";
   form.addEventListener("submit", function (e) {
     e.preventDefault();
     var fd = new FormData(form);
-    if (fd.get("website")) return; // honeypot: real people leave this empty
-    var data = {}; fd.forEach(function (v, k) { if (k !== "website") data[k] = String(v).trim(); });
+    // Spam trap: hidden field named _gotcha (browsers do not autofill it). Formerly "website", which autofill sometimes filled, silently dropping real entries.
+    if (fd.get("_gotcha")) { form.reset(); say("<b>Thank you.</b> Your submission was received."); return; }
+    var data = {}; fd.forEach(function (v, k) { if (k !== "_gotcha") data[k] = String(v).trim(); });
     var text = Object.keys(data).map(function (k) { return k + ": " + data[k]; }).join("\n");
     if (!window.SUBMIT_ENDPOINT) {
       say('<b>Submissions are not connected yet.</b> Nothing was sent. You can copy your entry below and send it to the site owner once a contact method is published.' +
