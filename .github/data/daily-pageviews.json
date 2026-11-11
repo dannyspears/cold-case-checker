@@ -96,23 +96,35 @@
   "/zodiac.html": 5
  },
  "2026-11-10": {
-  "/": 18,
+  "/": 23,
   "/alan-holcomb.html": 1,
   "/amy-mihaljevic.html": 1,
-  "/black-dahlia.html": 1,
+  "/black-dahlia.html": 3,
   "/branson-perry.html": 1,
   "/brianna-maitland.html": 1,
   "/bricca-family.html": 3,
+  "/cheryl-fossyl.html": 1,
   "/christian-moretti.html": 1,
   "/gerald-johnson.html": 1,
-  "/index.html": 9,
+  "/heidi-bake.html": 1,
+  "/index.html": 10,
   "/james-heath.html": 4,
-  "/jennifer-cohen.html": 1,
+  "/jason-wynn.html": 4,
+  "/jennifer-cohen.html": 3,
   "/lesley-sparrow.html": 1,
-  "/shirley-vaughn.html": 3,
+  "/shirley-vaughn.html": 4,
   "/state-new-york.html": 2,
-  "/submit.html": 4,
+  "/submit.html": 5,
   "/texas-killing-fields.html": 1,
   "/zodiac.html": 8
+ },
+ "2026-11-11": {
+  "/": 11,
+  "/branson-perry.html": 3,
+  "/desiree-cherry.html": 3,
+  "/jason-wynn.html": 1,
+  "/raymond-wells.html": 1,
+  "/tom-biedenharn.html": 1,
+  "/zodiac.html": 2
  }
 }
