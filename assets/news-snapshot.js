@@ -733,9 +733,6 @@ window.NEWS_SNAPSHOT = {
     "shirley-vaughn":  [
 
                        ],
-    "desiree-cherry":  [
-
-                       ],
     "anita-taylor":  [
 
                      ],
