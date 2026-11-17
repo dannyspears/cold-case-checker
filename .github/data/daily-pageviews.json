@@ -176,14 +176,30 @@
   "/zodiac.html": 8
  },
  "2026-11-16": {
-  "/": 8,
+  "/": 16,
+  "/asha-degree.html": 4,
   "/betty-gail-brown.html": 1,
-  "/branson-perry.html": 1,
+  "/black-dahlia.html": 2,
+  "/branson-perry.html": 2,
   "/dumler-family.html": 2,
+  "/jennifer-kesse.html": 2,
   "/lesley-sparrow.html": 2,
   "/lindsay-bogan.html": 1,
   "/state-ohio.html": 1,
+  "/submit.html": 2,
   "/tom-biedenharn.html": 1,
   "/zodiac.html": 3
+ },
+ "2026-11-17": {
+  "/": 12,
+  "/branson-perry.html": 2,
+  "/brianna-maitland.html": 1,
+  "/cassidy-family.html": 3,
+  "/greta-henson.html": 1,
+  "/springfield-three.html": 1,
+  "/state-california.html": 1,
+  "/stephenson-murders.html": 3,
+  "/tonka-george.html": 1,
+  "/zodiac.html": 1
  }
 }
