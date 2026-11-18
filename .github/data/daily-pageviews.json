@@ -191,15 +191,26 @@
   "/zodiac.html": 3
  },
  "2026-11-17": {
-  "/": 12,
+  "/": 15,
   "/branson-perry.html": 2,
+  "/brian-thompson.html": 1,
   "/brianna-maitland.html": 1,
+  "/cameron-franklin.html": 1,
   "/cassidy-family.html": 3,
   "/greta-henson.html": 1,
   "/springfield-three.html": 1,
   "/state-california.html": 1,
+  "/state-ohio.html": 1,
   "/stephenson-murders.html": 3,
   "/tonka-george.html": 1,
   "/zodiac.html": 1
+ },
+ "2026-11-18": {
+  "/": 5,
+  "/adams-marcelin.html": 1,
+  "/cameron-franklin.html": 1,
+  "/springfield-three.html": 2,
+  "/state-louisiana.html": 2,
+  "/villisca.html": 3
  }
 }
