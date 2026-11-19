@@ -206,11 +206,26 @@
   "/zodiac.html": 1
  },
  "2026-11-18": {
-  "/": 5,
+  "/": 7,
   "/adams-marcelin.html": 1,
+  "/bricca-family.html": 1,
   "/cameron-franklin.html": 1,
+  "/greta-henson.html": 1,
   "/springfield-three.html": 2,
   "/state-louisiana.html": 2,
   "/villisca.html": 3
+ },
+ "2026-11-19": {
+  "/": 8,
+  "/abrams-francis.html": 1,
+  "/amy-mihaljevic.html": 1,
+  "/branson-perry.html": 1,
+  "/christopher-walker.html": 1,
+  "/happy-thomas.html": 1,
+  "/springfield-three.html": 4,
+  "/state-kentucky.html": 1,
+  "/state-ohio.html": 1,
+  "/tom-biedenharn.html": 1,
+  "/zodiac.html": 1
  }
 }
