@@ -1,4 +1,4 @@
 // Most visited case pages, from Cloudflare Web Analytics (all-time page views, bots excluded).
 // Written every night by .github/scripts/update_popular.py; do not edit by hand.
-// Counts: zodiac 59, branson-perry 20, alan-holcomb 16, brianna-maitland 13, james-heath 13
-window.POPULAR = { updated: "Nov 19, 2026", period: "all time (tracking began Nov 6, 2026)", slugs: ["zodiac", "branson-perry", "alan-holcomb", "brianna-maitland", "james-heath"] };
+// Counts: zodiac 60, branson-perry 20, alan-holcomb 16, brianna-maitland 13, james-heath 13
+window.POPULAR = { updated: "Nov 20, 2026", period: "all time (tracking began Nov 6, 2026)", slugs: ["zodiac", "branson-perry", "alan-holcomb", "brianna-maitland", "james-heath"] };

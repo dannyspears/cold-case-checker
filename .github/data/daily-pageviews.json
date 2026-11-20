@@ -216,7 +216,7 @@
   "/villisca.html": 3
  },
  "2026-11-19": {
-  "/": 8,
+  "/": 9,
   "/abrams-francis.html": 1,
   "/amy-mihaljevic.html": 1,
   "/branson-perry.html": 1,
@@ -224,8 +224,22 @@
   "/happy-thomas.html": 1,
   "/springfield-three.html": 4,
   "/state-kentucky.html": 1,
+  "/state-maine.html": 1,
   "/state-ohio.html": 1,
   "/tom-biedenharn.html": 1,
+  "/zodiac.html": 1
+ },
+ "2026-11-20": {
+  "/": 8,
+  "/broderick-mcghee.html": 1,
+  "/chris-stafford.html": 1,
+  "/cora-durham.html": 1,
+  "/micah-wise.html": 1,
+  "/springfield-three.html": 1,
+  "/state-ohio.html": 1,
+  "/stephenson-murders.html": 1,
+  "/tom-biedenharn.html": 1,
+  "/villisca.html": 1,
   "/zodiac.html": 1
  }
 }
