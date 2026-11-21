@@ -230,16 +230,25 @@
   "/zodiac.html": 1
  },
  "2026-11-20": {
-  "/": 8,
+  "/": 11,
   "/broderick-mcghee.html": 1,
   "/chris-stafford.html": 1,
   "/cora-durham.html": 1,
   "/micah-wise.html": 1,
-  "/springfield-three.html": 1,
+  "/springfield-three.html": 2,
+  "/state-georgia.html": 1,
   "/state-ohio.html": 1,
   "/stephenson-murders.html": 1,
   "/tom-biedenharn.html": 1,
   "/villisca.html": 1,
   "/zodiac.html": 1
+ },
+ "2026-11-21": {
+  "/": 4,
+  "/anita-taylor.html": 2,
+  "/branson-perry.html": 1,
+  "/brianna-maitland.html": 1,
+  "/springfield-three.html": 1,
+  "/zodiac.html": 5
  }
 }
