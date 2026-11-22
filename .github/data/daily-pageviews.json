@@ -244,11 +244,25 @@
   "/zodiac.html": 1
  },
  "2026-11-21": {
-  "/": 4,
-  "/anita-taylor.html": 2,
-  "/branson-perry.html": 1,
+  "/": 8,
+  "/anita-taylor.html": 3,
+  "/branson-perry.html": 2,
+  "/brianna-maitland.html": 2,
+  "/index.html": 3,
+  "/springfield-three.html": 2,
+  "/state-rhode-island.html": 1,
+  "/state-vermont.html": 1,
+  "/states.html": 3,
+  "/zodiac.html": 7
+ },
+ "2026-11-22": {
+  "/": 5,
   "/brianna-maitland.html": 1,
-  "/springfield-three.html": 1,
-  "/zodiac.html": 5
+  "/donate.html": 1,
+  "/index.html": 1,
+  "/nancy-guthrie.html": 2,
+  "/springfield-three.html": 3,
+  "/states.html": 1,
+  "/zodiac.html": 6
  }
 }
