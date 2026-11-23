@@ -256,13 +256,22 @@
   "/zodiac.html": 7
  },
  "2026-11-22": {
-  "/": 5,
+  "/": 7,
+  "/alan-holcomb.html": 1,
   "/brianna-maitland.html": 1,
   "/donate.html": 1,
   "/index.html": 1,
-  "/nancy-guthrie.html": 2,
+  "/nancy-guthrie.html": 4,
   "/springfield-three.html": 3,
+  "/state-ohio.html": 2,
   "/states.html": 1,
-  "/zodiac.html": 6
+  "/zodiac.html": 7
+ },
+ "2026-11-23": {
+  "/": 6,
+  "/brianna-maitland.html": 2,
+  "/state-missouri.html": 1,
+  "/villisca.html": 1,
+  "/zodiac.html": 8
  }
 }
