@@ -292,19 +292,31 @@
   "/zodiac.html": 5
  },
  "2026-11-25": {
-  "/": 6,
+  "/": 13,
   "/alan-holcomb.html": 1,
   "/amy-mihaljevic.html": 1,
   "/black-dahlia.html": 1,
   "/branson-perry.html": 1,
   "/brianna-maitland.html": 3,
+  "/bricca-family.html": 1,
+  "/donate.html": 1,
   "/dumler-family.html": 1,
+  "/index.html": 1,
   "/jonbenet-ramsey.html": 2,
   "/notorious-big.html": 1,
   "/springfield-three.html": 1,
   "/state-florida.html": 1,
   "/state-illinois.html": 1,
+  "/states.html": 1,
   "/villisca.html": 2,
-  "/zodiac.html": 7
+  "/zodiac.html": 8
+ },
+ "2026-11-26": {
+  "/": 5,
+  "/anita-taylor.html": 2,
+  "/brianna-maitland.html": 2,
+  "/jason-wynn.html": 2,
+  "/villisca.html": 1,
+  "/zodiac.html": 1
  }
 }
